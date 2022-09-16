@@ -38,4 +38,4 @@ jobs:
       - name: Save file
         uses: tj-actions/changed-files@v29.0.7
         with:
-          files: ./README.md
+          files: README.md
