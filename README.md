@@ -1,4 +1,4 @@
-# AK#Awesome
+# Awesome AK
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -51,6 +51,23 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 ### Books
 - [Standard Ebooks](https://standardebooks.org/ebooks) - Free and liberated ebooks, carefully produced for the true book lover.
 - [How to Design Programs, Second Edition](https://htdp.org/2022-6-7/Book/index.html)
+
+### Dotfiles
+- [NNBnh/dotfiles](https://github.com/NNBnh/dotfiles) - Tiny and simple personal Đotfiles that can be bootstrap with a single command!
+- [BrodieRobertson/dotfiles](https://github.com/BrodieRobertson/dotfiles) - Various configuration files for programs that Brodie Robertson use
+- [Qtile Example](https://github.com/qtile/qtile-examples) - Example configurations and scripts for Qtile
+- [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
+- [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) - The Primeagen mostly NeoVim dotfiles
+- [Nix Config](https://github.com/gvolpe/nix-config) - Current, and always evolving. NixOS configuration files, home-manager, neovim, etc.
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - Aesthetic OpenboxWM Environment
+
+### Lists
+- [dotfiles.github.io](https://dotfiles.github.io/inspiration/) - Your unofficial guide to dotfiles on GitHub.
+- [Plaintext Everything](https://github.com/captn3m0/plaintext-everything) - A list of tools and articles helpful for keeping everything under plaintext.
+- [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown) - A curated list of delightful Markdown stuff.
+- [Awesome Newsletters](https://github.com/learn-anything/newsletters)
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [awesome-console-services](https://github.com/NNBnh/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 
 ## DevTools
 
@@ -240,25 +257,6 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [DevDocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
 - [Media Bias/Fact Check](https://mediabiasfactcheck.com/) - Search and Learn the Bias of News Media
 - [Quote Investigator](https://quoteinvestigator.com/) - Tracing Quotations
-
-## Collection
-
-### Dotfiles
-- [NNBnh/dotfiles](https://github.com/NNBnh/dotfiles) - Tiny and simple personal Đotfiles that can be bootstrap with a single command!
-- [BrodieRobertson/dotfiles](https://github.com/BrodieRobertson/dotfiles) - Various configuration files for programs that Brodie Robertson use
-- [Qtile Example](https://github.com/qtile/qtile-examples) - Example configurations and scripts for Qtile
-- [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
-- [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) - The Primeagen mostly NeoVim dotfiles
-- [Nix Config](https://github.com/gvolpe/nix-config) - Current, and always evolving. NixOS configuration files, home-manager, neovim, etc.
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - Aesthetic OpenboxWM Environment
-
-### Lists
-- [dotfiles.github.io](https://dotfiles.github.io/inspiration/) - Your unofficial guide to dotfiles on GitHub.
-- [Plaintext Everything](https://github.com/captn3m0/plaintext-everything) - A list of tools and articles helpful for keeping everything under plaintext.
-- [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown) - A curated list of delightful Markdown stuff.
-- [Awesome Newsletters](https://github.com/learn-anything/newsletters)
-- [Build your own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [awesome-console-services](https://github.com/NNBnh/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 
 ## Wishlist
 - [tai (Terminal Ascii Images)](https://github.com/MustafaSalih1993/tai) - Tool to convert images to text written in Rust
