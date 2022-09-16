@@ -81,19 +81,51 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Google Fonts](https://fonts.google.com/?ref=producthunt) - Making the web more beautiful, fast, and open through great typography
 - [UNPKG](https://unpkg.com/) - a fast, global content delivery network for everything on npm. Use it to quickly and easily load any file from any package using a URL
 
-### API
+### Code
 
-#### Open Graph
+#### Libraries
+
+##### UI
+- [Pollen](https://www.pollen.style/) - A configurable library of CSS variables. It lets you write faster, more consistent, and more maintainable styles. Use it in any stack and easily extend it as a build tool for your own custom design systems.
+- [Neumorphism UI](https://demo.themesberg.com/neumorphism-ui/?ref=glass-ui-generator) - Inspired User Interface Kit that will help you prototype and design beautiful, creative and modern websites.
+- [UI Kitten](https://akveo.github.io/react-native-ui-kitten/?utm_source=colors-eva&utm_medium=footer) - React Native UI Library based on Eva Design System
+
+##### Avatars
+- [Multiavatar](https://github.com/multiavatar/Multiavatar?ref=producthunt) - Multicultural Avatar Generator in JavaScript
+- [react nice avatar](https://github.com/dapi-labs/react-nice-avatar) - React library for generating avatar
+- [Boring Avatars](https://github.com/boringdesigners/boring-avatars) - A tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
+
+##### Animation
+- [AutoAnimate](https://auto-animate.formkit.com/#installation) - Add motion to your apps with a single line of code.
+- [MailtoUI](https://mailtoui.com/) - A simple way to enhance your mailto links with a convenient user interface.
+- [Pixel It](https://giventofly.github.io/pixelit/#tryit) - Create pixel art from an image
+- [Tufte CSS](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
+- [fireworks.js](https://github.com/crashmax-dev/fireworks-js) - A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.
+
+#### Framework
+- [fresh](https://fresh.deno.dev/) - The next-gen web framework.
+- [Ultra](https://ultrajs.dev/) - The Quest for Zero-Legacy
+- [SolidJS](https://www.solidjs.com/) - Reactive Javascript Library
+- [Preact](https://preactjs.com/) - Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+- [Alpine.js](https://alpinejs.dev/) - Your new, lightweight, JavaScript framework.
+- [Qwik](https://qwik.builder.io/) - Framework reimagined for the edge!
+- [Gatsby](https://www.gatsbyjs.com/) - The Fastest Frontend for the Headless Web
+- [Eleventy](https://www.11ty.dev/) - A simpler static site generator
+- [Lume](https://lume.land/) - The static site generator for Deno
+
+#### API
+
+##### Open Graph
 - [Open Graph Image as a Service](https://og-image.vercel.app/) - A service to generate dynamic Open Graph images on-the-fly for the purpose of sharing a website to social media. Proudly hosted on Vercel.
 - [ogsupa](https://ogsupa.com/) - og:supa is an open-source og:image generator! All you have to do is add our <meta> tag to your HTML <head> and you're good to go!
 - [Opengraph image as a service](https://og-image.xyz/?ref=producthunt) - A simple opengraph image generator
 - [Imgen](https://www.jitbit.com/imgen/) - generate and hotlink open graph social images
 
-#### Badges
+##### Badges
 - [Shields.io](https://shields.io/) - Quality metadata badges for open source projects
 - [Badgen](https://badgen.net/) - Fast badge generating service
 
-#### Image
+##### Image
 - [LoremFlickr](https://loremflickr.com/) - free placeholder images
 - [PlaceIMG](https://placeimg.com/) - Easy FPO and Dummy Images for Any Project
 - [Unsplash Source](https://web.archive.org/web/20211126022703/https://source.unsplash.com/) - A Simple API for Embedding Free Photos from Unsplash
@@ -102,37 +134,11 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Lorem.space](https://lorem.space/api) - placeholder image generator
 - [Pravatar](https://pravatar.cc/) - CC0 Avatar Placeholder
 
-#### Icon
+##### Icon
 - [Icotar](https://icotar.com/?ref=producthunt) - Colorful Icon Avatars
 - [99 Avatars](https://99avatars.com/api-docs) - Avatars generator
 - [unavatar.io](https://unavatar.io/?ref=producthunt) - get unified user avatar from Twitter, GitHub, Intagram, Reddit, etc.
 - [OpenAPI.Tools](https://openapi.tools/) - To keep API developers up to date with the best OpenAPI tooling around, and help direct folks to high quality modern tooling, instead of being stuck on old v2-based rubbish.
-
-### Libraries
-
-#### UI
-- [Pollen](https://www.pollen.style/) - A configurable library of CSS variables. It lets you write faster, more consistent, and more maintainable styles. Use it in any stack and easily extend it as a build tool for your own custom design systems.
-- [Neumorphism UI](https://demo.themesberg.com/neumorphism-ui/?ref=glass-ui-generator) - Inspired User Interface Kit that will help you prototype and design beautiful, creative and modern websites.
-- [UI Kitten](https://akveo.github.io/react-native-ui-kitten/?utm_source=colors-eva&utm_medium=footer) - React Native UI Library based on Eva Design System
-
-#### Avatars
-- [Multiavatar](https://github.com/multiavatar/Multiavatar?ref=producthunt) - Multicultural Avatar Generator in JavaScript
-- [react nice avatar](https://github.com/dapi-labs/react-nice-avatar) - React library for generating avatar
-- [Boring Avatars](https://github.com/boringdesigners/boring-avatars) - A tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
-
-#### Animation
-- [AutoAnimate](https://auto-animate.formkit.com/#installation) - Add motion to your apps with a single line of code.
-
-#### Framework
-- [fresh](https://fresh.deno.dev/) - The next-gen web framework.
-- [Ultra](https://ultrajs.dev/) - The Quest for Zero-Legacy
-- [SolidJS](https://www.solidjs.com/) - Reactive Javascript Library
-- [Preact](https://preactjs.com/) - Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
-- [Alpine.js](https://alpinejs.dev/) - Your new, lightweight, JavaScript framework.
-- [MailtoUI](https://mailtoui.com/) - A simple way to enhance your mailto links with a convenient user interface.
-- [Pixel It](https://giventofly.github.io/pixelit/#tryit) - Create pixel art from an image
-- [Tufte CSS](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
-- [fireworks.js](https://github.com/crashmax-dev/fireworks-js) - A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.
 
 ### Image
 
