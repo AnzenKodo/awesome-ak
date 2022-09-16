@@ -30,7 +30,7 @@ jobs:
           deno-version: v1.x
 
       - name: Run
-        run: deno run -A run.js && cat READMD.md
+        run: deno run -A run.js && ls &&cat READMD.md
 
       - uses: actions/upload-artifact@v3
         with:
