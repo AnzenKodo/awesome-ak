@@ -35,7 +35,7 @@ jobs:
       - name: Run
         run: deno run -A run.js
 
-      - name: Save file
-        uses: tj-actions/changed-files@v29.0.7
+      - name: Save files
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          files: README.md
+          commit_message: Save files
