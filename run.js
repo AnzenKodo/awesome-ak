@@ -1,7 +1,3 @@
-import Engine from "https://esm.sh/@ahmadnassri/template-literals-engine@2.0.0";
-
-const engine = new Engine();
-
 const json = await fetch(
   "https://raw.githubusercontent.com/AnzenKodo/nixed/master/web/Bookmarks.bak",
 ).then((res) => res.json());
