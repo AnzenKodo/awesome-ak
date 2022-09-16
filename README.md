@@ -1,5 +1,8 @@
 # AK#Awesome
-Awesome list of my bookmarks
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+Awesome list of awesome website form my bookmarks. Download bookmarks also.
 
 ## AK Stuff
 
