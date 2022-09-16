@@ -39,10 +39,16 @@ const description = await fetch(
   "https://api.github.com/repos/AnzenKodo/ak-awesome",
 ).then((res) => res.json()).then((res) => res.description);
 
-const result = engine.render("template", {
-  name: bookmarks[0].name,
-  date: bookmarks[0].date_modified,
-  content: loopNested(child),
-  description,
-});
-Deno.writeTextFileSync("./README.md", result);
+const raw = `# ${bookmarks[0].name}
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+${description}
+
+<div align="center">
+<a href=""><img alt="Download Bookmarks" src="https://img.shields.io/badge/download-bookmarks-0583f2?style=for-the-badge&labelColor=170327" width="30%"></a>
+</div>
+
+${loopNested(child)}`;
+
+Deno.writeTextFileSync("./README.md", raw);
