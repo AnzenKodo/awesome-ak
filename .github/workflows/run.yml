@@ -35,7 +35,7 @@ jobs:
       - name: Run
         run: deno run -A run.js
 
-      - uses: actions/upload-artifact@v3
+      - name: Save file
+        uses: tj-actions/changed-files@v29.0.7
         with:
-          name: Save file
-          path: ./README.md
+          files: ./README.md
