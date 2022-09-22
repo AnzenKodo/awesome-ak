@@ -1,5 +1,5 @@
 const json = await fetch(
-  "https://raw.githubusercontent.com/AnzenKodo/nixed/master/web/Bookmarks.bak",
+  "https://raw.githubusercontent.com/AnzenKodo/dotfiles/master/browser/Bookmarks.bak",
 ).then((res) => res.json());
 
 const obj = json.roots.bookmark_bar.children;
