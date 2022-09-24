@@ -33,11 +33,12 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [ThePrimeagen](https://discord.gg/theprimeagen)
 - [r/unixporn](https://discord.gg/unixporn)
 - [Nix/NixOS (unofficial)](https://discord.gg/ef8KE89j)
+- [Brodie's Linux Dumpster Fire](https://discord.com/channels/645767121174921248/756862167407525909)
 
 ### Projects
-- [Nixed](https://github.com/AnzenKodo/nixed) - The dotfiles Distro
 - [dblog](https://github.com/AnzenKodo/dblog) - dblog blog generator, that generates blog from Markdown and JSON file. dblog handles technical parts, so you can focus on hard part writing.
 - [rss-atom-parser](https://github.com/AnzenKodo/rss-atom-parser) - RSS & Atom feed parser for PHP. Very small and easy-to-use library for parsing your feeds.
+- [dotfiles](https://github.com/AnzenKodo/dotfiles) - My dotfiles
 
 ## Pins
 
@@ -51,6 +52,7 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 ### Books
 - [Standard Ebooks](https://standardebooks.org/ebooks) - Free and liberated ebooks, carefully produced for the true book lover.
 - [How to Design Programs, Second Edition](https://htdp.org/2022-6-7/Book/index.html)
+- [Beautiful Racket by Matthew Butterick](https://beautifulracket.com/)
 
 ### Dotfiles
 - [NNBnh/dotfiles](https://github.com/NNBnh/dotfiles) - Tiny and simple personal Đotfiles that can be bootstrap with a single command!
@@ -60,6 +62,7 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) - The Primeagen mostly NeoVim dotfiles
 - [Nix Config](https://github.com/gvolpe/nix-config) - Current, and always evolving. NixOS configuration files, home-manager, neovim, etc.
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - Aesthetic OpenboxWM Environment
+- [drishal / dotfiles](https://gitlab.com/drishal/dotfiles/)
 
 ### Lists
 - [dotfiles.github.io](https://dotfiles.github.io/inspiration/) - Your unofficial guide to dotfiles on GitHub.
@@ -68,6 +71,37 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Awesome Newsletters](https://github.com/learn-anything/newsletters)
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [awesome-console-services](https://github.com/NNBnh/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
+- [awesome-xontribs](https://github.com/xonsh/awesome-xontribs) - Awesome list of Xonsh contributions/extensions
+
+### Applications
+
+#### Editor
+
+##### Frameworks
+- [LunarVim](https://www.lunarvim.org/#opinionated) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
+- [Doom Emacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+- [SpaceVim](https://spacevim.org/) - A distribution of the Vim editor that’s inspired by spacemacs.
+- [Spacemacs](https://www.spacemacs.org/) - Emacs advanced Kit focused on Evil
+- [Neovim](https://neovim.io/) - hyperextensible Vim-based text editor
+- [GNU Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor and more.
+- [vim](https://www.vim.org/) - A highly configurable text editor built to make creating and changing any kind of text very efficient.
+- [Kakoune](https://kakoune.org/) - Modal editor · Faster as in fewer keystrokes · Multiple selections · Orthogonal design
+- [Helix](https://helix-editor.com/) - A post-modern text editor.
+- [VSCodium](https://vscodium.com/) - Open Source Binaries of VSCode
+
+#### Terminal
+- [kitty](https://sw.kovidgoyal.net/kitty/) - The fast, feature-rich, GPU based terminal emulator
+- [Alacritty](https://alacritty.org/) - A modern terminal emulator that comes with sensible defaults, but allows for extensive configuration.
+- [st (simple terminal)](https://st.suckless.org/) - suckless.org software that sucks less
+- [Hyper](https://hyper.is/) - A terminal built on web technologies
+
+#### Window Manager
+- [Qtile – A hackable tiling window manager written in Python](http://www.qtile.org/)
+- [i3](https://i3wm.org/) - improved tiling wm
+- [xmonad](https://xmonad.org/) - the tiling window manager that rocks
+- [awesome](https://awesomewm.org/) - A highly configurable, next generation framework window manager for X. It is very fast, extensible and licensed under the GNU GPLv2 license.
+- [dwm](https://dwm.suckless.org/) - dynamic window manager
+- [Sway](https://swaywm.org/) - A tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
 
 ## DevTools
 
@@ -106,6 +140,7 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Pollen](https://www.pollen.style/) - A configurable library of CSS variables. It lets you write faster, more consistent, and more maintainable styles. Use it in any stack and easily extend it as a build tool for your own custom design systems.
 - [Neumorphism UI](https://demo.themesberg.com/neumorphism-ui/?ref=glass-ui-generator) - Inspired User Interface Kit that will help you prototype and design beautiful, creative and modern websites.
 - [UI Kitten](https://akveo.github.io/react-native-ui-kitten/?utm_source=colors-eva&utm_medium=footer) - React Native UI Library based on Eva Design System
+- [MVP.css](https://andybrewer.github.io/mvp/?utm_source=hackernewsletter&utm_medium=email&utm_term=design) - Minimalist stylesheet for HTML elements
 
 ##### Avatars
 - [Multiavatar](https://github.com/multiavatar/Multiavatar?ref=producthunt) - Multicultural Avatar Generator in JavaScript
@@ -114,10 +149,12 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 
 ##### Animation
 - [AutoAnimate](https://auto-animate.formkit.com/#installation) - Add motion to your apps with a single line of code.
+- [Theatre.js](https://www.theatrejs.com/) - animation toolbox for the web
 - [MailtoUI](https://mailtoui.com/) - A simple way to enhance your mailto links with a convenient user interface.
 - [Pixel It](https://giventofly.github.io/pixelit/#tryit) - Create pixel art from an image
 - [Tufte CSS](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [fireworks.js](https://github.com/crashmax-dev/fireworks-js) - A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.
+- [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
 
 #### Framework
 - [fresh](https://fresh.deno.dev/) - The next-gen web framework.
@@ -203,6 +240,10 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Color Hunt](https://www.colorhunt.co/?ref=producthunt) - Color Palettes for Designers and Artists
 - [Material Design Palette Generator](https://materialpalettes.com/?ref=producthunt) - Get perfect Material Design color palettes from any hex color.
 - [Eva Design System](https://colors.eva.design/?ref=producthunt) - Deep learning color generator
+- [Gogh](https://gogh-co.github.io/Gogh/) - Color Scheme for your Terminal
+- [Rainglow](https://rainglow.io/preview) - A collection of over 320 themes for a variety of different editors and software.
+- [Open Color](https://yeun.github.io/open-color/#grape) - Optimized for UI like font, background, border, etc.
+- [terminal.sexy](https://terminal.sexy/) - Terminal Color Scheme Designer
 
 #### SVG
 - [Wicked Backgrounds](https://wickedbackgrounds.com/app) - Create beautiful SVG backgrounds for your UI designs.
@@ -231,6 +272,7 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Hemingway Editor](https://hemingwayapp.com/) - Hemingway App makes your writing bold and clear. The app highlights lengthy, complex sentences and common errors; if you see a yellow sentence, shorten or split it.
 - [EasyWrite](https://easywrite.parishod.com/) - Write clearly using only 1,000 commonly used words
 - [Drake_Stafford](https://wavvy.app/) - A fee, open source audio editor for the web.
+- [Penpot](https://penpot.app/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Design Freedom for Teams
 
 ### Privacy
 - [KeeWeb](https://app.keeweb.info/) - Free Password Manager Compatible with KeePass
@@ -247,6 +289,7 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [LanguageTool](https://languagetool.org/) - Online Grammar, Style & Spell Checker
 - [Feedsearch](https://feedsearch.dev/) - RSS, Atom, and JSON Feed Search API
 - [The Pomodoro Tracker — A useful tool for time management based on Pomodoro Technique.](https://pomodoro-tracker.com/)
+- [Content Parser Website](https://content-parser.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) - Extract markdown, html or text from content-heavy website.
 
 ## Information
 
@@ -257,12 +300,15 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [DevDocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
 - [Media Bias/Fact Check](https://mediabiasfactcheck.com/) - Search and Learn the Bias of News Media
 - [Quote Investigator](https://quoteinvestigator.com/) - Tracing Quotations
+- [Home Manager Options](https://rycee.gitlab.io/home-manager/options.html)
+- [8bitworkshop](https://8bitworkshop.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun)
 
 ## Wishlist
 - [tai (Terminal Ascii Images)](https://github.com/MustafaSalih1993/tai) - Tool to convert images to text written in Rust
 - [charliermarsh/ruff: An extremely fast Python linter, written in Rust.](https://github.com/charliermarsh/ruff)
 - [Looria analyzes Reddit posts and comments to find the most popular products.](https://looria.com/reddit/overview)
 - [VIM Table Mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
+- [Wikipedia Speedruns!](https://wikispeedruns.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun)
 
 ## Miscellaneous
 - [musicForProgramming();](https://musicforprogramming.net/) - Datassette presents a series of mixes intended for listening while programming to focus the brain and inspire the mind (also compatible with other activities).
