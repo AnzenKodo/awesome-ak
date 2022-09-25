@@ -53,6 +53,10 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Standard Ebooks](https://standardebooks.org/ebooks) - Free and liberated ebooks, carefully produced for the true book lover.
 - [How to Design Programs, Second Edition](https://htdp.org/2022-6-7/Book/index.html)
 - [Beautiful Racket by Matthew Butterick](https://beautifulracket.com/)
+- [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/toc.html)
+- [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html) - Upgrading from JavaScript
+- [Deep JavaScript](https://exploringjs.com/deep-js/index.html) - Theory and techniques
+- [Welcome to Linux command line for you and me!](https://lym.readthedocs.io/en/latest/index.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Linux command line for you and me 0.1 documentation
 
 ### Dotfiles
 - [NNBnh/dotfiles](https://github.com/NNBnh/dotfiles) - Tiny and simple personal Đotfiles that can be bootstrap with a single command!
@@ -63,6 +67,8 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Nix Config](https://github.com/gvolpe/nix-config) - Current, and always evolving. NixOS configuration files, home-manager, neovim, etc.
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - Aesthetic OpenboxWM Environment
 - [drishal / dotfiles](https://gitlab.com/drishal/dotfiles/)
+- [sherubthakur/dotfiles](https://github.com/sherubthakur/dotfiles) - My dotfiles + system configuration for NixOS and mac
+- [montchr/dotfield](https://github.com/montchr/dotfield) - All I see is little dots – some are smeared, and some are spots.
 
 ### Lists
 - [dotfiles.github.io](https://dotfiles.github.io/inspiration/) - Your unofficial guide to dotfiles on GitHub.
@@ -155,6 +161,8 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Tufte CSS](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [fireworks.js](https://github.com/crashmax-dev/fireworks-js) - A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.
 - [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
+- [Tesseract.js](https://tesseract.projectnaptha.com/) - Pure Javascript OCR for 100 Languages!
+- [Dbin](https://github.com/oscarotero/dbin?utm_source=denonews&utm_medium=email&utm_campaign=51-announcing-the-new-slack-platform-powered-by) - Library to download binary files from GitHub releases detecting the correct platform.
 
 #### Framework
 - [fresh](https://fresh.deno.dev/) - The next-gen web framework.
@@ -166,6 +174,7 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Gatsby](https://www.gatsbyjs.com/) - The Fastest Frontend for the Headless Web
 - [Eleventy](https://www.11ty.dev/) - A simpler static site generator
 - [Lume](https://lume.land/) - The static site generator for Deno
+- [vss](https://github.com/vssio/vss) - Easy-to-use static site generator
 
 #### API
 
@@ -290,6 +299,7 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Feedsearch](https://feedsearch.dev/) - RSS, Atom, and JSON Feed Search API
 - [The Pomodoro Tracker — A useful tool for time management based on Pomodoro Technique.](https://pomodoro-tracker.com/)
 - [Content Parser Website](https://content-parser.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) - Extract markdown, html or text from content-heavy website.
+- [Dub](https://dub.sh/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) - Open-Source Bitly Alternative
 
 ## Information
 
