@@ -158,11 +158,11 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Theatre.js](https://www.theatrejs.com/) - animation toolbox for the web
 - [MailtoUI](https://mailtoui.com/) - A simple way to enhance your mailto links with a convenient user interface.
 - [Pixel It](https://giventofly.github.io/pixelit/#tryit) - Create pixel art from an image
-- [Tufte CSS](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [fireworks.js](https://github.com/crashmax-dev/fireworks-js) - A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.
 - [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
 - [Tesseract.js](https://tesseract.projectnaptha.com/) - Pure Javascript OCR for 100 Languages!
 - [Dbin](https://github.com/oscarotero/dbin?utm_source=denonews&utm_medium=email&utm_campaign=51-announcing-the-new-slack-platform-powered-by) - Library to download binary files from GitHub releases detecting the correct platform.
+- [howler.js](https://howlerjs.com/) - JavaScript audio library for the modern web
 
 #### Framework
 - [fresh](https://fresh.deno.dev/) - The next-gen web framework.
@@ -244,6 +244,7 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Buttons Generator](https://markodenic.com/tools/buttons-generator/) - Marko Denic  Web Developer
 - [Broider](https://maxbittker.github.io/broider/) - A fun tool for designing border decorations!
 - [Gridle](https://gridle.dev/) - CSS grid generator
+- [Tufte CSS](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 
 #### Color
 - [Color Hunt](https://www.colorhunt.co/?ref=producthunt) - Color Palettes for Designers and Artists
