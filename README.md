@@ -17,10 +17,10 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Pinterest](https://www.pinterest.com/AnzenKodo/)
 - [Goodreads](https://www.goodreads.com/AnzenKodo)
 - [Last.fm](https://www.last.fm/user/AnzenKodo)
-- [reddit](https://www.reddit.com/)
+- [Simkl](https://simkl.com/5607531/)
+- [Discord ](https://discord.com/users/910257548593086474)
 - [Instagram](https://www.instagram.com/)
 - [WhatsApp](https://web.whatsapp.com/)
-- [Simkl](https://simkl.com/5607531/)
 
 ### Follow List
 - [Twitter Lists](https://twitter.com/AnzenKodo/lists)
@@ -245,6 +245,7 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Broider](https://maxbittker.github.io/broider/) - A fun tool for designing border decorations!
 - [Gridle](https://gridle.dev/) - CSS grid generator
 - [Tufte CSS](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
+- [jose-elias-alvarez/null-ls.nvim: Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.](https://github.com/jose-elias-alvarez/null-ls.nvim)
 
 #### Color
 - [Color Hunt](https://www.colorhunt.co/?ref=producthunt) - Color Palettes for Designers and Artists
