@@ -3,10 +3,17 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Awesome list of awesome website from my bookmarks. Download bookmarks also.
-TODO: Add install intraction
+
 <div align="center">
-<a href=""><img alt="Download Bookmarks" src="https://img.shields.io/badge/download-bookmarks-0583f2?style=for-the-badge&labelColor=170327" width="30%"></a>
+<a href="https://raw.githubusercontent.com/AnzenKodo/awesome-ak/main/bookmark.html" download>
+<img alt="Download Bookmarks" src="https://img.shields.io/badge/download-bookmarks-0583f2?style=for-the-badge&labelColor=170327" width="30%">
+</a>
 </div>
+
+How to import bookmarks in:
+- [Chromium Browser (like: Chrome, Brave, Edge)](https://support.google.com/chrome/answer/96816)
+- [Firefox](https://support.mozilla.org/en-US/kb/import-bookmarks-html-file)
+- [Safari](https://support.apple.com/en-in/guide/safari/ibrw1015/mac)
 
 
 ## AK Stuff
