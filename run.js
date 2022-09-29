@@ -40,7 +40,7 @@ const raw = `# ${bookmarks[0].name}
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 ${description}
-
+TODO: Add install intraction
 <div align="center">
 <a href=""><img alt="Download Bookmarks" src="https://img.shields.io/badge/download-bookmarks-0583f2?style=for-the-badge&labelColor=170327" width="30%"></a>
 </div>
@@ -48,3 +48,39 @@ ${description}
 ${loopNested(child)}`;
 
 Deno.writeTextFileSync("./README.md", raw);
+
+let html = `<!DOCTYPE NETSCAPE-Bookmark-file-1>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+<TITLE>Bookmarks</TITLE>
+<H1>Bookmarks</H1>
+<DL><p>
+    <DT><H3 ADD_DATE="1646887372" LAST_MODIFIED="1664363974" PERSONAL_TOOLBAR_FOLDER="true">Bookmarks</H3>
+    <DL><p>`;
+
+// Backup file
+
+function loopHtml(objs, count = 2) {
+  const preCount = count;
+
+  for (const obj of objs) {
+    if (obj.type === "folder") {
+      html += `\n<DT><H3>${obj.name}</H3>\n<DL><p>\n`;
+
+      loopNested(obj.children, ++count);
+    } else {
+      const title = obj.name.match(/^.*(?=\s-\s)/);
+      const des = obj.name.replace(/^.*\s-\s/, "");
+
+      if (title) {
+        html += `<DT><A HREF="${obj.url}">${title[0]} - ${des}</A>\n`;
+      } else {
+        html += `<DT><A HREF="${obj.url}">${title[0]}</A>\n`;
+      }
+    }
+    count = preCount;
+  }
+
+  return html += "</DL><p>";
+}
+
+console.log(loopHtml(child));
