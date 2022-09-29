@@ -58,18 +58,6 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Deep JavaScript](https://exploringjs.com/deep-js/index.html) - Theory and techniques
 - [Welcome to Linux command line for you and me!](https://lym.readthedocs.io/en/latest/index.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Linux command line for you and me 0.1 documentation
 
-### Dotfiles
-- [NNBnh/dotfiles](https://github.com/NNBnh/dotfiles) - Tiny and simple personal Đotfiles that can be bootstrap with a single command!
-- [BrodieRobertson/dotfiles](https://github.com/BrodieRobertson/dotfiles) - Various configuration files for programs that Brodie Robertson use
-- [Qtile Example](https://github.com/qtile/qtile-examples) - Example configurations and scripts for Qtile
-- [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
-- [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) - The Primeagen mostly NeoVim dotfiles
-- [Nix Config](https://github.com/gvolpe/nix-config) - Current, and always evolving. NixOS configuration files, home-manager, neovim, etc.
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - Aesthetic OpenboxWM Environment
-- [drishal / dotfiles](https://gitlab.com/drishal/dotfiles/)
-- [sherubthakur/dotfiles](https://github.com/sherubthakur/dotfiles) - My dotfiles + system configuration for NixOS and mac
-- [montchr/dotfield](https://github.com/montchr/dotfield) - All I see is little dots – some are smeared, and some are spots.
-
 ### Lists
 - [dotfiles.github.io](https://dotfiles.github.io/inspiration/) - Your unofficial guide to dotfiles on GitHub.
 - [Plaintext Everything](https://github.com/captn3m0/plaintext-everything) - A list of tools and articles helpful for keeping everything under plaintext.
@@ -136,6 +124,11 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [Bunny Fonts](https://fonts.bunny.net/) - Explore Faster & GDPR friendly Fonts
 - [fontbit.io](https://fontbit.io/) - The CDN for Open Source Fonts
 - [Google Fonts](https://fonts.google.com/?ref=producthunt) - Making the web more beautiful, fast, and open through great typography
+
+#### Badges
+- [Shields.io](https://shields.io/) - Quality metadata badges for open source projects
+- [Badgen](https://badgen.net/) - Fast badge generating service
+- [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Improve your README.md profile with these amazing badges.
 - [UNPKG](https://unpkg.com/) - a fast, global content delivery network for everything on npm. Use it to quickly and easily load any file from any package using a URL
 
 ### Code
@@ -156,6 +149,7 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 ##### Animation
 - [AutoAnimate](https://auto-animate.formkit.com/#installation) - Add motion to your apps with a single line of code.
 - [Theatre.js](https://www.theatrejs.com/) - animation toolbox for the web
+- [Three.js – JavaScript 3D Library](https://threejs.org/)
 - [MailtoUI](https://mailtoui.com/) - A simple way to enhance your mailto links with a convenient user interface.
 - [Pixel It](https://giventofly.github.io/pixelit/#tryit) - Create pixel art from an image
 - [fireworks.js](https://github.com/crashmax-dev/fireworks-js) - A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.
@@ -183,10 +177,6 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 - [ogsupa](https://ogsupa.com/) - og:supa is an open-source og:image generator! All you have to do is add our <meta> tag to your HTML <head> and you're good to go!
 - [Opengraph image as a service](https://og-image.xyz/?ref=producthunt) - A simple opengraph image generator
 - [Imgen](https://www.jitbit.com/imgen/) - generate and hotlink open graph social images
-
-##### Badges
-- [Shields.io](https://shields.io/) - Quality metadata badges for open source projects
-- [Badgen](https://badgen.net/) - Fast badge generating service
 
 ##### Image
 - [LoremFlickr](https://loremflickr.com/) - free placeholder images
