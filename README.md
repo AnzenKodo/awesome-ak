@@ -35,12 +35,28 @@ How to import bookmarks in:
 - [GitHub Following](https://github.com/AnzenKodo?tab=following)
 
 #### Discord
-- [Theo's Typesafe Cult](https://discord.gg/u5mUWNz3nk)
-- [xahlee](https://discord.gg/aqN2qbUkZP)
-- [ThePrimeagen](https://discord.gg/theprimeagen)
+
+##### Languages
+- [The V Language & Apps](https://discord.gg/vlang)
+- [Deno](https://discord.gg/deno)
+- [Nix/NixOS (unofficial)](https://discord.com/invite/RbvHtGa)
+
+##### Linux
 - [r/unixporn](https://discord.gg/unixporn)
-- [Nix/NixOS (unofficial)](https://discord.gg/ef8KE89j)
-- [Brodie's Linux Dumpster Fire](https://discord.com/channels/645767121174921248/756862167407525909)
+- [Brodie's Linux Dumpster Fire](https://brodierobertson.xyz/discord)
+- [SerenityOS](https://discord.gg/serenityos)
+
+##### Awesome People
+- [xahlee](https://discord.gg/QYFcqNT)
+- [Theo's Typesafe Cult](https://discord.gg/xHdCpcPHRE)
+- [ThePrimeagen](https://discord.gg/theprimeagen)
+- [Livakivi](https://discord.com/invite/w6qyB5mpWa)
+
+##### AI Images
+- [Midjourney](https://discord.com/invite/midjourney)
+- [Stable Diffusion](https://discord.gg/stablediffusion)
+- [東方Project AI](https://discord.gg/touhouai)
+- [Niko's Math Corner](https://discord.gg/jcJGBdneD2)
 
 ### Projects
 - [dblog](https://github.com/AnzenKodo/dblog) - dblog blog generator, that generates blog from Markdown and JSON file. dblog handles technical parts, so you can focus on hard part writing.
@@ -219,6 +235,9 @@ How to import bookmarks in:
 - [Watermark Remover](https://www.watermarkremover.io/) - Remove watermarks from your images using our AI technology. Use our watermark-remover tool and get your images watermark free.
 - [Cleanup.pictures](https://cleanup.pictures/) - Remove objects, people, text and defects from any picture for free
 - [remove.bg](https://www.remove.bg/) - Remove Background from Image
+
+#### Text to Image
+- [waifu-diffusion](https://huggingface.co/hakurei/waifu-diffusion) - Diffusion for Weebs
 
 ### Style
 
