@@ -6,7 +6,7 @@ Awesome list of awesome website from my bookmarks. Download bookmarks also.
 
 <div align="center">
 <a href="https://raw.githubusercontent.com/AnzenKodo/awesome-ak/main/bookmark.html" download>
-<img alt="Download Bookmarks" src="https://img.shields.io/badge/download-bookmarks-cca6c4?style=for-the-badge&labelColor=494368" width="30%">
+<img alt="Download Bookmarks" src="https://img.shields.io/badge/download-bookmarks-0583f2?style=for-the-badge&labelColor=170327" width="30%">
 </a>
 </div>
 
