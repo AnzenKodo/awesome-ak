@@ -247,6 +247,8 @@ How to import bookmarks in:
 - [Trendy CSS Text Shadows](https://www.mixfont.com/shadows?ref=producthunt) - Looking for inspiration to make your headlines stand out?
 - [Fontesk](https://fontesk.com/punk-mono-typeface/) - Free Fonts & Typefaces
 - [Monocraft](https://github.com/IdreesInc/Monocraft) - A programming font based on the typeface used in Minecraft
+- [Fontshare](https://www.fontshare.com/) - Quality Fonts. Free.
+- [awesome-fonts](https://github.com/brabadu/awesome-fonts#general) - Curated list of fonts and everything
 
 #### CSS
 - [CSS Layout](https://csslayout.io/) - A collection of popular layouts and patterns made with CSS
