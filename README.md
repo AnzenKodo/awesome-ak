@@ -21,13 +21,11 @@ How to import bookmarks in:
 ### Social Media
 - [GitHub](https://github.com/AnzenKodo)
 - [Twitter](https://twitter.com/AnzenKodo)
+- [Discord ](https://discord.com/users/910257548593086474)
 - [Pinterest](https://www.pinterest.com/AnzenKodo/)
 - [Goodreads](https://www.goodreads.com/AnzenKodo)
-- [Last.fm](https://www.last.fm/user/AnzenKodo)
 - [Simkl](https://simkl.com/5607531/)
-- [Discord ](https://discord.com/users/910257548593086474)
-- [Instagram](https://www.instagram.com/)
-- [WhatsApp](https://web.whatsapp.com/)
+- [ListenBrainz](https://listenbrainz.org/user/AnzenKodo/)
 
 ### Follow List
 - [Twitter Lists](https://twitter.com/AnzenKodo/lists)
@@ -51,6 +49,7 @@ How to import bookmarks in:
 - [Theo's Typesafe Cult](https://discord.gg/xHdCpcPHRE)
 - [ThePrimeagen](https://discord.gg/theprimeagen)
 - [Livakivi](https://discord.com/invite/w6qyB5mpWa)
+- [Fireship](https://discord.gg/fireship)
 
 ##### AI Images
 - [Midjourney](https://discord.com/invite/midjourney)
@@ -90,6 +89,9 @@ How to import bookmarks in:
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [awesome-console-services](https://github.com/NNBnh/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [awesome-xontribs](https://github.com/xonsh/awesome-xontribs) - Awesome list of Xonsh contributions/extensions
+
+### Essay
+- [How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html)
 
 ## DevTools
 
@@ -300,6 +302,9 @@ How to import bookmarks in:
 ### Icons
 - [ClockFace](https://ocodo.github.io/ClockFace-font/?utm_source=hackernewsletter&utm_medium=email&utm_term=design) - Clock icons for displaying time
 - [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
+- [iconmonstr](https://iconmonstr.com/) - Free simple icons for your next project
+- [Icons8](https://icons8.com/icons/carbon-copy) - Icons, illustrations, photos, music, and design tools.
+- [SVG Repo](https://www.svgrepo.com/) - Free SVG Vectors and Icons
 - [DOODAD](https://doodad.dev/) - Tools for making websites fast, expressive, accessible, and green.
 
 ## Tools
