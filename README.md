@@ -206,6 +206,15 @@ How to import bookmarks in:
 ## Design Tools
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) - A collection of links for free stock photography, video and Illustration websites
 
+### Editors
+- [Template](https://raw.githubusercontent.com/AnzenKodo/assests/main/template.svg)
+- [Boxy SVG](https://boxy-svg.com/app) - Project goal is to create the best tool for editing SVG files.
+- [Figma](https://www.figma.com/) - The collaborative interface design tool.
+- [Canva](https://www.canva.com/) - Free Design Tool, Presentations, Video, Social Media
+- [videoinu](https://videoinu.com/) - online video editor
+- [Drake_Stafford](https://wavvy.app/) - A fee, open source audio editor for the web.
+- [Penpot](https://penpot.app/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Design Freedom for Teams
+
 ### Image & Video
 
 #### Editor
@@ -291,14 +300,6 @@ How to import bookmarks in:
 ### SVG
 - [Wicked Backgrounds](https://wickedbackgrounds.com/app) - Create beautiful SVG backgrounds for your UI designs.
 - [free SVG generators,](https://fffuel.co/) - Web design tools & modern HTML templates
-
-### Editors
-- [Boxy SVG](https://boxy-svg.com/app) - Project goal is to create the best tool for editing SVG files.
-- [Figma](https://www.figma.com/) - The collaborative interface design tool.
-- [Canva](https://www.canva.com/) - Free Design Tool, Presentations, Video, Social Media
-- [videoinu](https://videoinu.com/) - online video editor
-- [Drake_Stafford](https://wavvy.app/) - A fee, open source audio editor for the web.
-- [Penpot](https://penpot.app/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Design Freedom for Teams
 
 ### Icons
 - [ClockFace](https://ocodo.github.io/ClockFace-font/?utm_source=hackernewsletter&utm_medium=email&utm_term=design) - Clock icons for displaying time
