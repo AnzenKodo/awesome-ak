@@ -307,6 +307,9 @@ How to import bookmarks in:
 - [iconmonstr](https://iconmonstr.com/) - Free simple icons for your next project
 - [Icons8](https://icons8.com/icons/carbon-copy) - Icons, illustrations, photos, music, and design tools.
 - [SVG Repo](https://www.svgrepo.com/) - Free SVG Vectors and Icons
+
+### Patterns
+- [Hero Patterns](https://heropatterns.com/) - Free repeatable SVG background patterns for your web projects
 - [DOODAD](https://doodad.dev/) - Tools for making websites fast, expressive, accessible, and green.
 
 ## Tools
