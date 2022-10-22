@@ -56,6 +56,7 @@ How to import bookmarks in:
 - [Stable Diffusion](https://discord.gg/stablediffusion)
 - [東方Project AI](https://discord.gg/touhouai)
 - [Niko's Math Corner](https://discord.gg/jcJGBdneD2)
+- [Ultra](https://discord.gg/XDC5WxGHb2)
 
 ### Projects
 - [dblog](https://github.com/AnzenKodo/dblog) - dblog blog generator, that generates blog from Markdown and JSON file. dblog handles technical parts, so you can focus on hard part writing.
