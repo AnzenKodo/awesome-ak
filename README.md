@@ -274,6 +274,9 @@ How to import bookmarks in:
 - [Meta Tags](https://metatags.io/font-generator?ref=producthunt) - Instagram Font Generator
 
 ### CSS
+
+#### Framework
+- [Vanilla CSS](https://vanillacss.com/) - A minimal baseline stylesheet for any web project
 - [CSS Layout](https://csslayout.io/) - A collection of popular layouts and patterns made with CSS
 - [CSS Scan](https://getcssscan.com/css-box-shadow-examples?ref=producthunt) - 93 Beautiful CSS box-shadow examples
 - [Box Shadow](https://box-shadow.art/) - CSS box shadow inspiration
@@ -388,3 +391,4 @@ How to import bookmarks in:
 - [Space Garden](https://js13kgames.com/entries/space-garden) - In this walking-sim-in-space you play the role of planet pollinator, reviving hundreds of dead planets in a galaxy overrun by Evil Red Things(tm). Fly around, collect planet sprites, defeat the Red along the way.
 - [Beat Rocks](https://js13kgames.com/entries/beat-rocks) - Asteroids except it's a rhythm game now? Unleash your inner dancer, unlock new instruments of destruction and make sure to play them on the beat.
 - [The Maze of Space Goblins](https://js13kgames.com/entries/the-maze-of-space-goblins) - A puzzle game that combines Sokoban-like gameplay mechanics with match-3.
+- [Elevator Saga](https://play.elevatorsaga.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun) - the elevator programming game
