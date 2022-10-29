@@ -126,19 +126,23 @@ How to import bookmarks in:
 - [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Improve your README.md profile with these amazing badges.
 - [UNPKG](https://unpkg.com/) - a fast, global content delivery network for everything on npm. Use it to quickly and easily load any file from any package using a URL
 
-### Libraries
-
-#### UI
+### Frameworks
 - [SolidJS](https://www.solidjs.com/) - Reactive Javascript Library
 - [React – A JavaScript library for building user interfaces.](https://reactjs.org/)
 - [Preact](https://preactjs.com/) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+- [</> htmx](https://htmx.org/) - high power tools for html.
+- [Ember.js](https://emberjs.com/) - A framework for ambitious web developers
+- [reveal.js](https://revealjs.com/#/2) - The HTML presentation framework.
 
-#### Component
+### Libraries
+
+#### UI
 - [Pollen](https://www.pollen.style/) - A configurable library of CSS variables. It lets you write faster, more consistent, and more maintainable styles. Use it in any stack and easily extend it as a build tool for your own custom design systems.
 - [Neumorphism UI](https://demo.themesberg.com/neumorphism-ui/?ref=glass-ui-generator) - Inspired User Interface Kit that will help you prototype and design beautiful, creative and modern websites.
 - [UI Kitten](https://akveo.github.io/react-native-ui-kitten/?utm_source=colors-eva&utm_medium=footer) - React Native UI Library based on Eva Design System
 - [MVP.css](https://andybrewer.github.io/mvp/?utm_source=hackernewsletter&utm_medium=email&utm_term=design) - Minimalist stylesheet for HTML elements
 - [Headless UI](https://headlessui.com/) - Unstyled, fully accessible UI components
+- [daisyUI — Tailwind CSS Components](https://daisyui.com/)
 
 #### Avatars
 - [Multiavatar](https://github.com/multiavatar/Multiavatar?ref=producthunt) - Multicultural Avatar Generator in JavaScript
@@ -149,6 +153,8 @@ How to import bookmarks in:
 - [AutoAnimate](https://auto-animate.formkit.com/#installation) - Add motion to your apps with a single line of code.
 - [Theatre.js](https://www.theatrejs.com/) - animation toolbox for the web
 - [Three.js – JavaScript 3D Library](https://threejs.org/)
+- [p5.js](https://p5js.org/) - p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else.
+- [Babylon.js - Powerful, Beautiful, Simple, Open](https://www.babylonjs.com/) - Web-Based 3D At Its Best
 - [MailtoUI](https://mailtoui.com/) - A simple way to enhance your mailto links with a convenient user interface.
 - [Pixel It](https://giventofly.github.io/pixelit/#tryit) - Create pixel art from an image
 - [fireworks.js](https://github.com/crashmax-dev/fireworks-js) - A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.
@@ -157,8 +163,12 @@ How to import bookmarks in:
 - [Dbin](https://github.com/oscarotero/dbin?utm_source=denonews&utm_medium=email&utm_campaign=51-announcing-the-new-slack-platform-powered-by) - Library to download binary files from GitHub releases detecting the correct platform.
 - [howler.js](https://howlerjs.com/) - JavaScript audio library for the modern web
 - [Tabulator](http://tabulator.info/) - Easy to use, simple to code, fully featured, interactive JavaScript tables
+- [satori](https://github.com/vercel/satori?utm_source=tldrnewsletter) - Enlightened library to convert HTML and CSS to SVG
+- [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+- [MathJax](https://www.mathjax.org/) - Beautiful math in all browsers.
+- [kaboom](https://kaboomjs.com/) - 💥 JavaScript game library
 
-### Framework
+### Site Generators
 - [fresh](https://fresh.deno.dev/) - The next-gen web framework.
 - [Ultra](https://ultrajs.dev/) - The Quest for Zero-Legacy
 - [Preact](https://preactjs.com/) - Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
@@ -193,7 +203,14 @@ How to import bookmarks in:
 - [Icotar](https://icotar.com/?ref=producthunt) - Colorful Icon Avatars
 - [99 Avatars](https://99avatars.com/api-docs) - Avatars generator
 - [unavatar.io](https://unavatar.io/?ref=producthunt) - get unified user avatar from Twitter, GitHub, Intagram, Reddit, etc.
+
+#### Lists
+- [ProgrammableWeb](https://www.programmableweb.com/apis/directory) - Search the Largest API Directory on the Web
+- [Awesome-API-Provider](https://github.com/ekaone/Awesome-API-Provider) - 🔥🚀 Collection API list, start from: 📚 books, 📆 calendar, 👨‍💼 business, 🎸 musics, 🎮 games, 🐜 animals, 👩‍⚕️ health, 🗺 map and so much more 👌👍
+- [public-apis](https://github.com/toddmotto/public-apis#photography) - A collective list of free APIs
+- [Public-APIs](https://github.com/n0shake/Public-APIs#advertising) - 📚 A public list of APIs from round the web.
 - [OpenAPI.Tools](https://openapi.tools/) - To keep API developers up to date with the best OpenAPI tooling around, and help direct folks to high quality modern tooling, instead of being stuck on old v2-based rubbish.
+- [httpstat.us](https://httpstat.us/) - This is a super simple service for generating different HTTP codes.
 
 ### Analytics
 - [Counter](https://counter.dev/)
@@ -206,6 +223,7 @@ How to import bookmarks in:
 
 ## Design Tools
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) - A collection of links for free stock photography, video and Illustration websites
+- [awesome-material](https://github.com/sachin1092/awesome-material) - A curated list of Google's material design libraries for different frameworks.
 
 ### Editors
 - [Template](https://raw.githubusercontent.com/AnzenKodo/assests/main/template.svg)
@@ -240,6 +258,7 @@ How to import bookmarks in:
 
 ##### Text to Image
 - [waifu-diffusion](https://huggingface.co/hakurei/waifu-diffusion) - Diffusion for Weebs
+- [Palette](https://palette.fm/) - Colorize Photos.
 
 #### Community
 - [Flickr](https://www.flickr.com/) - The best online photo management and sharing application in the world.
@@ -276,7 +295,11 @@ How to import bookmarks in:
 ### CSS
 
 #### Framework
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
 - [Vanilla CSS](https://vanillacss.com/) - A minimal baseline stylesheet for any web project
+- [98.css](https://jdan.github.io/98.css/) - A design system for building faithful recreations of old UIs
+- [Bolt.css](https://boltcss.com/?utm_source=tldrnewsletter) - Styles for HTML Elements. Providing a mostly-reasonable set of styles without classes.
+- [awsm.css](https://igoradamenko.github.io/awsm.css/) - A CSS library for beautify semantic HTML markup without classes, attributes, etc. Use tags only.
 - [CSS Layout](https://csslayout.io/) - A collection of popular layouts and patterns made with CSS
 - [CSS Scan](https://getcssscan.com/css-box-shadow-examples?ref=producthunt) - 93 Beautiful CSS box-shadow examples
 - [Box Shadow](https://box-shadow.art/) - CSS box shadow inspiration
@@ -311,10 +334,13 @@ How to import bookmarks in:
 - [iconmonstr](https://iconmonstr.com/) - Free simple icons for your next project
 - [Icons8](https://icons8.com/icons/carbon-copy) - Icons, illustrations, photos, music, and design tools.
 - [SVG Repo](https://www.svgrepo.com/) - Free SVG Vectors and Icons
+- [Feather – Simply beautiful open source icons.](https://feathericons.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=design)
 
 ### Patterns
 - [Hero Patterns](https://heropatterns.com/) - Free repeatable SVG background patterns for your web projects
 - [DOODAD](https://doodad.dev/) - Tools for making websites fast, expressive, accessible, and green.
+- [Spline](https://spline.design/) - Design tool for 3D web browser experiences
+- [Vectary](https://www.vectary.com/) - Free online 3D design and Augmented Reality platform
 
 ## Tools
 
@@ -329,6 +355,8 @@ How to import bookmarks in:
 - [EasyWrite](https://easywrite.parishod.com/) - Write clearly using only 1,000 commonly used words
 - [LanguageTool](https://languagetool.org/) - Online Grammar, Style & Spell Checker
 - [Ok! So...](https://okso.app/) - a minimalistic online drawing app to express, grasp, and organize your thoughts and ideas. Draw to explain. Draw to grasp.
+- [Monkeytype](https://monkeytype.com/about) - A minimalistic typing test, featuring many test modes, an account system to save your typing speed history and user configurable features like themes, a smooth caret and more.
+- [cybertype - Fast and Minimal Typing App](https://cybertype.app/) - Improve your typing speed.
 
 ### Management
 - [tdo](https://tdoapp.com/b/cl0o3er) - Keyboard driven, hackable TODO list
@@ -344,6 +372,7 @@ How to import bookmarks in:
 - [Content Parser Website](https://content-parser.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) - Extract markdown, html or text from content-heavy website.
 - [Dub](https://dub.sh/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) - Open-Source Bitly Alternative
 - [Looria analyzes Reddit posts and comments to find the most popular products.](https://looria.com/reddit/overview)
+- [Free online tools](https://freetools.site/) - no registration, unlimited use
 
 ## Information
 
@@ -351,11 +380,18 @@ How to import bookmarks in:
 - [Cheatography.com](https://www.cheatography.com/) - Cheat Sheets For Every Occasion
 - [GRID](https://grid.malven.co/) - A simple visual cheatsheet for CSS Grid Layout
 - [FLEX](https://flexbox.malven.co/) - A simple visual cheatsheet for flexbox
+
+### Software
+- [LibHunt](https://www.libhunt.com/) - Trending open-source projects and their alternatives.
+- [Product Hunt – The best new products in tech.](https://www.producthunt.com/)
+- [AlternativeTo](https://alternativeto.net/) - Crowdsourced software recommendations
+- [Slant](https://www.slant.co/) - TRUSTWORTHY PRODUCT RANKINGS FOR ALL YOUR SHOPPING NEEDS.
 - [DevDocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
 - [Media Bias/Fact Check](https://mediabiasfactcheck.com/) - Search and Learn the Bias of News Media
 - [Quote Investigator](https://quoteinvestigator.com/) - Tracing Quotations
 - [Home Manager Options](https://rycee.gitlab.io/home-manager/options.html)
 - [8bitworkshop](https://8bitworkshop.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun)
+- [Wumbo](https://wumbo.net/) - Wumbo is a math reference site for students and teachers.
 
 ## Miscellaneous
 - [musicForProgramming();](https://musicforprogramming.net/) - Datassette presents a series of mixes intended for listening while programming to focus the brain and inspire the mind (also compatible with other activities).
@@ -366,6 +402,10 @@ How to import bookmarks in:
 - [Character.AI](https://beta.character.ai/help?) - Character.AI is bringing to life the science-fiction dream of open-ended conversations and collaborations with computers.
 - [Wikipedia Speedruns!](https://wikispeedruns.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun)
 - [RSS Club](https://daverupert.com/rss-club/) - daverupert.com
+- [newton](https://newton.vercel.app/) - A really micro micro-service for advanced math.
+- [Serverless-Forms](https://github.com/MarketingPipeline/Serverless-Forms) - Serverless forms templates with NO REDIRECTS powered for FREE by Google.
+- [windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- [Pokemon Deckz](https://deck-24abcd.netlify.app/)
 
 ## Games
 
