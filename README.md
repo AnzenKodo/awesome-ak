@@ -93,6 +93,7 @@ How to import bookmarks in:
 
 ### Essay
 - [How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html)
+- [Shell Script Best Practices — The Sharat's](https://sharats.me/posts/shell-script-best-practices/?utm_source=tldrnewsletter)
 
 ## DevTools
 
@@ -183,6 +184,7 @@ How to import bookmarks in:
 - [Horizon UI](https://horizon-ui.com/#/) - Trendiest Open Source Admin Template for Chakra UI & React, TypeScript, JavaScript and NextJS"
 
 ### API
+- [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 1400 Public APIs
 
 #### Open Graph
 - [Open Graph Image as a Service](https://og-image.vercel.app/) - A service to generate dynamic Open Graph images on-the-fly for the purpose of sharing a website to social media. Proudly hosted on Vercel.
@@ -276,6 +278,7 @@ How to import bookmarks in:
 - [500px](https://500px.com/) - Discover and share the world's best photos.
 
 ### Font
+- [awesome-fonts](https://github.com/brabadu/awesome-fonts#general) - Curated list of fonts and everything
 
 #### CDN
 - [Bunny Fonts](https://fonts.bunny.net/) - Explore Faster & GDPR friendly Fonts
@@ -288,7 +291,6 @@ How to import bookmarks in:
 - [Fontshare](https://www.fontshare.com/) - Quality Fonts. Free.
 - [Fontesk](https://fontesk.com/punk-mono-typeface/) - Free Fonts & Typefaces
 - [Monocraft](https://github.com/IdreesInc/Monocraft) - A programming font based on the typeface used in Minecraft
-- [awesome-fonts](https://github.com/brabadu/awesome-fonts#general) - Curated list of fonts and everything
 - [Unicode Character Table](https://unicode-table.com/en/) - Unicode web service for character search. Find, copy and paste your favorite characters: 😎 Emoji, ❤ Hearts, 💲 Currencies, → Arrows, ★ Stars and many others 🚩
 - [Meta Tags](https://metatags.io/font-generator?ref=producthunt) - Instagram Font Generator
 
@@ -300,22 +302,30 @@ How to import bookmarks in:
 - [98.css](https://jdan.github.io/98.css/) - A design system for building faithful recreations of old UIs
 - [Bolt.css](https://boltcss.com/?utm_source=tldrnewsletter) - Styles for HTML Elements. Providing a mostly-reasonable set of styles without classes.
 - [awsm.css](https://igoradamenko.github.io/awsm.css/) - A CSS library for beautify semantic HTML markup without classes, attributes, etc. Use tags only.
+- [Tufte CSS](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
+- [missing.css](https://missing.style/)
+
+#### Libraries
+- [Animista](https://animista.net/?ref=producthunt) - CSS Animations on Demand
+- [Charts.css](https://chartscss.org/)
+
+#### Tools
+- [Glassmorphism CSS Generator](https://ui.glass/generator/?ref=producthunt) - free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.
+- [CSS Generator Tool](https://cssgenerator.org/) - CSS Demonstration and Generation
+- [Glassmorphism CSS Generator](https://markodenic.com/tools/glassmorphism-css-generator/) - Marko Denic Web Developer
+- [Pixel Art to CSS](https://www.pixelartcss.com/?ref=producthunt) - Draw and animate Pixel Art, export the results to CSS and download them
+
+#### Examples
 - [CSS Layout](https://csslayout.io/) - A collection of popular layouts and patterns made with CSS
 - [CSS Scan](https://getcssscan.com/css-box-shadow-examples?ref=producthunt) - 93 Beautiful CSS box-shadow examples
 - [Box Shadow](https://box-shadow.art/) - CSS box shadow inspiration
-- [Glassmorphism CSS Generator](https://ui.glass/generator/?ref=producthunt) - free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.
-- [Animista](https://animista.net/?ref=producthunt) - CSS Animations on Demand
-- [CSS Generator Tool](https://cssgenerator.org/) - CSS Demonstration and Generation
-- [Hero Patterns](https://heropatterns.com/?ref=producthunt) - Free repeatable SVG background patterns for your web projects
-- [Glassmorphism CSS Generator](https://markodenic.com/tools/glassmorphism-css-generator/) - Marko Denic Web Developer
 - [Buttons Generator](https://markodenic.com/tools/buttons-generator/) - Marko Denic  Web Developer
+- [Hero Patterns](https://heropatterns.com/?ref=producthunt) - Free repeatable SVG background patterns for your web projects
 - [Broider](https://maxbittker.github.io/broider/) - A fun tool for designing border decorations!
 - [Gridle](https://gridle.dev/) - CSS grid generator
-- [Tufte CSS](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
-- [jose-elias-alvarez/null-ls.nvim: Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.](https://github.com/jose-elias-alvarez/null-ls.nvim)
-- [Pixel Art to CSS](https://www.pixelartcss.com/?ref=producthunt) - Draw and animate Pixel Art, export the results to CSS and download them
 
 ### Color
+- [Colorful](https://github.com/Siddharth11/Colorful) - A curated list of awesome resources to choose your next color scheme
 - [Color Hunt](https://www.colorhunt.co/?ref=producthunt) - Color Palettes for Designers and Artists
 - [Material Design Palette Generator](https://materialpalettes.com/?ref=producthunt) - Get perfect Material Design color palettes from any hex color.
 - [Eva Design System](https://colors.eva.design/?ref=producthunt) - Deep learning color generator
@@ -323,6 +333,10 @@ How to import bookmarks in:
 - [Rainglow](https://rainglow.io/preview) - A collection of over 320 themes for a variety of different editors and software.
 - [Open Color](https://yeun.github.io/open-color/#grape) - Optimized for UI like font, background, border, etc.
 - [terminal.sexy](https://terminal.sexy/) - Terminal Color Scheme Designer
+- [Picular](https://picular.co/) - The color of anything.
+- [Free Premium Mockups - Instant Download](https://mockups-design.com/) - Mockups-Design.com
+- [https://raw.githubusercontent.com/AnzenKodo/assests/main/my/mascot/mascot.svg](https://raw.githubusercontent.com/AnzenKodo/assests/main/my/mascot/mascot.svg)
+- [Color](https://m2.material.io/inline-tools/color/)
 
 ### SVG
 - [Wicked Backgrounds](https://wickedbackgrounds.com/app) - Create beautiful SVG backgrounds for your UI designs.
@@ -335,6 +349,7 @@ How to import bookmarks in:
 - [Icons8](https://icons8.com/icons/carbon-copy) - Icons, illustrations, photos, music, and design tools.
 - [SVG Repo](https://www.svgrepo.com/) - Free SVG Vectors and Icons
 - [Feather – Simply beautiful open source icons.](https://feathericons.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=design)
+- [Icon Archive](https://iconarchive.com/) - Search 735,802 free icons, desktop icons, download icons, social icons, xp icons, vista icons
 
 ### Patterns
 - [Hero Patterns](https://heropatterns.com/) - Free repeatable SVG background patterns for your web projects
@@ -406,6 +421,11 @@ How to import bookmarks in:
 - [Serverless-Forms](https://github.com/MarketingPipeline/Serverless-Forms) - Serverless forms templates with NO REDIRECTS powered for FREE by Google.
 - [windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - [Pokemon Deckz](https://deck-24abcd.netlify.app/)
+- [Giza Project](https://giza.mused.org/en/guided/266/inside-the-great-pyramid?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Inside the Great Pyramid
+- [GitStory](https://gitstory.app/) - Internet's Git Time machine
+- [Neal Agarwal](https://nealagarwal.me/)
+- [Neal.fun](https://neal.fun/)
+- [This Waifu Does Not Exist v3.5 (TWDNEv3.5)](https://www.thiswaifudoesnotexist.net/index.html) - Gwern
 
 ## Games
 
