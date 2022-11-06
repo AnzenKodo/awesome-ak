@@ -156,6 +156,11 @@ How to import bookmarks in:
 - [Three.js – JavaScript 3D Library](https://threejs.org/)
 - [p5.js](https://p5js.org/) - p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else.
 - [Babylon.js - Powerful, Beautiful, Simple, Open](https://www.babylonjs.com/) - Web-Based 3D At Its Best
+
+#### Terminal
+- [Xterm.js](https://xtermjs.org/) - Build terminals in the browser
+- [fauxTerm: A lightweight (~2KB), faux, terminal-like emulator for the web in javascript](https://github.com/isdampe/fauxTerm)
+- [jQuery Terminal: JavaScript Web Based Terminal Emulator](https://terminal.jcubic.pl/)
 - [MailtoUI](https://mailtoui.com/) - A simple way to enhance your mailto links with a convenient user interface.
 - [Pixel It](https://giventofly.github.io/pixelit/#tryit) - Create pixel art from an image
 - [fireworks.js](https://github.com/crashmax-dev/fireworks-js) - A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.
@@ -395,12 +400,6 @@ How to import bookmarks in:
 - [Cheatography.com](https://www.cheatography.com/) - Cheat Sheets For Every Occasion
 - [GRID](https://grid.malven.co/) - A simple visual cheatsheet for CSS Grid Layout
 - [FLEX](https://flexbox.malven.co/) - A simple visual cheatsheet for flexbox
-
-### Software
-- [LibHunt](https://www.libhunt.com/) - Trending open-source projects and their alternatives.
-- [Product Hunt – The best new products in tech.](https://www.producthunt.com/)
-- [AlternativeTo](https://alternativeto.net/) - Crowdsourced software recommendations
-- [Slant](https://www.slant.co/) - TRUSTWORTHY PRODUCT RANKINGS FOR ALL YOUR SHOPPING NEEDS.
 - [DevDocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
 - [Media Bias/Fact Check](https://mediabiasfactcheck.com/) - Search and Learn the Bias of News Media
 - [Quote Investigator](https://quoteinvestigator.com/) - Tracing Quotations
