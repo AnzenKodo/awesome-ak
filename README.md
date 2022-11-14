@@ -50,6 +50,7 @@ How to import bookmarks in:
 - [ThePrimeagen](https://discord.gg/theprimeagen)
 - [Livakivi](https://discord.com/invite/w6qyB5mpWa)
 - [Fireship](https://discord.gg/fireship)
+- [NAMTAO Productions](https://discord.gg/mCY2bBmDKZ)
 
 ##### AI Images
 - [Midjourney](https://discord.com/invite/midjourney)
@@ -173,8 +174,11 @@ How to import bookmarks in:
 - [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
 - [MathJax](https://www.mathjax.org/) - Beautiful math in all browsers.
 - [kaboom](https://kaboomjs.com/) - 💥 JavaScript game library
+- [Dinero.js](https://dinerojs.com/) - A library for working with monetary values in JavaScript.
+- [CodeMirror](https://codemirror.net/) - A code editor component for the web. It can be used in websites to implement a text input field with support for many editing features, and has a rich programming interface to allow further extension.
 
 ### Site Generators
+- [awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
 - [fresh](https://fresh.deno.dev/) - The next-gen web framework.
 - [Ultra](https://ultrajs.dev/) - The Quest for Zero-Legacy
 - [Preact](https://preactjs.com/) - Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
@@ -189,6 +193,10 @@ How to import bookmarks in:
 - [Horizon UI](https://horizon-ui.com/#/) - Trendiest Open Source Admin Template for Chakra UI & React, TypeScript, JavaScript and NextJS"
 
 ### API
+- [Restfox](https://restfox.dev/) - Offline-first web HTTP client
+
+#### Collection
+- [public-apis](https://github.com/toddmotto/public-apis#photography) - A collective list of free APIs
 - [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 1400 Public APIs
 
 #### Open Graph
@@ -222,11 +230,18 @@ How to import bookmarks in:
 ### Analytics
 - [Counter](https://counter.dev/)
 - [GoatCounter](https://www.goatcounter.com/)
-- [pixelastic](https://www.pixelastic.com/projects/) - Open-Source projects and websites pixelastic released
-- [RegExr](https://regexr.com/) - Learn, Build, & Test RegEx
-- [Favicon Generator](https://realfavicongenerator.net/?ref=producthunt) - For perfect icons on all browsers
-- [Ray.so](https://ray.so/) - Create beautiful images of your code
+
+### Protocol
+- [Lens Protocol](https://www.lens.xyz/) - Building a social network is hard. Lens Protocol makes it easy.
+- [The AT Protocol](https://atproto.com/) - Social networking technology created by Bluesky
+
+### Tools
+- [Sourcegraph](https://sourcegraph.com/search)
 - [EthicalAds](https://www.ethicalads.io/) - Privacy-preserving Ad Network for Developers
+- [Ray.so](https://ray.so/) - Create beautiful images of your code
+- [Favicon Generator](https://realfavicongenerator.net/?ref=producthunt) - For perfect icons on all browsers
+- [RegExr](https://regexr.com/) - Learn, Build, & Test RegEx
+- [pixelastic](https://www.pixelastic.com/projects/) - Open-Source projects and websites pixelastic released
 
 ## Design Tools
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) - A collection of links for free stock photography, video and Illustration websites
@@ -265,6 +280,7 @@ How to import bookmarks in:
 
 ##### Text to Image
 - [waifu-diffusion](https://huggingface.co/hakurei/waifu-diffusion) - Diffusion for Weebs
+- [Stable Diffusion v1-5](https://huggingface.co/spaces/runwayml/stable-diffusion-v1-5) - a Hugging Face Space by runwayml
 - [Palette](https://palette.fm/) - Colorize Photos.
 
 #### Community
@@ -300,6 +316,7 @@ How to import bookmarks in:
 - [Meta Tags](https://metatags.io/font-generator?ref=producthunt) - Instagram Font Generator
 
 ### CSS
+- [Stylify](https://stylifycss.com/) - Write CSS Faster and Efficiently. Write HTML. Get CSS.
 
 #### Framework
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
@@ -369,6 +386,7 @@ How to import bookmarks in:
 - [SimpleLogin](https://app.simplelogin.io/) - Open source anonymous email service
 - [BugMeNot](http://bugmenot.com/?ref=producthunt) - find and share logins
 - [Truecaller](https://www.truecaller.com/) - Leading Global Caller ID & Call Blocking App
+- [FarApps](https://farapps.farcase.xyz/)
 
 ### Writing
 - [Hemingway Editor](https://hemingwayapp.com/) - Hemingway App makes your writing bold and clear. The app highlights lengthy, complex sentences and common errors; if you see a yellow sentence, shorten or split it.
@@ -395,36 +413,40 @@ How to import bookmarks in:
 - [Free online tools](https://freetools.site/) - no registration, unlimited use
 
 ## Information
-
-### Cheatsheet
-- [Cheatography.com](https://www.cheatography.com/) - Cheat Sheets For Every Occasion
-- [GRID](https://grid.malven.co/) - A simple visual cheatsheet for CSS Grid Layout
-- [FLEX](https://flexbox.malven.co/) - A simple visual cheatsheet for flexbox
 - [DevDocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
 - [Media Bias/Fact Check](https://mediabiasfactcheck.com/) - Search and Learn the Bias of News Media
 - [Quote Investigator](https://quoteinvestigator.com/) - Tracing Quotations
 - [Home Manager Options](https://rycee.gitlab.io/home-manager/options.html)
 - [8bitworkshop](https://8bitworkshop.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun)
 - [Wumbo](https://wumbo.net/) - Wumbo is a math reference site for students and teachers.
+- [CS50's Introduction to Computer Science | edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+
+### Cheatsheet
+- [Cheatography.com](https://www.cheatography.com/) - Cheat Sheets For Every Occasion
+- [GRID](https://grid.malven.co/) - A simple visual cheatsheet for CSS Grid Layout
+- [FLEX](https://flexbox.malven.co/) - A simple visual cheatsheet for flexbox
 
 ## Miscellaneous
 - [musicForProgramming();](https://musicforprogramming.net/) - Datassette presents a series of mixes intended for listening while programming to focus the brain and inspire the mind (also compatible with other activities).
 - [Notable people](https://tjukanovt.github.io/notable-people) - Using data from Morgane Laouenan et al., the map is showing birthplaces of the most "notable people" around the world. Data has been processed to show only one person for each unique geographic location with the highest notability rank. Click below to show people only from a specific category.
 - [The Death Clock](https://www.death-clock.org/results.php) - Calculate When Will I Die?
-- [bookmark-recovery](https://github.com/rongjiecomputer/chrome/blob/gh-pages/bookmark-recovery/index.html) - Tool to recover your lost Chrome bookmarks
-- [upload-artifact](https://github.com/actions/upload-artifact)
 - [Character.AI](https://beta.character.ai/help?) - Character.AI is bringing to life the science-fiction dream of open-ended conversations and collaborations with computers.
 - [Wikipedia Speedruns!](https://wikispeedruns.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun)
 - [RSS Club](https://daverupert.com/rss-club/) - daverupert.com
 - [newton](https://newton.vercel.app/) - A really micro micro-service for advanced math.
 - [Serverless-Forms](https://github.com/MarketingPipeline/Serverless-Forms) - Serverless forms templates with NO REDIRECTS powered for FREE by Google.
 - [windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
-- [Pokemon Deckz](https://deck-24abcd.netlify.app/)
 - [Giza Project](https://giza.mused.org/en/guided/266/inside-the-great-pyramid?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Inside the Great Pyramid
-- [GitStory](https://gitstory.app/) - Internet's Git Time machine
 - [Neal Agarwal](https://nealagarwal.me/)
 - [Neal.fun](https://neal.fun/)
+- [Emoji Bullet List – emoji bullet points for your lists](https://emojibulletlist.com/)
+- [ttyd](https://tsl0922.github.io/ttyd/) - Share your terminal over the web
+- [agarrharr/google-bookshelves-widget: 📚 Allows you to display the books in your Google Books Library.](https://github.com/agarrharr/google-bookshelves-widget/tree/master)
+
+### Anime
 - [This Waifu Does Not Exist v3.5 (TWDNEv3.5)](https://www.thiswaifudoesnotexist.net/index.html) - Gwern
+- [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/)
+- [Pokemon Deckz](https://deck-24abcd.netlify.app/)
 
 ## Games
 
