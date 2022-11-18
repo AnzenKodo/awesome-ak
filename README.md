@@ -242,6 +242,7 @@ How to import bookmarks in:
 - [Favicon Generator](https://realfavicongenerator.net/?ref=producthunt) - For perfect icons on all browsers
 - [RegExr](https://regexr.com/) - Learn, Build, & Test RegEx
 - [pixelastic](https://www.pixelastic.com/projects/) - Open-Source projects and websites pixelastic released
+- [fast favicon](https://favi.deno.dev/) - API to provide images for favicons using emojis and characters.
 
 ## Design Tools
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) - A collection of links for free stock photography, video and Illustration websites
@@ -419,12 +420,16 @@ How to import bookmarks in:
 - [Home Manager Options](https://rycee.gitlab.io/home-manager/options.html)
 - [8bitworkshop](https://8bitworkshop.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun)
 - [Wumbo](https://wumbo.net/) - Wumbo is a math reference site for students and teachers.
-- [CS50's Introduction to Computer Science | edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 ### Cheatsheet
 - [Cheatography.com](https://www.cheatography.com/) - Cheat Sheets For Every Occasion
 - [GRID](https://grid.malven.co/) - A simple visual cheatsheet for CSS Grid Layout
 - [FLEX](https://flexbox.malven.co/) - A simple visual cheatsheet for flexbox
+
+### Courses
+- [CS50's](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Introduction to Computer Science
+- [Algorithms & Data Structures](https://frontendmasters.com/courses/algorithms/) - The Last Algorithms Course You'll Need
+- [List of LaTeX mathematical symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) - OeisWiki
 
 ## Miscellaneous
 - [musicForProgramming();](https://musicforprogramming.net/) - Datassette presents a series of mixes intended for listening while programming to focus the brain and inspire the mind (also compatible with other activities).
