@@ -135,6 +135,8 @@ How to import bookmarks in:
 - [</> htmx](https://htmx.org/) - high power tools for html.
 - [Ember.js](https://emberjs.com/) - A framework for ambitious web developers
 - [reveal.js](https://revealjs.com/#/2) - The HTML presentation framework.
+- [Preact](https://preactjs.com/) - Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+- [Alpine.js](https://alpinejs.dev/) - Your new, lightweight, JavaScript framework.
 
 ### Libraries
 
@@ -181,8 +183,6 @@ How to import bookmarks in:
 - [awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
 - [fresh](https://fresh.deno.dev/) - The next-gen web framework.
 - [Ultra](https://ultrajs.dev/) - The Quest for Zero-Legacy
-- [Preact](https://preactjs.com/) - Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
-- [Alpine.js](https://alpinejs.dev/) - Your new, lightweight, JavaScript framework.
 - [Qwik](https://qwik.builder.io/) - Framework reimagined for the edge!
 - [Gatsby](https://www.gatsbyjs.com/) - The Fastest Frontend for the Headless Web
 - [Eleventy](https://www.11ty.dev/) - A simpler static site generator
@@ -226,6 +226,7 @@ How to import bookmarks in:
 - [Public-APIs](https://github.com/n0shake/Public-APIs#advertising) - 📚 A public list of APIs from round the web.
 - [OpenAPI.Tools](https://openapi.tools/) - To keep API developers up to date with the best OpenAPI tooling around, and help direct folks to high quality modern tooling, instead of being stuck on old v2-based rubbish.
 - [httpstat.us](https://httpstat.us/) - This is a super simple service for generating different HTTP codes.
+- [ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API.
 
 ### Analytics
 - [Counter](https://counter.dev/)
@@ -430,6 +431,12 @@ How to import bookmarks in:
 - [CS50's](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Introduction to Computer Science
 - [Algorithms & Data Structures](https://frontendmasters.com/courses/algorithms/) - The Last Algorithms Course You'll Need
 - [List of LaTeX mathematical symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) - OeisWiki
+
+### Maths
+
+#### LaTeX
+- [OeisWiki](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) - List of LaTeX mathematical symbols
+- [LaTeX Mathematics for Undergraduates](https://joshua.smcvt.edu/undergradmath/) - This is a cheat sheet for writing mathematics with LATEX. It is aimed at undergraduates.
 
 ## Miscellaneous
 - [musicForProgramming();](https://musicforprogramming.net/) - Datassette presents a series of mixes intended for listening while programming to focus the brain and inspire the mind (also compatible with other activities).
