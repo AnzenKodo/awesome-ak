@@ -164,6 +164,14 @@ How to import bookmarks in:
 - [Xterm.js](https://xtermjs.org/) - Build terminals in the browser
 - [fauxTerm: A lightweight (~2KB), faux, terminal-like emulator for the web in javascript](https://github.com/isdampe/fauxTerm)
 - [jQuery Terminal: JavaScript Web Based Terminal Emulator](https://terminal.jcubic.pl/)
+
+#### Music
+- [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
+- [ciconia/awesome-music](https://github.com/ciconia/awesome-music#audio-editing) - Awesome Music Projects
+- [awesome-music-listening](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music
+- [awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services and resources to create and distribute music.
+- [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
+- [awesome-webaudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 - [MailtoUI](https://mailtoui.com/) - A simple way to enhance your mailto links with a convenient user interface.
 - [Pixel It](https://giventofly.github.io/pixelit/#tryit) - Create pixel art from an image
 - [fireworks.js](https://github.com/crashmax-dev/fireworks-js) - A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.
