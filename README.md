@@ -101,14 +101,6 @@ How to import bookmarks in:
 ### Languages
 - [V](https://vlang.io/) - Simple, fast, safe, compiled. For developing maintainable software.
 
-### Inspiration
-- [districts on Neocities](https://districts.neocities.org/) - Your internet neighbor
-- [Neocities](https://neocities.org/browse) - Bringing back the fun, creativity and independence that made the web great.
-- [PersonalSit.es](https://personalsit.es/) - PersonalSit.es | Yes we got hot and fresh sites
-- [Web Design Experiments by Jen Simmons](https://labs.jensimmons.com/)
-- [Webframe](https://webframe.xyz/?ref=producthunt) - Beautiful web app screenshots
-- [Typewolf](https://www.typewolf.com/?ref=producthunt) - What’s Trending in Type
-
 ### CDN
 
 #### JS Module
@@ -137,6 +129,7 @@ How to import bookmarks in:
 - [reveal.js](https://revealjs.com/#/2) - The HTML presentation framework.
 - [Preact](https://preactjs.com/) - Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 - [Alpine.js](https://alpinejs.dev/) - Your new, lightweight, JavaScript framework.
+- [ArrowJS](https://www.arrow-js.com/) - A experimental tool for programming reactive interfaces using native JavaScript. It’s not really a framework, but not less powerful than a framework either.
 
 ### Libraries
 
@@ -235,6 +228,7 @@ How to import bookmarks in:
 - [OpenAPI.Tools](https://openapi.tools/) - To keep API developers up to date with the best OpenAPI tooling around, and help direct folks to high quality modern tooling, instead of being stuck on old v2-based rubbish.
 - [httpstat.us](https://httpstat.us/) - This is a super simple service for generating different HTTP codes.
 - [ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API.
+- [https://ejm.sh](https://ejm.sh/)
 
 ### Analytics
 - [Counter](https://counter.dev/)
@@ -252,10 +246,20 @@ How to import bookmarks in:
 - [RegExr](https://regexr.com/) - Learn, Build, & Test RegEx
 - [pixelastic](https://www.pixelastic.com/projects/) - Open-Source projects and websites pixelastic released
 - [fast favicon](https://favi.deno.dev/) - API to provide images for favicons using emojis and characters.
+- [ntfy.sh](https://ntfy.sh/) - Send push notifications to your phone via PUT/POST
 
 ## Design Tools
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) - A collection of links for free stock photography, video and Illustration websites
 - [awesome-material](https://github.com/sachin1092/awesome-material) - A curated list of Google's material design libraries for different frameworks.
+
+### Inspiration
+- [districts on Neocities](https://districts.neocities.org/) - Your internet neighbor
+- [Neocities](https://neocities.org/browse) - Bringing back the fun, creativity and independence that made the web great.
+- [PersonalSit.es](https://personalsit.es/) - PersonalSit.es | Yes we got hot and fresh sites
+- [Web Design Experiments by Jen Simmons](https://labs.jensimmons.com/)
+- [Webframe](https://webframe.xyz/?ref=producthunt) - Beautiful web app screenshots
+- [Typewolf](https://www.typewolf.com/?ref=producthunt) - What’s Trending in Type
+- [Landings](https://landings.dev/) - Landing Page Examples
 
 ### Editors
 - [Template](https://raw.githubusercontent.com/AnzenKodo/assests/main/template.svg)
@@ -289,9 +293,12 @@ How to import bookmarks in:
 - [remove.bg](https://www.remove.bg/) - Remove Background from Image
 
 ##### Text to Image
+- [AIArtists.org](https://aiartists.org/ai-generated-art-tools) - AI Art Generators Make AI Art, Paintings & More (2021 GUIDE)
 - [waifu-diffusion](https://huggingface.co/hakurei/waifu-diffusion) - Diffusion for Weebs
 - [Stable Diffusion v1-5](https://huggingface.co/spaces/runwayml/stable-diffusion-v1-5) - a Hugging Face Space by runwayml
+- [awesome-generative-deep-art](https://github.com/filipecalegario/awesome-generative-deep-art) - A curated list of generative deep learning tools, works, models, etc. for artistic uses
 - [Palette](https://palette.fm/) - Colorize Photos.
+- [brushify.art](https://brushify.art/) - Whimsical Watercolors
 
 #### Community
 - [Flickr](https://www.flickr.com/) - The best online photo management and sharing application in the world.
@@ -321,6 +328,9 @@ How to import bookmarks in:
 - [Trendy CSS Text Shadows](https://www.mixfont.com/shadows?ref=producthunt) - Looking for inspiration to make your headlines stand out?
 - [Fontshare](https://www.fontshare.com/) - Quality Fonts. Free.
 - [Fontesk](https://fontesk.com/punk-mono-typeface/) - Free Fonts & Typefaces
+
+#### Fonts
+- [B612 – A Highly legible open source font family designed and tested to be used on aircraft cockpit screens.](https://b612-font.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=design)
 - [Monocraft](https://github.com/IdreesInc/Monocraft) - A programming font based on the typeface used in Minecraft
 - [Unicode Character Table](https://unicode-table.com/en/) - Unicode web service for character search. Find, copy and paste your favorite characters: 😎 Emoji, ❤ Hearts, 💲 Currencies, → Arrows, ★ Stars and many others 🚩
 - [Meta Tags](https://metatags.io/font-generator?ref=producthunt) - Instagram Font Generator
@@ -405,6 +415,7 @@ How to import bookmarks in:
 - [Ok! So...](https://okso.app/) - a minimalistic online drawing app to express, grasp, and organize your thoughts and ideas. Draw to explain. Draw to grasp.
 - [Monkeytype](https://monkeytype.com/about) - A minimalistic typing test, featuring many test modes, an account system to save your typing speed history and user configurable features like themes, a smooth caret and more.
 - [cybertype - Fast and Minimal Typing App](https://cybertype.app/) - Improve your typing speed.
+- [Bike](https://www.hogbaysoftware.com/posts/bike-rich-text/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Innovative Rich Text Editing
 
 ### Management
 - [tdo](https://tdoapp.com/b/cl0o3er) - Keyboard driven, hackable TODO list
@@ -421,6 +432,7 @@ How to import bookmarks in:
 - [Dub](https://dub.sh/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) - Open-Source Bitly Alternative
 - [Looria analyzes Reddit posts and comments to find the most popular products.](https://looria.com/reddit/overview)
 - [Free online tools](https://freetools.site/) - no registration, unlimited use
+- [SETools](https://www.setools.xyz/) - Free Online Tools Website
 
 ## Information
 - [DevDocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
@@ -445,6 +457,7 @@ How to import bookmarks in:
 #### LaTeX
 - [OeisWiki](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) - List of LaTeX mathematical symbols
 - [LaTeX Mathematics for Undergraduates](https://joshua.smcvt.edu/undergradmath/) - This is a cheat sheet for writing mathematics with LATEX. It is aimed at undergraduates.
+- [Mathics](https://mathics.org/)
 
 ## Miscellaneous
 - [musicForProgramming();](https://musicforprogramming.net/) - Datassette presents a series of mixes intended for listening while programming to focus the brain and inspire the mind (also compatible with other activities).
@@ -467,6 +480,7 @@ How to import bookmarks in:
 - [This Waifu Does Not Exist v3.5 (TWDNEv3.5)](https://www.thiswaifudoesnotexist.net/index.html) - Gwern
 - [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/)
 - [Pokemon Deckz](https://deck-24abcd.netlify.app/)
+- [IMDb Table](https://docyx.github.io/imdb-table/)
 
 ## Games
 
@@ -493,3 +507,4 @@ How to import bookmarks in:
 - [Beat Rocks](https://js13kgames.com/entries/beat-rocks) - Asteroids except it's a rhythm game now? Unleash your inner dancer, unlock new instruments of destruction and make sure to play them on the beat.
 - [The Maze of Space Goblins](https://js13kgames.com/entries/the-maze-of-space-goblins) - A puzzle game that combines Sokoban-like gameplay mechanics with match-3.
 - [Elevator Saga](https://play.elevatorsaga.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun) - the elevator programming game
+- [DogBunny](https://dogbunnypuzzle.com/) - Puzzle
