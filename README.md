@@ -141,6 +141,7 @@ How to import bookmarks in:
 - [MVP.css](https://andybrewer.github.io/mvp/?utm_source=hackernewsletter&utm_medium=email&utm_term=design) - Minimalist stylesheet for HTML elements
 - [Headless UI](https://headlessui.com/) - Unstyled, fully accessible UI components
 - [daisyUI — Tailwind CSS Components](https://daisyui.com/)
+- [Tippy.js](https://atomiks.github.io/tippyjs/) - Tooltip, Popover, Dropdown, and Menu Library
 
 #### Avatars
 - [Multiavatar](https://github.com/multiavatar/Multiavatar?ref=producthunt) - Multicultural Avatar Generator in JavaScript
@@ -180,6 +181,7 @@ How to import bookmarks in:
 - [kaboom](https://kaboomjs.com/) - 💥 JavaScript game library
 - [Dinero.js](https://dinerojs.com/) - A library for working with monetary values in JavaScript.
 - [CodeMirror](https://codemirror.net/) - A code editor component for the web. It can be used in websites to implement a text input field with support for many editing features, and has a rich programming interface to allow further extension.
+- [Popper](https://popper.js.org/) - Tooltip & Popover Positioning Engine
 
 ### Site Generators
 - [awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
