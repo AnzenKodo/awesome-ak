@@ -52,10 +52,11 @@ How to import bookmarks in:
 - [Fireship](https://discord.gg/fireship)
 - [NAMTAO Productions](https://discord.gg/mCY2bBmDKZ)
 
-##### AI Images
+##### AI
 - [Midjourney](https://discord.com/invite/midjourney)
 - [Stable Diffusion](https://discord.gg/stablediffusion)
 - [東方Project AI](https://discord.gg/touhouai)
+- [OpenAI](https://discord.gg/openai)
 - [Niko's Math Corner](https://discord.gg/jcJGBdneD2)
 - [Ultra](https://discord.gg/XDC5WxGHb2)
 - [OpenAI](https://discord.gg/openai)
