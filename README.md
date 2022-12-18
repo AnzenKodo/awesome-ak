@@ -84,6 +84,7 @@ How to import bookmarks in:
 - [Deep JavaScript](https://exploringjs.com/deep-js/index.html) - Theory and techniques
 - [Welcome to Linux command line for you and me!](https://lym.readthedocs.io/en/latest/index.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Linux command line for you and me 0.1 documentation
 - [The Fundamentals of Control Theory](https://engineeringmedia.com/books?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - An Intuitive Approach from the Creator of Control System Lectures on YouTube
+- [The Network State](https://thenetworkstate.com/) - Technology has enabled us to start new companies, new communities, and new currencies. But can we use it to start new cities, or even new countries? This book explains how to build the successor to the nation state, a concept we call the network state.
 
 ### Lists
 - [dotfiles.github.io](https://dotfiles.github.io/inspiration/) - Your unofficial guide to dotfiles on GitHub.
