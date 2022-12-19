@@ -68,24 +68,6 @@ How to import bookmarks in:
 
 ## Pins
 
-### Open Letters
-- [1x Engineer](https://1x.engineer/)
-- [37signals](https://37signals.com/) - A catalog of ideas, signals, that drive us.
-- [Please don’t theme our apps](https://stopthemingmy.app/)
-- [Vanilla JS](http://vanilla-js.com/)
-- [Want quick answers? Ask questions well!](https://quick-answers.kronis.dev/)
-
-### Books
-- [Standard Ebooks](https://standardebooks.org/ebooks) - Free and liberated ebooks, carefully produced for the true book lover.
-- [How to Design Programs, Second Edition](https://htdp.org/2022-6-7/Book/index.html)
-- [Beautiful Racket by Matthew Butterick](https://beautifulracket.com/)
-- [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/toc.html)
-- [Tackling TypeScript](https://exploringjs.com/tackling-ts/index.html) - Upgrading from JavaScript
-- [Deep JavaScript](https://exploringjs.com/deep-js/index.html) - Theory and techniques
-- [Welcome to Linux command line for you and me!](https://lym.readthedocs.io/en/latest/index.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Linux command line for you and me 0.1 documentation
-- [The Fundamentals of Control Theory](https://engineeringmedia.com/books?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - An Intuitive Approach from the Creator of Control System Lectures on YouTube
-- [The Network State](https://thenetworkstate.com/) - Technology has enabled us to start new companies, new communities, and new currencies. But can we use it to start new cities, or even new countries? This book explains how to build the successor to the nation state, a concept we call the network state.
-
 ### Lists
 - [dotfiles.github.io](https://dotfiles.github.io/inspiration/) - Your unofficial guide to dotfiles on GitHub.
 - [Plaintext Everything](https://github.com/captn3m0/plaintext-everything) - A list of tools and articles helpful for keeping everything under plaintext.
@@ -94,9 +76,6 @@ How to import bookmarks in:
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [awesome-console-services](https://github.com/NNBnh/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [awesome-xontribs](https://github.com/xonsh/awesome-xontribs) - Awesome list of Xonsh contributions/extensions
-
-### Essay
-- [How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html)
 - [Shell Script Best Practices — The Sharat's](https://sharats.me/posts/shell-script-best-practices/?utm_source=tldrnewsletter)
 
 ## DevTools
@@ -144,6 +123,8 @@ How to import bookmarks in:
 - [Headless UI](https://headlessui.com/) - Unstyled, fully accessible UI components
 - [daisyUI — Tailwind CSS Components](https://daisyui.com/)
 - [Tippy.js](https://atomiks.github.io/tippyjs/) - Tooltip, Popover, Dropdown, and Menu Library
+- [MUI Core](https://mui.com/core/) - Ready to use components, free forever
+- [Ant Design](https://ant.design/) - The world's second most popular React UI framework
 
 #### Avatars
 - [Multiavatar](https://github.com/multiavatar/Multiavatar?ref=producthunt) - Multicultural Avatar Generator in JavaScript
@@ -169,23 +150,56 @@ How to import bookmarks in:
 - [awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services and resources to create and distribute music.
 - [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 - [awesome-webaudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
+
+#### Editor
+- [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
+- [CodeMirror](https://codemirror.net/) - A code editor component for the web. It can be used in websites to implement a text input field with support for many editing features, and has a rich programming interface to allow further extension.
+- [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
+- [editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
+
+#### Optimization
+- [resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
+- [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes
+- [fast-array-join](https://github.com/anonrig/fast-array-join) - 61% faster array join for JavaScript.
+
+#### Components
 - [MailtoUI](https://mailtoui.com/) - A simple way to enhance your mailto links with a convenient user interface.
+- [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
+- [Tabulator](http://tabulator.info/) - Easy to use, simple to code, fully featured, interactive JavaScript tables
+
+#### AI/ML
+- [winkNLP](https://winkjs.org/wink-nlp/) - NLP in Node.js
+- [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+- [Tesseract.js](https://tesseract.projectnaptha.com/) - Pure Javascript OCR for 100 Languages!
+- [winkjs/wink-nlp: Developer friendly Natural Language Processing ✨](https://github.com/winkjs/wink-nlp)
+
+#### 3D
+- [four](https://github.com/CodyJasonBennett/four) - 💎 Minimal three.js alternative in 4KB.
 - [Pixel It](https://giventofly.github.io/pixelit/#tryit) - Create pixel art from an image
 - [fireworks.js](https://github.com/crashmax-dev/fireworks-js) - A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.
-- [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
-- [Tesseract.js](https://tesseract.projectnaptha.com/) - Pure Javascript OCR for 100 Languages!
 - [Dbin](https://github.com/oscarotero/dbin?utm_source=denonews&utm_medium=email&utm_campaign=51-announcing-the-new-slack-platform-powered-by) - Library to download binary files from GitHub releases detecting the correct platform.
 - [howler.js](https://howlerjs.com/) - JavaScript audio library for the modern web
-- [Tabulator](http://tabulator.info/) - Easy to use, simple to code, fully featured, interactive JavaScript tables
 - [satori](https://github.com/vercel/satori?utm_source=tldrnewsletter) - Enlightened library to convert HTML and CSS to SVG
 - [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
 - [MathJax](https://www.mathjax.org/) - Beautiful math in all browsers.
 - [kaboom](https://kaboomjs.com/) - 💥 JavaScript game library
 - [Dinero.js](https://dinerojs.com/) - A library for working with monetary values in JavaScript.
-- [CodeMirror](https://codemirror.net/) - A code editor component for the web. It can be used in websites to implement a text input field with support for many editing features, and has a rich programming interface to allow further extension.
 - [Popper](https://popper.js.org/) - Tooltip & Popover Positioning Engine
+- [Chart.js](https://www.chartjs.org/) - Open source HTML5 Charts for your website
+- [Vue TermUI](https://vue-termui.dev/) - The Modern Terminal UI Framework
+- [Termino.js - Create a web based terminal on any website](https://github.com/MarketingPipeline/Termino.js) - great for games, animations and real world apps!
 
 ### Site Generators
+
+#### Presentation
+- [Slidev](https://sli.dev/) - Presentation Slides for Developers
+- [Marp](https://marp.app/) - Markdown Presentation Ecosystem
+- [reveal.js](https://revealjs.com/) - The HTML presentation framework
+
+#### Documentation
+- [Mintlify](https://mintlify.com/) - Beautiful documentation that converts users
+- [Docus](https://docus.dev/) - The best place to start your documentation.
+- [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly, focus on your content 
 - [awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
 - [fresh](https://fresh.deno.dev/) - The next-gen web framework.
 - [Ultra](https://ultrajs.dev/) - The Quest for Zero-Legacy
@@ -224,6 +238,8 @@ How to import bookmarks in:
 - [Icotar](https://icotar.com/?ref=producthunt) - Colorful Icon Avatars
 - [99 Avatars](https://99avatars.com/api-docs) - Avatars generator
 - [unavatar.io](https://unavatar.io/?ref=producthunt) - get unified user avatar from Twitter, GitHub, Intagram, Reddit, etc.
+- [avatar-generator](https://github.com/itsmichaelbtw/avatar-generator) - Generate SVG or PNG avatars with ease.
+- [Bunny AI](https://bunny.net/blog/introducing-bunny-optimizer-ai-a-new-way-of-creating-content/) - The easiest way to dynamically generate images
 
 #### Lists
 - [ProgrammableWeb](https://www.programmableweb.com/apis/directory) - Search the Largest API Directory on the Web
@@ -234,6 +250,7 @@ How to import bookmarks in:
 - [httpstat.us](https://httpstat.us/) - This is a super simple service for generating different HTTP codes.
 - [ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API.
 - [https://ejm.sh](https://ejm.sh/)
+- [DummyJSON](https://dummyjson.com/) - Fake REST API of JSON data for development
 
 ### Analytics
 - [Counter](https://counter.dev/)
@@ -252,10 +269,13 @@ How to import bookmarks in:
 - [pixelastic](https://www.pixelastic.com/projects/) - Open-Source projects and websites pixelastic released
 - [fast favicon](https://favi.deno.dev/) - API to provide images for favicons using emojis and characters.
 - [ntfy.sh](https://ntfy.sh/) - Send push notifications to your phone via PUT/POST
+- [Remotion](https://www.remotion.dev/) - Make videos programmatically
+- [Flow](https://app.flowoss.com/)
 
 ## Design Tools
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) - A collection of links for free stock photography, video and Illustration websites
 - [awesome-material](https://github.com/sachin1092/awesome-material) - A curated list of Google's material design libraries for different frameworks.
+- [curated-design-tools](https://github.com/kudapara/curated-design-tools) - A curated list of the tools we use to enhance our design wokflow.
 
 ### Inspiration
 - [districts on Neocities](https://districts.neocities.org/) - Your internet neighbor
@@ -285,6 +305,7 @@ How to import bookmarks in:
 - [Glitch Image Generator](https://glitchyimage.com/)
 - [AI Gahaku](https://ai-art.tokyo/en/) - A masterpiece from your photos.
 - [Look Scanned - A pure frontend site that makes your PDFs look scanned! No need for printers and scanners anymore](https://lookscanned.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) - everything you need to do is just a few clicks.
+- [picofme.io](https://picofme.io/) - AI profile picture maker
 
 ##### Upscaler
 - [AI Image Upscaler](https://imgupscaler.com/) - Upscale Photo, Cartoons in Batch Free
@@ -319,6 +340,8 @@ How to import bookmarks in:
 - [Pexels](https://www.pexels.com/) - Free Stock Photos, Royalty Free Stock Images & Copyright Free Pictures.
 - [Pixabay](https://pixabay.com/) - 2.7 million+ Stunning Free Images to Use Anywhere
 - [500px](https://500px.com/) - Discover and share the world's best photos.
+- [Artistic.wtf](https://www.artistic.wtf/) - Free text to image generator using Stable Diffusion
+- [Base64 Image Encoder](https://www.base64-image.de/)
 
 ### Font
 - [awesome-fonts](https://github.com/brabadu/awesome-fonts#general) - Curated list of fonts and everything
@@ -333,15 +356,17 @@ How to import bookmarks in:
 - [Trendy CSS Text Shadows](https://www.mixfont.com/shadows?ref=producthunt) - Looking for inspiration to make your headlines stand out?
 - [Fontshare](https://www.fontshare.com/) - Quality Fonts. Free.
 - [Fontesk](https://fontesk.com/punk-mono-typeface/) - Free Fonts & Typefaces
+- [Font Library](https://katydecorah.com/font-library/) - An open source project to tag and organize Google Fonts.
 
 #### Fonts
 - [B612 – A Highly legible open source font family designed and tested to be used on aircraft cockpit screens.](https://b612-font.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=design)
 - [Monocraft](https://github.com/IdreesInc/Monocraft) - A programming font based on the typeface used in Minecraft
 - [Unicode Character Table](https://unicode-table.com/en/) - Unicode web service for character search. Find, copy and paste your favorite characters: 😎 Emoji, ❤ Hearts, 💲 Currencies, → Arrows, ★ Stars and many others 🚩
 - [Meta Tags](https://metatags.io/font-generator?ref=producthunt) - Instagram Font Generator
+- [Type Scale](https://type-scale.com/) - A Visual Calculator
 
 ### CSS
-- [Stylify](https://stylifycss.com/) - Write CSS Faster and Efficiently. Write HTML. Get CSS.
+- [UnusedCSS](https://unused-css.com/) - Remove Unused CSS
 
 #### Framework
 - [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
@@ -351,18 +376,56 @@ How to import bookmarks in:
 - [awsm.css](https://igoradamenko.github.io/awsm.css/) - A CSS library for beautify semantic HTML markup without classes, attributes, etc. Use tags only.
 - [Tufte CSS](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [missing.css](https://missing.style/)
+- [Pure](https://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
+- [Master CSS](https://css.master.co/) - A Virtual CSS language with enhanced syntax.
+- [unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
+- [Stylify](https://stylifycss.com/) - Write CSS Faster and Efficiently. Write HTML. Get CSS.
 
 #### Libraries
 - [Animista](https://animista.net/?ref=producthunt) - CSS Animations on Demand
 - [Charts.css](https://chartscss.org/)
+- [Transition.css](https://www.transition.style/#in:circle:center) - easy transitions with clip-path
+- [Floating UI](https://floating-ui.com/) - Create tooltips, popovers, dropdowns, and more
 
 #### Tools
-- [Glassmorphism CSS Generator](https://ui.glass/generator/?ref=producthunt) - free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.
+
+##### Collection
 - [CSS Generator Tool](https://cssgenerator.org/) - CSS Demonstration and Generation
+- [CSS Portal - Generators, Resources, Tools, HTML](https://www.cssportal.com/) - CSS Portal
+
+##### Layout
+- [CSS Layout Generator](https://layout.bradwoods.io/about) - The Braid Design System believes UI (User Interface) components should not provide surrounding white space. For example, a list item having a margin below it to add a gap between itself & the next item. This margin breaks component encapsulation, making it harder to use. A well-built component should not affect anything outside itself.
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+
+##### Pattern
+- [wweb.dev](https://wweb.dev/resources/animated-css-background-generator/) - Animated CSS Background Generator
+- [Trianglify.io](https://trianglify.io/) - Low Poly Pattern Generator
+- [Patternify](http://www.patternify.com/) - CSS Pattern Generator
+- [Patternizer](https://patternizer.com/4hy3) - Stripe Pattern Generator Tool
+
+##### Animation
+- [pppsychedelic](https://fffuel.co/pppsychedelic/) - Make High Resolution Psychedelic Backgrounds 
+- [wwwatercolor](https://fffuel.co/wwwatercolor/) - watercolor background & texture maker
+- [wwwatercolor](https://fffuel.co/wwwatercolor/) - watercolor background & texture maker
+- [hhholographic](https://fffuel.co/hhholographic/) - Holographic & Iridescent Background/Texture Maker
+- [aaabstract](https://fffuel.co/aaabstract/) - abstract wavy background maker
+- [Glassmorphism CSS Generator](https://ui.glass/generator/?ref=producthunt) - free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.
 - [Glassmorphism CSS Generator](https://markodenic.com/tools/glassmorphism-css-generator/) - Marko Denic Web Developer
 - [Pixel Art to CSS](https://www.pixelartcss.com/?ref=producthunt) - Draw and animate Pixel Art, export the results to CSS and download them
+- [Smooth Shadow](https://shadows.brumm.af/) - Make a smooth shadow, friend.
+- [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/#66.30.30.30--.)
+- [Clippy](https://bennettfeely.com/clippy/) - CSS clip-path maker
+- [cssFilters.co](https://www.cssfilters.co/) - Custom and Instagram like photo filters for CSS
+- [WAIT! Animate](https://waitanimate.wstone.uk/) - CSS doesn't provide a property to pause an animation before it loops around again. Yes, there's animation-delay but this simply denotes a delay at the very start of the animation, when the element is first shown. WAIT! Animate calculates updated keyframe percentages given a wait time meaning you can insert a delay between each animation iteration using pure CSS, without JavaScript.
+- [Haikei](https://app.haikei.app/) - A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more!
 
 #### Examples
+
+##### Loader
+- [Whirl](https://whirl.netlify.app/) - CSS loading animations with minimal effort!
+- [CSS loaders and Spinners](https://cssloaders.github.io/)
+- [CSS Portal](https://www.cssportal.com/css-loader-generator/) - CSS Loader Generator
+- [Loader Gallery](https://loading.io/spinner/) - Customize and make your own unique loader!
 - [CSS Layout](https://csslayout.io/) - A collection of popular layouts and patterns made with CSS
 - [CSS Scan](https://getcssscan.com/css-box-shadow-examples?ref=producthunt) - 93 Beautiful CSS box-shadow examples
 - [Box Shadow](https://box-shadow.art/) - CSS box shadow inspiration
@@ -370,6 +433,8 @@ How to import bookmarks in:
 - [Hero Patterns](https://heropatterns.com/?ref=producthunt) - Free repeatable SVG background patterns for your web projects
 - [Broider](https://maxbittker.github.io/broider/) - A fun tool for designing border decorations!
 - [Gridle](https://gridle.dev/) - CSS grid generator
+- [Animated Backgrounds](https://animatedbackgrounds.me/)
+- [CSS Pattern](https://css-pattern.com/) - Fancy backgrounds with CSS gradients
 
 ### Color
 - [Colorful](https://github.com/Siddharth11/Colorful) - A curated list of awesome resources to choose your next color scheme
@@ -384,6 +449,11 @@ How to import bookmarks in:
 - [Free Premium Mockups - Instant Download](https://mockups-design.com/) - Mockups-Design.com
 - [https://raw.githubusercontent.com/AnzenKodo/assests/main/my/mascot/mascot.svg](https://raw.githubusercontent.com/AnzenKodo/assests/main/my/mascot/mascot.svg)
 - [Color](https://m2.material.io/inline-tools/color/)
+- [P. C. M. 0.25](https://colormixer.web.app/02332971ff623007ffff7c5f55610300ff9bc95200440301/Sunset) - Parametric Color Mixer v 0.25
+
+#### Testing
+- [WhoCanUse](https://www.whocanuse.com/?bg=339936&fg=ffffff&fs=16&fw=) - It's a tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
+- [tinycolor](https://github.com/scttcper/tinycolor) - 🎨 Color manipulation and conversion
 
 ### SVG
 - [Wicked Backgrounds](https://wickedbackgrounds.com/app) - Create beautiful SVG backgrounds for your UI designs.
@@ -397,6 +467,7 @@ How to import bookmarks in:
 - [SVG Repo](https://www.svgrepo.com/) - Free SVG Vectors and Icons
 - [Feather – Simply beautiful open source icons.](https://feathericons.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=design)
 - [Icon Archive](https://iconarchive.com/) - Search 735,802 free icons, desktop icons, download icons, social icons, xp icons, vista icons
+- [Glyphter](https://glyphter.com/) - The SVG Font Machine
 
 ### Patterns
 - [Hero Patterns](https://heropatterns.com/) - Free repeatable SVG background patterns for your web projects
@@ -427,6 +498,10 @@ How to import bookmarks in:
 - [Markwhen](https://markwhen.com/) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [Habitory](https://habitory.com/) - Habit tracking made simple
 - [The Pomodoro Tracker — A useful tool for time management based on Pomodoro Technique.](https://pomodoro-tracker.com/)
+
+### Helper
+- [Perplexity AI](https://www.perplexity.ai/) - Ask Anything
+- [ChatGPT](https://chat.openai.com/chat) - A type of language model developed by OpenAI. It is a deep neural network that has been trained to generate human-like text by predicting the next word in a sequence, given the words that come before it.
 - [Snapdrop](https://snapdrop.net/) - Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer and Open Source. No Setup, No Signup.
 - [QR Code Scanner](https://qrcodescan.in/) - The fastest and most user-friendly web application.
 - [PDF Host](https://www.pdfhost.net/) - On this website you can upload PDF documents to send to your friends, family, and other people.
@@ -446,6 +521,7 @@ How to import bookmarks in:
 - [Home Manager Options](https://rycee.gitlab.io/home-manager/options.html)
 - [8bitworkshop](https://8bitworkshop.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun)
 - [Wumbo](https://wumbo.net/) - Wumbo is a math reference site for students and teachers.
+- [Ground News](https://ground.news/) - Breaking News Headlines and Media Bias
 
 ### Cheatsheet
 - [Cheatography.com](https://www.cheatography.com/) - Cheat Sheets For Every Occasion
@@ -465,6 +541,11 @@ How to import bookmarks in:
 - [Mathics](https://mathics.org/)
 
 ## Miscellaneous
+
+### Anime
+- [This Waifu Does Not Exist v3.5 (TWDNEv3.5)](https://www.thiswaifudoesnotexist.net/index.html) - Gwern
+- [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/)
+- [Pokemon Deckz](https://deck-24abcd.netlify.app/)
 - [musicForProgramming();](https://musicforprogramming.net/) - Datassette presents a series of mixes intended for listening while programming to focus the brain and inspire the mind (also compatible with other activities).
 - [Notable people](https://tjukanovt.github.io/notable-people) - Using data from Morgane Laouenan et al., the map is showing birthplaces of the most "notable people" around the world. Data has been processed to show only one person for each unique geographic location with the highest notability rank. Click below to show people only from a specific category.
 - [The Death Clock](https://www.death-clock.org/results.php) - Calculate When Will I Die?
@@ -480,12 +561,9 @@ How to import bookmarks in:
 - [Emoji Bullet List – emoji bullet points for your lists](https://emojibulletlist.com/)
 - [ttyd](https://tsl0922.github.io/ttyd/) - Share your terminal over the web
 - [agarrharr/google-bookshelves-widget: 📚 Allows you to display the books in your Google Books Library.](https://github.com/agarrharr/google-bookshelves-widget/tree/master)
-
-### Anime
-- [This Waifu Does Not Exist v3.5 (TWDNEv3.5)](https://www.thiswaifudoesnotexist.net/index.html) - Gwern
-- [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/)
-- [Pokemon Deckz](https://deck-24abcd.netlify.app/)
 - [IMDb Table](https://docyx.github.io/imdb-table/)
+- [Sprig](https://sprig.hackclub.com/) - The game console where every player is a creator.
+- [The GPT Times](https://the-gpt-times.eriks-studio.repl.co/)
 
 ## Games
 
