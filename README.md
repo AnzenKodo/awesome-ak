@@ -539,6 +539,8 @@ How to import bookmarks in:
 - [OeisWiki](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) - List of LaTeX mathematical symbols
 - [LaTeX Mathematics for Undergraduates](https://joshua.smcvt.edu/undergradmath/) - This is a cheat sheet for writing mathematics with LATEX. It is aimed at undergraduates.
 - [Mathics](https://mathics.org/)
+- [Purplemath](https://www.purplemath.com/index.htm) - Free and clear online algebra help!
+- [Math Help](https://www.mathhelp.com/) - Online Test Prep, Tutoring, and Homeschooling
 
 ## Miscellaneous
 
