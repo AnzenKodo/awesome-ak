@@ -468,6 +468,7 @@ How to import bookmarks in:
 - [Feather – Simply beautiful open source icons.](https://feathericons.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=design)
 - [Icon Archive](https://iconarchive.com/) - Search 735,802 free icons, desktop icons, download icons, social icons, xp icons, vista icons
 - [Glyphter](https://glyphter.com/) - The SVG Font Machine
+- [Iconify](https://iconify.design/) - all open source icons in one framework
 
 ### Patterns
 - [Hero Patterns](https://heropatterns.com/) - Free repeatable SVG background patterns for your web projects
@@ -541,6 +542,30 @@ How to import bookmarks in:
 - [Mathics](https://mathics.org/)
 - [Purplemath](https://www.purplemath.com/index.htm) - Free and clear online algebra help!
 - [Math Help](https://www.mathhelp.com/) - Online Test Prep, Tutoring, and Homeschooling
+- [Wolfram MathWorld](https://mathworld.wolfram.com/) - The Web's Most Extensive Mathematics Resource
+
+### Journals
+- [IEEE Open](https://open.ieee.org/publishing-options/topical-journals/) - Fully Open Access Topical Journals
+- [Elsevier Journals](https://www.elsevier.com/open-access/open-access-journals) - Open Access Journals
+- [Elsevier Scopus Blog](https://blog.scopus.com/topics/open-access) - Open Access
+- [ScienceDirect.com](https://www.sciencedirect.com/browse/journals-and-books) - Browse journals and books
+- [Wiley](https://authorservices.wiley.com/open-research/open-access/index.html) - Open Access
+
+### Question Papers
+- [Curriculum Search – Maharashtra State Board of Technical Education, Mumbai , India](https://msbte.org.in/portal/curriculum-search/)
+- [Mumbai University – English » Old Question Papers](https://old.mu.ac.in/old-question-papers-2/)
+- [Stupidsid](https://stupidsid.com/) - an online platform for study resources and educational information | Stupidsid
+
+### Books
+- [EasyEngineering](https://easyengineering.net/) - EasyEngineering Networks – An Online Educational Portal
+- [EPDF.TIPS - Write A Book And Publish](https://epdf.tips/) - PDF Free Download
+- [FreeComputerBooks.com](https://freecomputerbooks.com/) - Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials
+- [Directory of Open Access Books](https://www.doabooks.org/) - Online Library and Publication Platform
+- [obooko](https://www.obooko.com/) - Download Free Books Online (PDF &amp; EPUB Ebooks)
+- [PDF Drive](https://www.pdfdrive.com/) - Search and download PDF files for free.
+- [KUPDF - Free document sharing platform](https://kupdf.net/) - Upload and share
+- [Engineering Books PDF](https://engineeringbookspdf.com/) - Download Free Past Papers, PDF Notes, Manuals & Templates, we have 4485 Books & Templates for free |
+- [Technical Books Pdf](https://www.technicalbookspdf.com/) - Download Free PDF Books, Notes and Manuals for Study
 
 ## Miscellaneous
 
