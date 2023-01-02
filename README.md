@@ -323,6 +323,11 @@ How to import bookmarks in:
 - [waifu-diffusion](https://huggingface.co/hakurei/waifu-diffusion) - Diffusion for Weebs
 - [Stable Diffusion v1-5](https://huggingface.co/spaces/runwayml/stable-diffusion-v1-5) - a Hugging Face Space by runwayml
 - [awesome-generative-deep-art](https://github.com/filipecalegario/awesome-generative-deep-art) - A curated list of generative deep learning tools, works, models, etc. for artistic uses
+
+###### Prompt
+- [PromptHero](https://prompthero.com/) - Search prompts for Stable Diffusion, DALL-E & Midjourney
+- [Lexica](https://lexica.art/)
+- [Waifu Diffusion Demo](https://huggingface.co/spaces/hakurei/waifu-diffusion-demo) - a Hugging Face Space by hakurei
 - [Palette](https://palette.fm/) - Colorize Photos.
 - [brushify.art](https://brushify.art/) - Whimsical Watercolors
 
