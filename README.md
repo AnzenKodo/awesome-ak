@@ -544,10 +544,25 @@ How to import bookmarks in:
 #### LaTeX
 - [OeisWiki](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) - List of LaTeX mathematical symbols
 - [LaTeX Mathematics for Undergraduates](https://joshua.smcvt.edu/undergradmath/) - This is a cheat sheet for writing mathematics with LATEX. It is aimed at undergraduates.
+- [KaTeX](https://katex.org/docs/supported.html) - Supported Functions
+
+#### Calculator
+- [Tiger Algebra](https://www.tiger-algebra.com/) - A Free, Online Algebra Solver and Calculator
+- [Mathforyou](https://mathforyou.net/en/) - Online integrals, derivatives, equations calculators
+- [Simplify](https://quickmath.com/webMathematica3/quickmath/algebra/simplify/basic.jsp) - Simplify radical,rational expression with Step-by-Step Math Problem Solver
+- [Microsoft Math Solver](https://mathsolver.microsoft.com/en) - Math Problem Solver & Calculator
 - [Mathics](https://mathics.org/)
 - [Purplemath](https://www.purplemath.com/index.htm) - Free and clear online algebra help!
 - [Math Help](https://www.mathhelp.com/) - Online Test Prep, Tutoring, and Homeschooling
 - [Wolfram MathWorld](https://mathworld.wolfram.com/) - The Web's Most Extensive Mathematics Resource
+- [Mathplanet](https://www.mathplanet.com/) - Math planet is an online resource where one can study math for free
+- [Formula collection](https://www.formelsamlingen.se/) - A complete formula collection with formulas within mathematics, physics and chemistry.
+- [rossant/awesome-math: A curated list of awesome mathematics resources](https://github.com/rossant/awesome-math#youtube-series)
+- [PlanetMath.org](https://planetmath.org/)
+- [ProofWiki](https://proofwiki.org/wiki/Main_Page)
+- [How To Learn Trigonometry Intuitively – BetterExplained](https://betterexplained.com/articles/intuitive-trigonometry/)
+- [BetterExplained – Math lessons that click](https://betterexplained.com/)
+- [I Love Maths -A complete, Indian site on Maths](https://ilovemaths.com/)
 
 ### Journals
 - [IEEE Open](https://open.ieee.org/publishing-options/topical-journals/) - Fully Open Access Topical Journals
