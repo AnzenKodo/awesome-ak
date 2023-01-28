@@ -575,6 +575,7 @@ How to import bookmarks in:
 - [Curriculum Search – Maharashtra State Board of Technical Education, Mumbai , India](https://msbte.org.in/portal/curriculum-search/)
 - [Mumbai University – English » Old Question Papers](https://old.mu.ac.in/old-question-papers-2/)
 - [Stupidsid](https://stupidsid.com/) - an online platform for study resources and educational information | Stupidsid
+- [MUQuestionPapers](https://muquestionpapers.com/) - Mumbai University Question Papers
 
 ### Books
 - [EasyEngineering](https://easyengineering.net/) - EasyEngineering Networks – An Online Educational Portal
