@@ -251,6 +251,7 @@ How to import bookmarks in:
 - [ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API.
 - [https://ejm.sh](https://ejm.sh/)
 - [DummyJSON](https://dummyjson.com/) - Fake REST API of JSON data for development
+- [Wordnik for Developers](https://developer.wordnik.com/) - Request definitions, example sentences, spelling suggestions, synonyms and antonyms (and other related words), word phrases, pronunciations, random words, words of the day, and much more.
 
 ### Analytics
 - [Counter](https://counter.dev/)
@@ -271,6 +272,7 @@ How to import bookmarks in:
 - [ntfy.sh](https://ntfy.sh/) - Send push notifications to your phone via PUT/POST
 - [Remotion](https://www.remotion.dev/) - Make videos programmatically
 - [Flow](https://app.flowoss.com/)
+- [Codeium](https://www.codeium.com/) - The modern coding superpower, a code acceleration toolkit built on cutting edge AI technology.
 
 ## Design Tools
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) - A collection of links for free stock photography, video and Illustration websites
@@ -285,6 +287,7 @@ How to import bookmarks in:
 - [Webframe](https://webframe.xyz/?ref=producthunt) - Beautiful web app screenshots
 - [Typewolf](https://www.typewolf.com/?ref=producthunt) - What’s Trending in Type
 - [Landings](https://landings.dev/) - Landing Page Examples
+- [JavascriptDevs.com](https://javascriptdevs.com/) - Discover the Best Open-Source projects and website built with React, Next.js, Tailwind CSS, and more.
 
 ### Editors
 - [Template](https://raw.githubusercontent.com/AnzenKodo/assests/main/template.svg)
@@ -338,6 +341,7 @@ How to import bookmarks in:
 - [Dribbble](https://dribbble.com/) - Discover the World’s Top Designers & Creative Professionals
 - [ArtStation](https://www.artstation.com/) - ArtStation provides you with a simple, yet powerful way to show your portfolio and be seen by the right people in the industry.
 - [pixiv](https://www.pixiv.net/) - Online community for artists.
+- [My Midjourney AI Art](https://chenglou.me/)
 
 #### Stock
 - [GhostlyStock](https://www.ghostlystock.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=design) - Freely-usable images summoned from beyond the aether. Energized by AI.
@@ -385,12 +389,15 @@ How to import bookmarks in:
 - [Master CSS](https://css.master.co/) - A Virtual CSS language with enhanced syntax.
 - [unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [Stylify](https://stylifycss.com/) - Write CSS Faster and Efficiently. Write HTML. Get CSS.
+- [PSone.css](https://micah5.github.io/PSone.css/)
+- [RippleUI](https://www.ripple-ui.com/) - TailwindCSS Components
 
 #### Libraries
 - [Animista](https://animista.net/?ref=producthunt) - CSS Animations on Demand
 - [Charts.css](https://chartscss.org/)
 - [Transition.css](https://www.transition.style/#in:circle:center) - easy transitions with clip-path
 - [Floating UI](https://floating-ui.com/) - Create tooltips, popovers, dropdowns, and more
+- [PowerGlitch](https://7ph.github.io/powerglitch/#/) - Glitch anything on the web
 
 #### Tools
 
@@ -459,6 +466,7 @@ How to import bookmarks in:
 #### Testing
 - [WhoCanUse](https://www.whocanuse.com/?bg=339936&fg=ffffff&fs=16&fw=) - It's a tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
 - [tinycolor](https://github.com/scttcper/tinycolor) - 🎨 Color manipulation and conversion
+- [VS Code Themes](https://vscodethemes.com/)
 
 ### SVG
 - [Wicked Backgrounds](https://wickedbackgrounds.com/app) - Create beautiful SVG backgrounds for your UI designs.
@@ -498,6 +506,7 @@ How to import bookmarks in:
 - [Monkeytype](https://monkeytype.com/about) - A minimalistic typing test, featuring many test modes, an account system to save your typing speed history and user configurable features like themes, a smooth caret and more.
 - [cybertype - Fast and Minimal Typing App](https://cybertype.app/) - Improve your typing speed.
 - [Bike](https://www.hogbaysoftware.com/posts/bike-rich-text/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Innovative Rich Text Editing
+- [GitHub1s](https://github1s.com/) - One second to read GitHub code with VS Code.
 
 ### Management
 - [tdo](https://tdoapp.com/b/cl0o3er) - Keyboard driven, hackable TODO list
@@ -587,6 +596,7 @@ How to import bookmarks in:
 - [KUPDF - Free document sharing platform](https://kupdf.net/) - Upload and share
 - [Engineering Books PDF](https://engineeringbookspdf.com/) - Download Free Past Papers, PDF Notes, Manuals & Templates, we have 4485 Books & Templates for free |
 - [Technical Books Pdf](https://www.technicalbookspdf.com/) - Download Free PDF Books, Notes and Manuals for Study
+- [O'Reilly's CD bookshelf](https://docstore.mik.ua/orelly/bookshelfs.html)
 
 ## Miscellaneous
 
