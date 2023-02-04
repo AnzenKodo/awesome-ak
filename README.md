@@ -16,9 +16,11 @@ How to import bookmarks in:
 - [Safari](https://support.apple.com/en-in/guide/safari/ibrw1015/mac)
 
 
-## AK Stuff
+## Social Media
 
-### Social Media
+### AK Stuff
+
+#### Media
 - [GitHub](https://github.com/AnzenKodo)
 - [Twitter](https://twitter.com/AnzenKodo)
 - [Discord ](https://discord.com/users/910257548593086474)
@@ -27,24 +29,24 @@ How to import bookmarks in:
 - [Simkl](https://simkl.com/5607531/)
 - [ListenBrainz](https://listenbrainz.org/user/AnzenKodo/)
 
-### Follow List
+#### Follow List
 - [Twitter Lists](https://twitter.com/AnzenKodo/lists)
 - [YouTube Subscriptions](https://www.youtube.com/channel/UCtseLjsqhEAiSm08l5DGkFA/channels)
 - [GitHub Following](https://github.com/AnzenKodo?tab=following)
 
-#### Discord
+##### Discord
 
-##### Languages
+###### Languages
 - [The V Language & Apps](https://discord.gg/vlang)
 - [Deno](https://discord.gg/deno)
 - [Nix/NixOS (unofficial)](https://discord.com/invite/RbvHtGa)
 
-##### Linux
+###### Linux
 - [r/unixporn](https://discord.gg/unixporn)
 - [Brodie's Linux Dumpster Fire](https://brodierobertson.xyz/discord)
 - [SerenityOS](https://discord.gg/serenityos)
 
-##### Awesome People
+###### Awesome People
 - [xahlee](https://discord.gg/QYFcqNT)
 - [Theo's Typesafe Cult](https://discord.gg/xHdCpcPHRE)
 - [ThePrimeagen](https://discord.gg/theprimeagen)
@@ -52,7 +54,7 @@ How to import bookmarks in:
 - [Fireship](https://discord.gg/fireship)
 - [NAMTAO Productions](https://discord.gg/mCY2bBmDKZ)
 
-##### AI
+###### AI
 - [Midjourney](https://discord.com/invite/midjourney)
 - [Stable Diffusion](https://discord.gg/stablediffusion)
 - [東方Project AI](https://discord.gg/touhouai)
@@ -61,10 +63,16 @@ How to import bookmarks in:
 - [Ultra](https://discord.gg/XDC5WxGHb2)
 - [OpenAI](https://discord.gg/openai)
 
-### Projects
+#### Projects
 - [dblog](https://github.com/AnzenKodo/dblog) - dblog blog generator, that generates blog from Markdown and JSON file. dblog handles technical parts, so you can focus on hard part writing.
 - [rss-atom-parser](https://github.com/AnzenKodo/rss-atom-parser) - RSS & Atom feed parser for PHP. Very small and easy-to-use library for parsing your feeds.
 - [dotfiles](https://github.com/AnzenKodo/dotfiles) - My dotfiles
+- [iris](https://iris.to/#/about) - Like the social networking apps we're used to, but better.
+- [xLog](https://xlog.app/) - The first on-chain and open-source blogging platform for everyone.
+
+### Username Checker
+- [blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
+- [Landing](https://nameketchup.com/) - NameKetchup
 
 ## Pins
 
@@ -81,15 +89,235 @@ How to import bookmarks in:
 ## DevTools
 
 ### Languages
+
+#### Programming
+- [Haxe](https://haxe.org/) - The Cross-platform Toolkit
+- [The Crystal Programming Language](https://crystal-lang.org/) - A language for humans and computers
 - [V](https://vlang.io/) - Simple, fast, safe, compiled. For developing maintainable software.
+- [Erlang](https://www.erlang.org/) - A programming language used to build massively scalable soft real-time systems with requirements on high availability. Some of its uses are in telecoms, banking, e-commerce, computer telephony and instant messaging. Erlang's runtime system has built-in support for concurrency, distribution and fault tolerance.
 
-### CDN
+##### Python
+- [Numba](https://numba.pydata.org/?utm_source=tldrnewsletter) - A High Performance Python Compiler
+- [OMRChecker](https://github.com/Udayraj123/OMRChecker) - Read OMRs fast and accurately using a scanner 🖨 or your phone 🤳.
+- [NiceGUI](https://nicegui.io/#examples) - Let any browser be the frontend of your Python code.
 
-#### JS Module
+##### Rust
+- [Dioxus](https://dioxuslabs.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=code) - An elegant GUI library for Rust
+
+##### Go
+- [Pushup](https://pushup.adhoc.dev/) - page-oriented web framework for Go
+
+##### JavaScript
+
+###### Frameworks
+- [SolidJS](https://www.solidjs.com/) - Reactive Javascript Library
+- [React – A JavaScript library for building user interfaces.](https://reactjs.org/)
+- [Preact](https://preactjs.com/) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+- [Ember.js](https://emberjs.com/) - A framework for ambitious web developers
+- [reveal.js](https://revealjs.com/#/2) - The HTML presentation framework.
+- [Preact](https://preactjs.com/) - Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+- [Alpine.js](https://alpinejs.dev/) - Your new, lightweight, JavaScript framework.
+- [ArrowJS](https://www.arrow-js.com/) - A experimental tool for programming reactive interfaces using native JavaScript. It’s not really a framework, but not less powerful than a framework either.
+- [Plasmo](https://www.plasmo.com/) - Supercharge your browser extension development
+- [Nano JSX](https://nanojsx.io/) - Lightweight 1kB JSX library
+
+###### Site Generators
+
+####### Presentation
+- [Slidev](https://sli.dev/) - Presentation Slides for Developers
+- [Marp](https://marp.app/) - Markdown Presentation Ecosystem
+- [reveal.js](https://revealjs.com/) - The HTML presentation framework
+
+####### Documentation
+- [Mintlify](https://mintlify.com/) - Beautiful documentation that converts users
+- [Docus](https://docus.dev/) - The best place to start your documentation.
+- [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly, focus on your content 
+- [Markdoc](https://markdoc.dev/) - A powerful, flexible, Markdown-based authoring framework
+
+####### Videos
+- [Remotion](https://www.remotion.dev/) - Make videos programmatically
+- [awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
+- [fresh](https://fresh.deno.dev/) - The next-gen web framework.
+- [Ultra](https://ultrajs.dev/) - The Quest for Zero-Legacy
+- [Qwik](https://qwik.builder.io/) - Framework reimagined for the edge!
+- [Gatsby](https://www.gatsbyjs.com/) - The Fastest Frontend for the Headless Web
+- [Eleventy](https://www.11ty.dev/) - A simpler static site generator
+- [Lume](https://lume.land/) - The static site generator for Deno
+- [vss](https://github.com/vssio/vss) - Easy-to-use static site generator
+- [LiveViewJS](https://www.liveviewjs.com/docs/overview/introduction) - A open-source framework for "LiveView"-based, full-stack applications in NodeJS and Deno.
+
+###### Module
 - [ESM](https://esm.sh/) - A fast, global content delivery network for NPM packages with ES Module format.
 - [Skypack](https://www.skypack.dev/) - Load optimized npm packages with no install and no build tools.
 - [JSPM](https://jspm.org/) - JSPM provides a module CDN and package management for import maps, allowing any package from npm to be loaded directly in the browser fully optimized without further tooling.
 - [esm.run](https://www.jsdelivr.com/esm) - Load modern JavaScript packages built for you on-demand Works in modern web browsers, node.js, and deno
+
+###### Libraries
+
+####### Web Components
+- [Stencil](https://stenciljs.com/) - Library for building reusable, scalable Design Systems. Generate small, blazing fast Web Components that run everywhere.
+- [Shoelace](https://shoelace.style/) - A forward-thinking library of web components.
+- [Lit](https://lit.dev/)
+- [Bay.js](https://bayjs.org/) - An easy to use, lightweight library for web-components.
+
+####### UI
+- [Pollen](https://www.pollen.style/) - A configurable library of CSS variables. It lets you write faster, more consistent, and more maintainable styles. Use it in any stack and easily extend it as a build tool for your own custom design systems.
+- [Neumorphism UI](https://demo.themesberg.com/neumorphism-ui/?ref=glass-ui-generator) - Inspired User Interface Kit that will help you prototype and design beautiful, creative and modern websites.
+- [UI Kitten](https://akveo.github.io/react-native-ui-kitten/?utm_source=colors-eva&utm_medium=footer) - React Native UI Library based on Eva Design System
+- [MVP.css](https://andybrewer.github.io/mvp/?utm_source=hackernewsletter&utm_medium=email&utm_term=design) - Minimalist stylesheet for HTML elements
+- [Headless UI](https://headlessui.com/) - Unstyled, fully accessible UI components
+- [daisyUI — Tailwind CSS Components](https://daisyui.com/)
+- [Tippy.js](https://atomiks.github.io/tippyjs/) - Tooltip, Popover, Dropdown, and Menu Library
+- [MUI Core](https://mui.com/core/) - Ready to use components, free forever
+- [Ant Design](https://ant.design/) - The world's second most popular React UI framework
+- [Sailboat UI](https://sailboatui.com/?utm_source=tldrnewsletter) - Modern UI component library for Tailwind CSS
+- [Tamagui — React Native + Web UI kit](https://tamagui.dev/)
+- [DecaUI](https://www.deca-ui.com/) - A component library that suits all your needs
+
+####### Avatars
+- [Multiavatar](https://github.com/multiavatar/Multiavatar?ref=producthunt) - Multicultural Avatar Generator in JavaScript
+- [react nice avatar](https://github.com/dapi-labs/react-nice-avatar) - React library for generating avatar
+- [Boring Avatars](https://github.com/boringdesigners/boring-avatars) - A tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
+
+####### Animation
+- [AutoAnimate](https://auto-animate.formkit.com/#installation) - Add motion to your apps with a single line of code.
+- [Theatre.js](https://www.theatrejs.com/) - animation toolbox for the web
+- [Three.js – JavaScript 3D Library](https://threejs.org/)
+- [p5.js](https://p5js.org/) - p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else.
+- [Babylon.js - Powerful, Beautiful, Simple, Open](https://www.babylonjs.com/) - Web-Based 3D At Its Best
+- [Lazy Brush](https://lazybrush.dulnan.net/) - Smooth Canvas Drawing
+- [Scroll Btween](https://olivier3lanc.github.io/Scroll-Btween/) - Tween any CSS values on any DOM element in relation with its position into the viewport.
+- [Vanta.js](https://www.vantajs.com/) - Animated 3D Backgrounds For Your Website
+- [Atomico webcomponents](https://atomicojs.dev/) - Create interfaces with code simple, fast and light
+- [barba.js](https://barba.js.org/) - Create badass, fluid and smooth transitions between your website’s pages.
+
+####### Terminal
+- [Xterm.js](https://xtermjs.org/) - Build terminals in the browser
+- [fauxTerm: A lightweight (~2KB), faux, terminal-like emulator for the web in javascript](https://github.com/isdampe/fauxTerm)
+- [jQuery Terminal: JavaScript Web Based Terminal Emulator](https://terminal.jcubic.pl/)
+- [Vue TermUI](https://vue-termui.dev/) - The Modern Terminal UI Framework
+- [Termino.js - Create terminals in the browser with MarketingPipeline's Termino.js library](https://marketingpipeline.github.io/Termino.js/demo) - great for making terminal animations, terminal like apps & terminal based games.
+- [Termino.js - Create a web based terminal on any website](https://github.com/MarketingPipeline/Termino.js) - great for games, animations and real world apps!
+
+####### Audio
+- [symphonia](https://github.com/tropicbliss/symphonia) - An audio playback library for Node.js
+- [howler.js](https://howlerjs.com/) - JavaScript audio library for the modern web
+
+####### Editor
+- [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
+- [CodeMirror](https://codemirror.net/) - A code editor component for the web. It can be used in websites to implement a text input field with support for many editing features, and has a rich programming interface to allow further extension.
+- [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
+- [editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
+- [Lexical](https://lexical.dev/) - An extensible text editor framework that does things differently
+- [Stylo](https://stylojs.com/) - Another kind of rich text editor
+
+####### Optimization
+- [resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
+- [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes
+- [fast-array-join](https://github.com/anonrig/fast-array-join) - 61% faster array join for JavaScript.
+
+####### Components
+- [MailtoUI](https://mailtoui.com/) - A simple way to enhance your mailto links with a convenient user interface.
+- [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
+- [Tabulator](http://tabulator.info/) - Easy to use, simple to code, fully featured, interactive JavaScript tables
+- [highlightable-input](https://github.com/Justineo/highlightable-input) - A light-weight highlightable input.
+
+####### AI/ML
+- [winkNLP](https://winkjs.org/wink-nlp/) - NLP in Node.js
+- [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+- [Tesseract.js](https://tesseract.projectnaptha.com/) - Pure Javascript OCR for 100 Languages!
+- [winkjs/wink-nlp: Developer friendly Natural Language Processing ✨](https://github.com/winkjs/wink-nlp)
+
+####### 3D
+- [Pixi3D](https://pixi3d.org/) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
+- [four](https://github.com/CodyJasonBennett/four) - 💎 Minimal three.js alternative in 4KB.
+
+####### Syntax Highlighter
+- [shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
+- [refractor](https://github.com/wooorm/refractor) - Lightweight, robust, elegant virtual syntax highlighting using Prism
+- [lowlight](https://github.com/wooorm/lowlight) - Virtual syntax highlighting for virtual DOMs and non-HTML things
+- [starry-night](https://github.com/wooorm/starry-night#what-is-this) - Syntax highlighting, like GitHub
+
+####### Wrapper
+- [YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
+
+####### Colors
+- [tinycolor](https://github.com/scttcper/tinycolor) - 🎨 Color manipulation and conversion
+- [Colord](https://colord.omgovich.ru/) - JavaScript library for color manipulations and conversions
+- [emoji-palette](https://github.com/anubra266/emoji-palette) - Get color palettes from emojis
+
+####### Internal
+- [Remeda](https://remedajs.com/) - The first "data-first" and "data-last" utility library designed especially for TypeScript.
+- [Structura.js](https://giusepperaso.github.io/structura.js/) - A very fast and lightweight Typescript library which allows to create immutable states with a mutable syntax. It is based on the idea of structural sharing.
+- [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+- [Dinero.js](https://dinerojs.com/) - A library for working with monetary values in JavaScript.
+
+####### Search
+- [uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
+- [MiniSearch](https://lucaong.github.io/minisearch/) - A tiny but powerful in-memory fulltext search engine written in JavaScript. It is respectful of resources, and it can comfortably run both in Node and in the browser.
+- [Lyra](https://lyrasearch.io/) - A fully-featured full-text search engine that runs wherever JavaScript runs, including browsers, servers, React Native, edge networks, and more.
+
+####### Chart
+- [billboard.js](https://naver.github.io/billboard.js/) - Re-usable, easy interface JavaScript chart library, based on D3 v4+.
+- [Chart.js](https://www.chartjs.org/) - Open source HTML5 Charts for your website
+
+####### CSS in JS
+- [classname-variants](https://github.com/fgnass/classname-variants) - Variant API for plain class names
+
+####### Image
+- [Pixel It](https://giventofly.github.io/pixelit/#tryit) - Create pixel art from an image
+- [satori](https://github.com/vercel/satori?utm_source=tldrnewsletter) - Enlightened library to convert HTML and CSS to SVG
+- [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+- [fireworks.js](https://github.com/crashmax-dev/fireworks-js) - A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.
+- [Dbin](https://github.com/oscarotero/dbin?utm_source=denonews&utm_medium=email&utm_campaign=51-announcing-the-new-slack-platform-powered-by) - Library to download binary files from GitHub releases detecting the correct platform.
+- [MathJax](https://www.mathjax.org/) - Beautiful math in all browsers.
+- [kaboom](https://kaboomjs.com/) - 💥 JavaScript game library
+- [Popper](https://popper.js.org/) - Tooltip & Popover Positioning Engine
+- [fv](https://github.com/LingDong-/fv) - An experimental approach to expressing vector math in js (tagged template literals)
+- [current.js](https://github.com/marcoroth/current.js) - A tiny 🤏 library (only 379 B) that allows you to access current `<meta>` elements
+- [classname-variants](https://github.com/fgnass/classname-variants) - Variant API for plain class names
+- [logt](https://github.com/sidhantpanda/logt) - 🖥️ A colourful logger for the browser
+- [current.js](https://github.com/marcoroth/current.js) - A tiny 🤏 library (only 379 B) that allows you to access current `<meta>` elements
+- [Unhead](https://unhead.harlanzw.com/) - Universal document <head> tag manager.
+
+###### Engine
+
+####### Template
+- [</> htmx](https://htmx.org/) - high power tools for html.
+- [Hibiki HTML](https://www.hibikihtml.com/) - Easy-to-use web framework for creating modern front-end applications. There is no JavaScript stack to set up, no boilerplate/scaffolding, no build tools to download and run, and no need to be a JavaScript expert.
+- [Eta](https://eta.js.org/) - Lightweight, powerful, pluggable embedded JS template engine.
+- [JinjaX](https://jinjax.scaletti.dev/) - Super components powers for your Jinja templates
+
+####### Search
+- [MiniSearch](https://lucaong.github.io/minisearch/) - A tiny but powerful in-memory fulltext search engine written in JavaScript. It is respectful of resources, and it can comfortably run both in Node and in the browser.
+- [melonJS](https://melonjs.org/) - melonJS is an open source HTML5 game engine that empowers developers and designers to focus on content.
+- [Shifty](https://jeremyckahn.github.io/shifty/doc/index.html) - The fastest JavaScript animation engine on the web
+
+###### Backend
+- [suppress](https://github.com/velocitatem/suppress) - AI as Backend. Really, its like express.js but easier and uses AI.
+
+###### Cross Platform
+- [Gluon](https://gluonjs.org/) - Develop desktop apps from websites, using system installed browsers and NodeJS.
+- [nutjs.dev](https://nutjs.dev/) - Open Source Node.js Cross Platform Desktop Automation
+
+###### Parser
+- [Lightning CSS](https://lightningcss.dev/) - An extremely fast CSS parser, transformer, bundler, and minifier.
+- [siimple](https://siimple.xyz/) - Minimal and themeable CSS toolkit · siimple CSS
+- [Piling.js](https://piling.js.org/) - A JavaScript library to build visual piling interfaces for exploring large collections of small multiples.
+
+##### Rust
+- [burn](https://github.com/burn-rs/burn?utm_source=tldrnewsletter) - BURN: Burn Unstoppable Rusty Neurons
+
+#### Configuration
+- [The Dhall](https://dhall-lang.org/#) - configuration language
+- [RON](https://github.com/ron-rs/ron) - A simple readable data serialization format that looks similar to Rust syntax. It's designed to support all of Serde's data model, so structs, enums, tuples, arrays, generic maps, and primitive values.
+- [BSON (Binary JSON) Serialization](https://bsonspec.org/) - seri­al­iz­a­tion of JSON-like doc­u­ments.
+
+### Database
+- [AlaSQL](https://alasql.org/) - JavaScript SQL database for browser and Node.js.
+- [rsedis](https://github.com/seppo0010/rsedis) - Redis re-implemented in Rust.
+
+### CDN
 
 #### Static Assets
 - [jsDelivr](https://www.jsdelivr.com/) - A free, fast, and reliable CDN for open source
@@ -102,122 +330,17 @@ How to import bookmarks in:
 - [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Improve your README.md profile with these amazing badges.
 - [UNPKG](https://unpkg.com/) - a fast, global content delivery network for everything on npm. Use it to quickly and easily load any file from any package using a URL
 
-### Frameworks
-- [SolidJS](https://www.solidjs.com/) - Reactive Javascript Library
-- [React – A JavaScript library for building user interfaces.](https://reactjs.org/)
-- [Preact](https://preactjs.com/) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
-- [</> htmx](https://htmx.org/) - high power tools for html.
-- [Ember.js](https://emberjs.com/) - A framework for ambitious web developers
-- [reveal.js](https://revealjs.com/#/2) - The HTML presentation framework.
-- [Preact](https://preactjs.com/) - Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
-- [Alpine.js](https://alpinejs.dev/) - Your new, lightweight, JavaScript framework.
-- [ArrowJS](https://www.arrow-js.com/) - A experimental tool for programming reactive interfaces using native JavaScript. It’s not really a framework, but not less powerful than a framework either.
-
-### Libraries
-
-#### UI
-- [Pollen](https://www.pollen.style/) - A configurable library of CSS variables. It lets you write faster, more consistent, and more maintainable styles. Use it in any stack and easily extend it as a build tool for your own custom design systems.
-- [Neumorphism UI](https://demo.themesberg.com/neumorphism-ui/?ref=glass-ui-generator) - Inspired User Interface Kit that will help you prototype and design beautiful, creative and modern websites.
-- [UI Kitten](https://akveo.github.io/react-native-ui-kitten/?utm_source=colors-eva&utm_medium=footer) - React Native UI Library based on Eva Design System
-- [MVP.css](https://andybrewer.github.io/mvp/?utm_source=hackernewsletter&utm_medium=email&utm_term=design) - Minimalist stylesheet for HTML elements
-- [Headless UI](https://headlessui.com/) - Unstyled, fully accessible UI components
-- [daisyUI — Tailwind CSS Components](https://daisyui.com/)
-- [Tippy.js](https://atomiks.github.io/tippyjs/) - Tooltip, Popover, Dropdown, and Menu Library
-- [MUI Core](https://mui.com/core/) - Ready to use components, free forever
-- [Ant Design](https://ant.design/) - The world's second most popular React UI framework
-
-#### Avatars
-- [Multiavatar](https://github.com/multiavatar/Multiavatar?ref=producthunt) - Multicultural Avatar Generator in JavaScript
-- [react nice avatar](https://github.com/dapi-labs/react-nice-avatar) - React library for generating avatar
-- [Boring Avatars](https://github.com/boringdesigners/boring-avatars) - A tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
-
-#### Animation
-- [AutoAnimate](https://auto-animate.formkit.com/#installation) - Add motion to your apps with a single line of code.
-- [Theatre.js](https://www.theatrejs.com/) - animation toolbox for the web
-- [Three.js – JavaScript 3D Library](https://threejs.org/)
-- [p5.js](https://p5js.org/) - p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else.
-- [Babylon.js - Powerful, Beautiful, Simple, Open](https://www.babylonjs.com/) - Web-Based 3D At Its Best
-
-#### Terminal
-- [Xterm.js](https://xtermjs.org/) - Build terminals in the browser
-- [fauxTerm: A lightweight (~2KB), faux, terminal-like emulator for the web in javascript](https://github.com/isdampe/fauxTerm)
-- [jQuery Terminal: JavaScript Web Based Terminal Emulator](https://terminal.jcubic.pl/)
-
-#### Music
-- [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
-- [ciconia/awesome-music](https://github.com/ciconia/awesome-music#audio-editing) - Awesome Music Projects
-- [awesome-music-listening](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music
-- [awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services and resources to create and distribute music.
-- [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
-- [awesome-webaudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
-
-#### Editor
-- [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
-- [CodeMirror](https://codemirror.net/) - A code editor component for the web. It can be used in websites to implement a text input field with support for many editing features, and has a rich programming interface to allow further extension.
-- [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
-- [editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
-
-#### Optimization
-- [resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
-- [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes
-- [fast-array-join](https://github.com/anonrig/fast-array-join) - 61% faster array join for JavaScript.
-
-#### Components
-- [MailtoUI](https://mailtoui.com/) - A simple way to enhance your mailto links with a convenient user interface.
-- [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
-- [Tabulator](http://tabulator.info/) - Easy to use, simple to code, fully featured, interactive JavaScript tables
-
-#### AI/ML
-- [winkNLP](https://winkjs.org/wink-nlp/) - NLP in Node.js
-- [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-- [Tesseract.js](https://tesseract.projectnaptha.com/) - Pure Javascript OCR for 100 Languages!
-- [winkjs/wink-nlp: Developer friendly Natural Language Processing ✨](https://github.com/winkjs/wink-nlp)
-
-#### 3D
-- [four](https://github.com/CodyJasonBennett/four) - 💎 Minimal three.js alternative in 4KB.
-- [Pixel It](https://giventofly.github.io/pixelit/#tryit) - Create pixel art from an image
-- [fireworks.js](https://github.com/crashmax-dev/fireworks-js) - A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.
-- [Dbin](https://github.com/oscarotero/dbin?utm_source=denonews&utm_medium=email&utm_campaign=51-announcing-the-new-slack-platform-powered-by) - Library to download binary files from GitHub releases detecting the correct platform.
-- [howler.js](https://howlerjs.com/) - JavaScript audio library for the modern web
-- [satori](https://github.com/vercel/satori?utm_source=tldrnewsletter) - Enlightened library to convert HTML and CSS to SVG
-- [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
-- [MathJax](https://www.mathjax.org/) - Beautiful math in all browsers.
-- [kaboom](https://kaboomjs.com/) - 💥 JavaScript game library
-- [Dinero.js](https://dinerojs.com/) - A library for working with monetary values in JavaScript.
-- [Popper](https://popper.js.org/) - Tooltip & Popover Positioning Engine
-- [Chart.js](https://www.chartjs.org/) - Open source HTML5 Charts for your website
-- [Vue TermUI](https://vue-termui.dev/) - The Modern Terminal UI Framework
-- [Termino.js - Create a web based terminal on any website](https://github.com/MarketingPipeline/Termino.js) - great for games, animations and real world apps!
-
-### Site Generators
-
-#### Presentation
-- [Slidev](https://sli.dev/) - Presentation Slides for Developers
-- [Marp](https://marp.app/) - Markdown Presentation Ecosystem
-- [reveal.js](https://revealjs.com/) - The HTML presentation framework
-
-#### Documentation
-- [Mintlify](https://mintlify.com/) - Beautiful documentation that converts users
-- [Docus](https://docus.dev/) - The best place to start your documentation.
-- [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly, focus on your content 
-- [awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
-- [fresh](https://fresh.deno.dev/) - The next-gen web framework.
-- [Ultra](https://ultrajs.dev/) - The Quest for Zero-Legacy
-- [Qwik](https://qwik.builder.io/) - Framework reimagined for the edge!
-- [Gatsby](https://www.gatsbyjs.com/) - The Fastest Frontend for the Headless Web
-- [Eleventy](https://www.11ty.dev/) - A simpler static site generator
-- [Lume](https://lume.land/) - The static site generator for Deno
-- [vss](https://github.com/vssio/vss) - Easy-to-use static site generator
-
-### Template
-- [Horizon UI](https://horizon-ui.com/#/) - Trendiest Open Source Admin Template for Chakra UI & React, TypeScript, JavaScript and NextJS"
-
 ### API
 - [Restfox](https://restfox.dev/) - Offline-first web HTTP client
 
-#### Collection
-- [public-apis](https://github.com/toddmotto/public-apis#photography) - A collective list of free APIs
+#### Lists
 - [AnyAPI](https://any-api.com/) - Documentation and Test Consoles for Over 1400 Public APIs
+- [public-apis](https://github.com/toddmotto/public-apis#photography) - A collective list of free APIs
+- [ProgrammableWeb](https://www.programmableweb.com/apis/directory) - Search the Largest API Directory on the Web
+- [Awesome-API-Provider](https://github.com/ekaone/Awesome-API-Provider) - 🔥🚀 Collection API list, start from: 📚 books, 📆 calendar, 👨‍💼 business, 🎸 musics, 🎮 games, 🐜 animals, 👩‍⚕️ health, 🗺 map and so much more 👌👍
+- [public-apis](https://github.com/toddmotto/public-apis#photography) - A collective list of free APIs
+- [Public-APIs](https://github.com/n0shake/Public-APIs#advertising) - 📚 A public list of APIs from round the web.
+- [API Ninjas](https://api-ninjas.com/) - Build Real Applications with Real Data
 
 #### Open Graph
 - [Open Graph Image as a Service](https://og-image.vercel.app/) - A service to generate dynamic Open Graph images on-the-fly for the purpose of sharing a website to social media. Proudly hosted on Vercel.
@@ -240,18 +363,23 @@ How to import bookmarks in:
 - [unavatar.io](https://unavatar.io/?ref=producthunt) - get unified user avatar from Twitter, GitHub, Intagram, Reddit, etc.
 - [avatar-generator](https://github.com/itsmichaelbtw/avatar-generator) - Generate SVG or PNG avatars with ease.
 - [Bunny AI](https://bunny.net/blog/introducing-bunny-optimizer-ai-a-new-way-of-creating-content/) - The easiest way to dynamically generate images
+- [fast favicon](https://favi.deno.dev/) - API to provide images for favicons using emojis and characters.
 
-#### Lists
-- [ProgrammableWeb](https://www.programmableweb.com/apis/directory) - Search the Largest API Directory on the Web
-- [Awesome-API-Provider](https://github.com/ekaone/Awesome-API-Provider) - 🔥🚀 Collection API list, start from: 📚 books, 📆 calendar, 👨‍💼 business, 🎸 musics, 🎮 games, 🐜 animals, 👩‍⚕️ health, 🗺 map and so much more 👌👍
-- [public-apis](https://github.com/toddmotto/public-apis#photography) - A collective list of free APIs
-- [Public-APIs](https://github.com/n0shake/Public-APIs#advertising) - 📚 A public list of APIs from round the web.
+#### Collection
+- [Wordnik for Developers](https://developer.wordnik.com/) - Request definitions, example sentences, spelling suggestions, synonyms and antonyms (and other related words), word phrases, pronunciations, random words, words of the day, and much more.
+- [API Docs](https://dogapi.dog/docs) - Dog API by kinduff
+- [Open Library](https://openlibrary.org/developers/api) - A suite of APIs to help developers get up and running with our data. This includes RESTful APIs, which make Open Library data availabile in JSON, YAML and RDF/XML formats. There's also an earlier, now deprecated JSON API which is preserved for backward compatibility.
+- [Bionic Reading API](https://rapidapi.com/bionic-reading-bionic-reading-default/api/bionic-reading1) - Documentation (bionic-reading-bionic-reading-default) 
+- [spoonacular](https://spoonacular.com/food-api/docs) - recipe and food API
+- [WordsAPI](https://www.wordsapi.com/) - An API for the English Language.
+- [AirLabs Data API](https://airlabs.co/) - Real-time Flight Status & Global Aviation Database
+- [DEM-Net Elevation API](https://elevationapi.com/)
+- [Pirate Weather](https://pirateweather.net/) - A Free, Open, and Documented Forecast API
+- [ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API.
 - [OpenAPI.Tools](https://openapi.tools/) - To keep API developers up to date with the best OpenAPI tooling around, and help direct folks to high quality modern tooling, instead of being stuck on old v2-based rubbish.
 - [httpstat.us](https://httpstat.us/) - This is a super simple service for generating different HTTP codes.
-- [ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API.
 - [https://ejm.sh](https://ejm.sh/)
 - [DummyJSON](https://dummyjson.com/) - Fake REST API of JSON data for development
-- [Wordnik for Developers](https://developer.wordnik.com/) - Request definitions, example sentences, spelling suggestions, synonyms and antonyms (and other related words), word phrases, pronunciations, random words, words of the day, and much more.
 
 ### Analytics
 - [Counter](https://counter.dev/)
@@ -263,21 +391,42 @@ How to import bookmarks in:
 
 ### Tools
 - [Sourcegraph](https://sourcegraph.com/search)
-- [EthicalAds](https://www.ethicalads.io/) - Privacy-preserving Ad Network for Developers
-- [Ray.so](https://ray.so/) - Create beautiful images of your code
 - [Favicon Generator](https://realfavicongenerator.net/?ref=producthunt) - For perfect icons on all browsers
 - [RegExr](https://regexr.com/) - Learn, Build, & Test RegEx
 - [pixelastic](https://www.pixelastic.com/projects/) - Open-Source projects and websites pixelastic released
-- [fast favicon](https://favi.deno.dev/) - API to provide images for favicons using emojis and characters.
 - [ntfy.sh](https://ntfy.sh/) - Send push notifications to your phone via PUT/POST
-- [Remotion](https://www.remotion.dev/) - Make videos programmatically
 - [Flow](https://app.flowoss.com/)
 - [Codeium](https://www.codeium.com/) - The modern coding superpower, a code acceleration toolkit built on cutting edge AI technology.
+- [broz](https://github.com/antfu/broz) - A simple, frameless browser for screenshots
+- [Task](https://taskfile.dev/) - A task runner / build tool that aims to be simpler and easier to use than, for example, GNU Make.
+- [upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [Toptal®](https://www.toptal.com/developers/htmlshell) - HTMLShell: Online HTML Editor
+- [IT Tools](https://it-tools.tech/) - Handy online tools for developers
+- [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving#trainingdocumentation) - An Awesome List for getting started with web archiving
+- [OTPless](https://otpless.com/?utm_source=TwitterAds&utm_medium=Website_Traffic_Dec2023&utm_campaign=Web_Traffic_C2) - Add Login with WhatsApp button for Free, Forever!
+- [Inertia.js](https://inertiajs.com/) - The Modern Monolith
+- [FormSpamPrevention](https://github.com/rodenacker/FormSpamPrevention) - A simple script to prevent bots from submitting online forms
+- [Petals](https://petals.ml/) - Decentralized platform for running 100B+ language models
+
+### Music
+- [awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
+- [ciconia/awesome-music](https://github.com/ciconia/awesome-music#audio-editing) - Awesome Music Projects
+- [awesome-music-listening](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music
+- [awesome-music-production](https://github.com/ad-si/awesome-music-production) - A curated list of software, services and resources to create and distribute music.
+- [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
+- [awesome-webaudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
+- [AI Music Generator](https://soundful.com/) - Royalty Free Music For Creators | Soundful
+- [Dittytoy](https://dittytoy.net/) - Create your generative music online using a simple Javascript API.
+- [Riffusion - Spectrogram To Music](https://huggingface.co/spaces/fffiloni/spectrogram-to-music) - a Hugging Face Space by fffiloni
 
 ## Design Tools
-- [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) - A collection of links for free stock photography, video and Illustration websites
-- [awesome-material](https://github.com/sachin1092/awesome-material) - A curated list of Google's material design libraries for different frameworks.
+
+### Collection
+- [awesome-love2d](https://github.com/love2d-community/awesome-love2d) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 - [curated-design-tools](https://github.com/kudapara/curated-design-tools) - A curated list of the tools we use to enhance our design wokflow.
+- [awesome-material](https://github.com/sachin1092/awesome-material) - A curated list of Google's material design libraries for different frameworks.
+- [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) - A collection of links for free stock photography, video and Illustration websites
+- [more.graphics](https://more.graphics/) - Your Unique and Free Generator Tools in One Place
 
 ### Inspiration
 - [districts on Neocities](https://districts.neocities.org/) - Your internet neighbor
@@ -304,7 +453,6 @@ How to import bookmarks in:
 
 ##### Generator
 - [AI Draw](https://ai-draw.tokyo/en/) - Convert your photo into line drawing.
-- [PixelMe](https://pixel-me.tokyo/en/) - Convert your photo into pixelart.
 - [Glitch Image Generator](https://glitchyimage.com/)
 - [AI Gahaku](https://ai-art.tokyo/en/) - A masterpiece from your photos.
 - [Look Scanned - A pure frontend site that makes your PDFs look scanned! No need for printers and scanners anymore](https://lookscanned.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) - everything you need to do is just a few clicks.
@@ -333,6 +481,8 @@ How to import bookmarks in:
 - [Waifu Diffusion Demo](https://huggingface.co/spaces/hakurei/waifu-diffusion-demo) - a Hugging Face Space by hakurei
 - [Palette](https://palette.fm/) - Colorize Photos.
 - [brushify.art](https://brushify.art/) - Whimsical Watercolors
+- [restorePhotos.io](https://www.restorephotos.io/) - Restoring old photos using AI for everyone.
+- [QQ小世界·AI画匠](https://h5.tu.qq.com/web/ai-2d/cartoon/index)
 
 #### Community
 - [Flickr](https://www.flickr.com/) - The best online photo management and sharing application in the world.
@@ -350,6 +500,14 @@ How to import bookmarks in:
 - [Pixabay](https://pixabay.com/) - 2.7 million+ Stunning Free Images to Use Anywhere
 - [500px](https://500px.com/) - Discover and share the world's best photos.
 - [Artistic.wtf](https://www.artistic.wtf/) - Free text to image generator using Stable Diffusion
+- [Lorem Faces](https://loremfaces.com/) - Free UI faces for designers, avatars, dummy faces, AI generated people faces | Lorem Faces
+- [Nyx.gallery](https://nyx.gallery/) - AI-generated photography
+
+#### SVG
+- [Wicked Backgrounds](https://wickedbackgrounds.com/app) - Create beautiful SVG backgrounds for your UI designs.
+- [free SVG generators,](https://fffuel.co/) - Web design tools & modern HTML templates
+- [vectormaker](https://vectormaker.co/) - Convert PNG-to-SVG Vectors
+- [satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [Base64 Image Encoder](https://www.base64-image.de/)
 
 ### Font
@@ -366,6 +524,9 @@ How to import bookmarks in:
 - [Fontshare](https://www.fontshare.com/) - Quality Fonts. Free.
 - [Fontesk](https://fontesk.com/punk-mono-typeface/) - Free Fonts & Typefaces
 - [Font Library](https://katydecorah.com/font-library/) - An open source project to tag and organize Google Fonts.
+- [Monospace fonts for math](https://mono-math.netlify.app/)
+- [Dev Fonts](https://devfonts.gafi.dev/)
+- [Programming Fonts](https://www.programmingfonts.org/) - Test Drive
 
 #### Fonts
 - [B612 – A Highly legible open source font family designed and tested to be used on aircraft cockpit screens.](https://b612-font.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=design)
@@ -391,6 +552,10 @@ How to import bookmarks in:
 - [Stylify](https://stylifycss.com/) - Write CSS Faster and Efficiently. Write HTML. Get CSS.
 - [PSone.css](https://micah5.github.io/PSone.css/)
 - [RippleUI](https://www.ripple-ui.com/) - TailwindCSS Components
+- [bamboo](https://rilwis.github.io/bamboo/) - A classless CSS library which adds nice default style for all HTML elements. It saves you a lot of time when you need to style HTML for your HTML/React/Vue demo on CodePen/CodeSandbox. It can also be used as a base style for your blog/website.
+- [Mdash](https://m-docs.org/) - Intends to leverage HTML, not replace it or try to outsmart it.
+- [Amigo CSS](https://amigocss.com/index.php?content=philosophy#documentation) - A Simple CSS Framework for CSS Lovers
+- [Paper Prototype CSS](https://edent.gitlab.io/paper-prototype-css/)
 
 #### Libraries
 - [Animista](https://animista.net/?ref=producthunt) - CSS Animations on Demand
@@ -398,12 +563,16 @@ How to import bookmarks in:
 - [Transition.css](https://www.transition.style/#in:circle:center) - easy transitions with clip-path
 - [Floating UI](https://floating-ui.com/) - Create tooltips, popovers, dropdowns, and more
 - [PowerGlitch](https://7ph.github.io/powerglitch/#/) - Glitch anything on the web
+- [clay.css](https://codeadrian.github.io/clay.css/) - by Adrian Bece
+- [MetalliCSS](https://www.metallicss.com/) - Kick-ass metallic finish for your CSS • Dependency-free • MIT License
+- [AnimatiSS](https://xsgames.co/animatiss/) - A nice, colorful collection of CSS animations for your projects
 
 #### Tools
 
 ##### Collection
 - [CSS Generator Tool](https://cssgenerator.org/) - CSS Demonstration and Generation
 - [CSS Portal - Generators, Resources, Tools, HTML](https://www.cssportal.com/) - CSS Portal
+- [CSS Generators](https://cssbud.com/css-generator/) - CSS Bud
 
 ##### Layout
 - [CSS Layout Generator](https://layout.bradwoods.io/about) - The Braid Design System believes UI (User Interface) components should not provide surrounding white space. For example, a list item having a margin below it to add a gap between itself & the next item. This margin breaks component encapsulation, making it harder to use. A well-built component should not affect anything outside itself.
@@ -421,6 +590,7 @@ How to import bookmarks in:
 - [wwwatercolor](https://fffuel.co/wwwatercolor/) - watercolor background & texture maker
 - [hhholographic](https://fffuel.co/hhholographic/) - Holographic & Iridescent Background/Texture Maker
 - [aaabstract](https://fffuel.co/aaabstract/) - abstract wavy background maker
+- [Animatize](https://animatize.com/) - animations the easy way
 - [Glassmorphism CSS Generator](https://ui.glass/generator/?ref=producthunt) - free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.
 - [Glassmorphism CSS Generator](https://markodenic.com/tools/glassmorphism-css-generator/) - Marko Denic Web Developer
 - [Pixel Art to CSS](https://www.pixelartcss.com/?ref=producthunt) - Draw and animate Pixel Art, export the results to CSS and download them
@@ -438,18 +608,35 @@ How to import bookmarks in:
 - [CSS loaders and Spinners](https://cssloaders.github.io/)
 - [CSS Portal](https://www.cssportal.com/css-loader-generator/) - CSS Loader Generator
 - [Loader Gallery](https://loading.io/spinner/) - Customize and make your own unique loader!
+
+##### Button
+- [Buttons Generator](https://markodenic.com/tools/buttons-generator/) - Marko Denic  Web Developer
+- [UI Buttons](https://ui-buttons.web.app/) - Every style imaginable
 - [CSS Layout](https://csslayout.io/) - A collection of popular layouts and patterns made with CSS
 - [CSS Scan](https://getcssscan.com/css-box-shadow-examples?ref=producthunt) - 93 Beautiful CSS box-shadow examples
 - [Box Shadow](https://box-shadow.art/) - CSS box shadow inspiration
-- [Buttons Generator](https://markodenic.com/tools/buttons-generator/) - Marko Denic  Web Developer
 - [Hero Patterns](https://heropatterns.com/?ref=producthunt) - Free repeatable SVG background patterns for your web projects
 - [Broider](https://maxbittker.github.io/broider/) - A fun tool for designing border decorations!
 - [Gridle](https://gridle.dev/) - CSS grid generator
 - [Animated Backgrounds](https://animatedbackgrounds.me/)
 - [CSS Pattern](https://css-pattern.com/) - Fancy backgrounds with CSS gradients
+- [John Doe’s page](https://john-doe.neocities.org/#home) - This website is a single HTML file. It simply uses the #anchor suffix (from 1992) and the :target CSS selector to show and hide pages/content.
+- [Theme Toggles](https://toggles.dev/) - Implementing theme toggles was never easier
 
 ### Color
 - [Colorful](https://github.com/Siddharth11/Colorful) - A curated list of awesome resources to choose your next color scheme
+
+#### Accessiblty
+- [WhoCanUse](https://www.whocanuse.com/?bg=339936&fg=ffffff&fs=16&fw=) - It's a tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
+- [Accessible Color Palette Generator](https://venngage.com/tools/accessible-color-palette-generator) - WCAG Compliant
+- [Reasonable Colors](https://reasonable.work/colors/) - An open-source color system for building accessible, nice-looking color palettes.
+
+#### Testing
+- [Huemint](https://huemint.com/) - AI color palette generator
+
+#### Generate
+- [Generate Mesh Gradients](https://meshgradient.in/) - Customize & Free Export PNG
+- [Mesher Tool by CSS Hero](https://csshero.org/mesher/) - CSS mesh gradients generator
 - [Color Hunt](https://www.colorhunt.co/?ref=producthunt) - Color Palettes for Designers and Artists
 - [Material Design Palette Generator](https://materialpalettes.com/?ref=producthunt) - Get perfect Material Design color palettes from any hex color.
 - [Eva Design System](https://colors.eva.design/?ref=producthunt) - Deep learning color generator
@@ -459,20 +646,17 @@ How to import bookmarks in:
 - [terminal.sexy](https://terminal.sexy/) - Terminal Color Scheme Designer
 - [Picular](https://picular.co/) - The color of anything.
 - [Free Premium Mockups - Instant Download](https://mockups-design.com/) - Mockups-Design.com
-- [https://raw.githubusercontent.com/AnzenKodo/assests/main/my/mascot/mascot.svg](https://raw.githubusercontent.com/AnzenKodo/assests/main/my/mascot/mascot.svg)
 - [Color](https://m2.material.io/inline-tools/color/)
 - [P. C. M. 0.25](https://colormixer.web.app/02332971ff623007ffff7c5f55610300ff9bc95200440301/Sunset) - Parametric Color Mixer v 0.25
-
-#### Testing
-- [WhoCanUse](https://www.whocanuse.com/?bg=339936&fg=ffffff&fs=16&fw=) - It's a tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
-- [tinycolor](https://github.com/scttcper/tinycolor) - 🎨 Color manipulation and conversion
 - [VS Code Themes](https://vscodethemes.com/)
-
-### SVG
-- [Wicked Backgrounds](https://wickedbackgrounds.com/app) - Create beautiful SVG backgrounds for your UI designs.
-- [free SVG generators,](https://fffuel.co/) - Web design tools & modern HTML templates
+- [flatuicolorpicker - Best Flat Colors UI Design](https://www.flatuicolorpicker.com/) - Flatuicolorpicker gives you the perfect colors for Flat Design
 
 ### Icons
+
+#### Glyphs
+- [Glyphs](https://x.withseismic.com/glyphs) - Copy & Paste Symbols
+- [Symbols to Copy](https://symbols.wentin.net/) - Easily find HTML symbols, entities, characters and codes with ASCII, HEX, CSS and Unicode values for HTML arrow, ASCII arrow, and more in grid or table format.
+- [Glyphy](https://glyphy.io/) - Copy & paste fancy fonts + cool symbols ☞✺✐™
 - [ClockFace](https://ocodo.github.io/ClockFace-font/?utm_source=hackernewsletter&utm_medium=email&utm_term=design) - Clock icons for displaying time
 - [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 - [iconmonstr](https://iconmonstr.com/) - Free simple icons for your next project
@@ -482,12 +666,28 @@ How to import bookmarks in:
 - [Icon Archive](https://iconarchive.com/) - Search 735,802 free icons, desktop icons, download icons, social icons, xp icons, vista icons
 - [Glyphter](https://glyphter.com/) - The SVG Font Machine
 - [Iconify](https://iconify.design/) - all open source icons in one framework
+- [Health Icons](https://healthicons.org/) - A volunteer effort to create a ‘global good’ for health projects all over the world. These icons are available in the public domain for use in any type of project.
+- [Atlas Icons](https://atlasicons.vectopus.com/) - Open source free icons library, available in variable stroke SVG format, web font, Figma, React, Vue and Flutter ready to use packages.
+- [MingCute Icon](https://www.mingcute.com/) - Carefully Designed Icon Library
+- [Futicons](https://futicons.com/) - Icons for the future
+- [Slim icons](https://slimicons.com/) - Free & Open Source Icon Library
 
 ### Patterns
 - [Hero Patterns](https://heropatterns.com/) - Free repeatable SVG background patterns for your web projects
+- [mmmotif](https://fffuel.co/mmmotif/) - SVG generator for 3D-like isomorphic patterns | fffuel
+
+### Pixel Art
+- [awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) - Curated list of everything awesome around pixel art.
+- [Pixelicious](https://www.pixelicious.xyz/) - Convert Your Images into Pixel Art for Game Development with Our Online Image-to-Pixel Art Converter ⚔️
+- [PixelMe](https://pixel-me.tokyo/en/) - Convert your photo into pixelart.
+
+### ASCII
+- [svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [DOODAD](https://doodad.dev/) - Tools for making websites fast, expressive, accessible, and green.
 - [Spline](https://spline.design/) - Design tool for 3D web browser experiences
 - [Vectary](https://www.vectary.com/) - Free online 3D design and Augmented Reality platform
+- [uiverse - Open-Source UI elements](https://uiverse.io/) - made with CSS and HTML
+- [Open UI](https://open-ui.org/) - The missing industry standard definition of UI
 
 ## Tools
 
@@ -497,27 +697,39 @@ How to import bookmarks in:
 - [BugMeNot](http://bugmenot.com/?ref=producthunt) - find and share logins
 - [Truecaller](https://www.truecaller.com/) - Leading Global Caller ID & Call Blocking App
 - [FarApps](https://farapps.farcase.xyz/)
+- [Pashword](https://pashword.app/) - Passwords Done Right
 
 ### Writing
 - [Hemingway Editor](https://hemingwayapp.com/) - Hemingway App makes your writing bold and clear. The app highlights lengthy, complex sentences and common errors; if you see a yellow sentence, shorten or split it.
 - [EasyWrite](https://easywrite.parishod.com/) - Write clearly using only 1,000 commonly used words
 - [LanguageTool](https://languagetool.org/) - Online Grammar, Style & Spell Checker
-- [Ok! So...](https://okso.app/) - a minimalistic online drawing app to express, grasp, and organize your thoughts and ideas. Draw to explain. Draw to grasp.
 - [Monkeytype](https://monkeytype.com/about) - A minimalistic typing test, featuring many test modes, an account system to save your typing speed history and user configurable features like themes, a smooth caret and more.
 - [cybertype - Fast and Minimal Typing App](https://cybertype.app/) - Improve your typing speed.
 - [Bike](https://www.hogbaysoftware.com/posts/bike-rich-text/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Innovative Rich Text Editing
 - [GitHub1s](https://github1s.com/) - One second to read GitHub code with VS Code.
+- [NoPaste](https://nopaste.ml/) - A open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing
 
 ### Management
 - [tdo](https://tdoapp.com/b/cl0o3er) - Keyboard driven, hackable TODO list
 - [Markwhen](https://markwhen.com/) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [Habitory](https://habitory.com/) - Habit tracking made simple
 - [The Pomodoro Tracker — A useful tool for time management based on Pomodoro Technique.](https://pomodoro-tracker.com/)
+- [gokanban](https://gokanban.io/b62e2bdf9e) - The new generation Kanban Board which is syntax driven and super optimized for fast use cases
 
-### Helper
-- [Perplexity AI](https://www.perplexity.ai/) - Ask Anything
-- [ChatGPT](https://chat.openai.com/chat) - A type of language model developed by OpenAI. It is a deep neural network that has been trained to generate human-like text by predicting the next word in a sequence, given the words that come before it.
+### Share
 - [Snapdrop](https://snapdrop.net/) - Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer and Open Source. No Setup, No Signup.
+- [Send](https://send.vis.ee/) - Share files with end-to-end encryption and a link that automatically expires. So you can keep what you share private and make sure your stuff doesn’t stay online forever.
+
+### Board
+- [Ok! So...](https://okso.app/) - a minimalistic online drawing app to express, grasp, and organize your thoughts and ideas. Draw to explain. Draw to grasp.
+- [tldraw](https://beta.tldraw.com/) - The infinite canvas for developers
+- [Excalidraw](https://excalidraw.com/) - Hand-drawn look & feel • Collaborative • Secure
+
+### Flowchart
+- [knotend](https://www.knotend.com/) - The fastest flowchart editor. Being keyboard-first and optimized for speed, knotend is the best flowchart editor for project management, todo lists, collaboration, and more.
+- [JSON Crack](https://jsoncrack.com/) - Crack your data into pieces
+
+### Utils
 - [QR Code Scanner](https://qrcodescan.in/) - The fastest and most user-friendly web application.
 - [PDF Host](https://www.pdfhost.net/) - On this website you can upload PDF documents to send to your friends, family, and other people.
 - [EPUB Metadata Editor](https://products.groupdocs.app/metadata/epub) - Change EPUB Properties Online
@@ -528,15 +740,44 @@ How to import bookmarks in:
 - [Looria analyzes Reddit posts and comments to find the most popular products.](https://looria.com/reddit/overview)
 - [Free online tools](https://freetools.site/) - no registration, unlimited use
 - [SETools](https://www.setools.xyz/) - Free Online Tools Website
+- [YouTube Transcript](https://youtubetranscript.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) - read YouTube videos
+- [Transcribe File](https://freesubtitles.ai/)
+- [Article Idea Generator](https://www.articleideagenerator.com/)
+- [Bookmarklet Editor](https://www.gibney.org/bookmarklet_editor) - This editor lets you easily create and edit bookmarklets. You can convert an existing bookmarklet into readable code, or convert readable code into a bookmarklet.
+- [GPTDuck](https://www.gptduck.com/)
+- [Futurepedia](https://www.futurepedia.io/) - The Largest AI Tools Directory
+- [AllinOne.Tools](https://allinone.tools/) - Free Online Tools
+- [YouTube Playlist Length](https://ytplaylist-len.sharats.dev/) - Find the length of any YouTube playlist
+- [Ray.so](https://ray.so/) - Create beautiful images of your code
+- [EthicalAds](https://www.ethicalads.io/) - Privacy-preserving Ad Network for Developers
 
-## Information
-- [DevDocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
+## Learn
 - [Media Bias/Fact Check](https://mediabiasfactcheck.com/) - Search and Learn the Bias of News Media
 - [Quote Investigator](https://quoteinvestigator.com/) - Tracing Quotations
-- [Home Manager Options](https://rycee.gitlab.io/home-manager/options.html)
 - [8bitworkshop](https://8bitworkshop.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun)
 - [Wumbo](https://wumbo.net/) - Wumbo is a math reference site for students and teachers.
 - [Ground News](https://ground.news/) - Breaking News Headlines and Media Bias
+
+### GitHub
+- [The Algorithms](https://github.com/TheAlgorithms) - Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
+- [Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮 A collection of resources to learn mathematics for machine learning
+- [awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) - Curated list of awesome software for numerical analysis and scientific computing
+- [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#in-english) - A curated list of podcasts we like to listen to.
+
+### Reserch
+- [CrowdView](https://crowdview.ai/) - Forum Search Engine
+- [Perplexity AI](https://www.perplexity.ai/) - Ask Anything
+- [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data
+
+#### ChatGPT
+- [ChatGPT](https://chat.openai.com/chat) - A type of language model developed by OpenAI. It is a deep neural network that has been trained to generate human-like text by predicting the next word in a sequence, given the words that come before it.
+- [Chat GPT Prompts](https://prompto.chat/) - Share, Discover & Use the best ChatGPT prompts on the internet.
+- [ChatGPT Cheat Sheet.pdf](https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view) - Google Drive
+- [Awesome ChatGPT Prompts](https://prompts.chat/) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
+### Docs
+- [DevDocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
+- [MyNixOS](https://mynixos.com/)
 
 ### Cheatsheet
 - [Cheatography.com](https://www.cheatography.com/) - Cheat Sheets For Every Occasion
@@ -549,29 +790,40 @@ How to import bookmarks in:
 - [List of LaTeX mathematical symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) - OeisWiki
 
 ### Maths
+- [rossant/awesome-math: A curated list of awesome mathematics resources](https://github.com/rossant/awesome-math#youtube-series)
+- [Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
+
+#### Programming
+- [Mathics](https://mathics.org/)
+- [The Julia Programming Language](https://julialang.org/)
+- [Wolfram Language](https://www.wolfram.com/language/) - Programming Language + Built-In Knowledge
+- [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
+- [awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) - Curated list of awesome software for numerical analysis and scientific computing
 
 #### LaTeX
 - [OeisWiki](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) - List of LaTeX mathematical symbols
 - [LaTeX Mathematics for Undergraduates](https://joshua.smcvt.edu/undergradmath/) - This is a cheat sheet for writing mathematics with LATEX. It is aimed at undergraduates.
 - [KaTeX](https://katex.org/docs/supported.html) - Supported Functions
+- [Detexify](https://detexify.kirelabs.org/classify.html) - LaTeX handwritten symbol recognition
 
 #### Calculator
 - [Tiger Algebra](https://www.tiger-algebra.com/) - A Free, Online Algebra Solver and Calculator
 - [Mathforyou](https://mathforyou.net/en/) - Online integrals, derivatives, equations calculators
 - [Simplify](https://quickmath.com/webMathematica3/quickmath/algebra/simplify/basic.jsp) - Simplify radical,rational expression with Step-by-Step Math Problem Solver
 - [Microsoft Math Solver](https://mathsolver.microsoft.com/en) - Math Problem Solver & Calculator
-- [Mathics](https://mathics.org/)
-- [Purplemath](https://www.purplemath.com/index.htm) - Free and clear online algebra help!
-- [Math Help](https://www.mathhelp.com/) - Online Test Prep, Tutoring, and Homeschooling
-- [Wolfram MathWorld](https://mathworld.wolfram.com/) - The Web's Most Extensive Mathematics Resource
-- [Mathplanet](https://www.mathplanet.com/) - Math planet is an online resource where one can study math for free
-- [Formula collection](https://www.formelsamlingen.se/) - A complete formula collection with formulas within mathematics, physics and chemistry.
-- [rossant/awesome-math: A curated list of awesome mathematics resources](https://github.com/rossant/awesome-math#youtube-series)
+- [Notepad Calculator](https://notepadcalculator.com/about)
+
+#### Info
+- [I Love Maths](https://ilovemaths.com/) - A complete, Indian site on Maths
+- [BetterExplained – Math lessons that click](https://betterexplained.com/)
 - [PlanetMath.org](https://planetmath.org/)
 - [ProofWiki](https://proofwiki.org/wiki/Main_Page)
-- [How To Learn Trigonometry Intuitively – BetterExplained](https://betterexplained.com/articles/intuitive-trigonometry/)
-- [BetterExplained – Math lessons that click](https://betterexplained.com/)
-- [I Love Maths -A complete, Indian site on Maths](https://ilovemaths.com/)
+- [Formula collection](https://www.formelsamlingen.se/) - A complete formula collection with formulas within mathematics, physics and chemistry.
+- [Mathplanet](https://www.mathplanet.com/) - Math planet is an online resource where one can study math for free
+- [Wolfram MathWorld](https://mathworld.wolfram.com/) - The Web's Most Extensive Mathematics Resource
+- [Math Help](https://www.mathhelp.com/) - Online Test Prep, Tutoring, and Homeschooling
+- [Purplemath](https://www.purplemath.com/index.htm) - Free and clear online algebra help!
+- [Math is Fun](https://www.mathsisfun.com/) - Offer mathematics in an enjoyable and easy-to-learn manner, because we believe that mathematics is fun.
 
 ### Journals
 - [IEEE Open](https://open.ieee.org/publishing-options/topical-journals/) - Fully Open Access Topical Journals
@@ -598,6 +850,10 @@ How to import bookmarks in:
 - [Technical Books Pdf](https://www.technicalbookspdf.com/) - Download Free PDF Books, Notes and Manuals for Study
 - [O'Reilly's CD bookshelf](https://docstore.mik.ua/orelly/bookshelfs.html)
 
+#### Tools
+- [How Long to Read](https://howlongtoread.com/) - Search Reading Times for Millions of Books
+- [Talk to Books](https://books.google.com/talktobooks/) - Browse passages from books using experimental AI
+
 ## Miscellaneous
 
 ### Anime
@@ -622,13 +878,16 @@ How to import bookmarks in:
 - [IMDb Table](https://docyx.github.io/imdb-table/)
 - [Sprig](https://sprig.hackclub.com/) - The game console where every player is a creator.
 - [The GPT Times](https://the-gpt-times.eriks-studio.repl.co/)
+- [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 
 ## Games
+- [magictools](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen.
 
 ### Collection
 - [webЯcade](https://play.webrcade.com/) - Feed-driven Gaming
 - [js13kGames](https://js13kgames.com/) - A JavaScript coding competition for HTML5 Game Developers running yearly since 2012.
 - [PACKABUNCHAS](https://js13kgames.com/entries/packabunchas) - You are Spacey, from the PACKABUNCHAS, a group of space rangers specialized in packing and rescuing creatures around the galaxy!
+- [awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) - Actively maintained open-source game remakes.
 - [The Neatness](https://js13kgames.com/games/the-neatness/index.html) - Written by Mark Vasilkov for js13kGames in 2022.
 - [Soul Jumper](https://js13kgames.com/games/soul-jumper/index.html) - JS13k Game Jame #11
 - [Norman the Necromancer](https://js13kgames.com/games/norman-the-necromancer/index.html) - Entry for JS13k 2020 (Death)
@@ -649,3 +908,4 @@ How to import bookmarks in:
 - [The Maze of Space Goblins](https://js13kgames.com/entries/the-maze-of-space-goblins) - A puzzle game that combines Sokoban-like gameplay mechanics with match-3.
 - [Elevator Saga](https://play.elevatorsaga.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun) - the elevator programming game
 - [DogBunny](https://dogbunnypuzzle.com/) - Puzzle
+- [Citybound](https://aeplay.org/citybound) - A city building game that uses microscopic models to vividly simulate the organism of a city arising from the interactions of millions of individuals.
