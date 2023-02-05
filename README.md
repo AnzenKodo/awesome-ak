@@ -59,6 +59,7 @@ How to import bookmarks in:
 - [Stable Diffusion](https://discord.gg/stablediffusion)
 - [東方Project AI](https://discord.gg/touhouai)
 - [OpenAI](https://discord.gg/openai)
+- [PromptsLab](https://discord.com/invite/m88xfYMbK6)
 - [Niko's Math Corner](https://discord.gg/jcJGBdneD2)
 - [Ultra](https://discord.gg/XDC5WxGHb2)
 - [OpenAI](https://discord.gg/openai)
@@ -73,6 +74,12 @@ How to import bookmarks in:
 ### Username Checker
 - [blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
 - [Landing](https://nameketchup.com/) - NameKetchup
+
+### Stats
+- [Green Wall](https://green-wall.vercel.app/) - GitHub contribution graph generator
+- [Gitstalk](https://gitstalk.netlify.app/) - Discover who's upto what...
+- [GitHub Trends](https://www.githubtrends.io/) - Dives deep into the GitHub API to bring you insightful metrics on your contributions, broken by repository and language.
+- [Profile Summary For GitHub](https://profile-summary-for-github.com/search)
 
 ## Pins
 
@@ -152,13 +159,19 @@ How to import bookmarks in:
 - [JSPM](https://jspm.org/) - JSPM provides a module CDN and package management for import maps, allowing any package from npm to be loaded directly in the browser fully optimized without further tooling.
 - [esm.run](https://www.jsdelivr.com/esm) - Load modern JavaScript packages built for you on-demand Works in modern web browsers, node.js, and deno
 
-###### Libraries
+###### Web Components
 
-####### Web Components
+####### Framework
 - [Stencil](https://stenciljs.com/) - Library for building reusable, scalable Design Systems. Generate small, blazing fast Web Components that run everywhere.
-- [Shoelace](https://shoelace.style/) - A forward-thinking library of web components.
-- [Lit](https://lit.dev/)
 - [Bay.js](https://bayjs.org/) - An easy to use, lightweight library for web-components.
+- [Lit](https://lit.dev/)
+- [Shoelace](https://shoelace.style/) - A forward-thinking library of web components.
+
+####### Componets
+- [relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard <time> element.
+- [OrgChart-Webcomponents](https://github.com/dabeng/OrgChart-Webcomponents) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
+
+###### Libraries
 
 ####### UI
 - [Pollen](https://www.pollen.style/) - A configurable library of CSS variables. It lets you write faster, more consistent, and more maintainable styles. Use it in any stack and easily extend it as a build tool for your own custom design systems.
@@ -279,6 +292,7 @@ How to import bookmarks in:
 - [logt](https://github.com/sidhantpanda/logt) - 🖥️ A colourful logger for the browser
 - [current.js](https://github.com/marcoroth/current.js) - A tiny 🤏 library (only 379 B) that allows you to access current `<meta>` elements
 - [Unhead](https://unhead.harlanzw.com/) - Universal document <head> tag manager.
+- [feedbackplus](https://github.com/ColonelParrot/feedbackplus) - Screenshotting and screenshot editing for your feedback forms with JavaScript.
 
 ###### Engine
 
@@ -527,6 +541,7 @@ How to import bookmarks in:
 - [Monospace fonts for math](https://mono-math.netlify.app/)
 - [Dev Fonts](https://devfonts.gafi.dev/)
 - [Programming Fonts](https://www.programmingfonts.org/) - Test Drive
+- [Font Engine](https://tasarla.co/fe/)
 
 #### Fonts
 - [B612 – A Highly legible open source font family designed and tested to be used on aircraft cockpit screens.](https://b612-font.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=design)
@@ -622,6 +637,7 @@ How to import bookmarks in:
 - [CSS Pattern](https://css-pattern.com/) - Fancy backgrounds with CSS gradients
 - [John Doe’s page](https://john-doe.neocities.org/#home) - This website is a single HTML file. It simply uses the #anchor suffix (from 1992) and the :target CSS selector to show and hide pages/content.
 - [Theme Toggles](https://toggles.dev/) - Implementing theme toggles was never easier
+- [3D in CSS](https://garden.bradwoods.io/notes/css/3d)
 
 ### Color
 - [Colorful](https://github.com/Siddharth11/Colorful) - A curated list of awesome resources to choose your next color scheme
@@ -637,6 +653,7 @@ How to import bookmarks in:
 #### Generate
 - [Generate Mesh Gradients](https://meshgradient.in/) - Customize & Free Export PNG
 - [Mesher Tool by CSS Hero](https://csshero.org/mesher/) - CSS mesh gradients generator
+- [GradienMood](https://gradienmood.posandu.me/) - Generate a gradient from a mood
 - [Color Hunt](https://www.colorhunt.co/?ref=producthunt) - Color Palettes for Designers and Artists
 - [Material Design Palette Generator](https://materialpalettes.com/?ref=producthunt) - Get perfect Material Design color palettes from any hex color.
 - [Eva Design System](https://colors.eva.design/?ref=producthunt) - Deep learning color generator
@@ -879,6 +896,7 @@ How to import bookmarks in:
 - [Sprig](https://sprig.hackclub.com/) - The game console where every player is a creator.
 - [The GPT Times](https://the-gpt-times.eriks-studio.repl.co/)
 - [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
+- [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) - Original Prusa 3D printers directly from Josef Prusa
 
 ## Games
 - [magictools](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen.
