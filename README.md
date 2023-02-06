@@ -107,6 +107,7 @@ How to import bookmarks in:
 - [Numba](https://numba.pydata.org/?utm_source=tldrnewsletter) - A High Performance Python Compiler
 - [OMRChecker](https://github.com/Udayraj123/OMRChecker) - Read OMRs fast and accurately using a scanner 🖨 or your phone 🤳.
 - [NiceGUI](https://nicegui.io/#examples) - Let any browser be the frontend of your Python code.
+- [Pelican](https://getpelican.com/) - A Python Static Site Generator
 
 ##### Rust
 - [Dioxus](https://dioxuslabs.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=code) - An elegant GUI library for Rust
