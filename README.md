@@ -63,6 +63,7 @@ How to import bookmarks in:
 - [Niko's Math Corner](https://discord.gg/jcJGBdneD2)
 - [Ultra](https://discord.gg/XDC5WxGHb2)
 - [OpenAI](https://discord.gg/openai)
+- [Lapce](https://discord.com/invite/n8tGJ6Rn6D)
 
 #### Projects
 - [dblog](https://github.com/AnzenKodo/dblog) - dblog blog generator, that generates blog from Markdown and JSON file. dblog handles technical parts, so you can focus on hard part writing.
