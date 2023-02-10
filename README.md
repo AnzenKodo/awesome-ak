@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Awesome list of awesome website from my bookmarks. Download bookmarks also.
+undefined
 
 <div align="center">
 <a href="https://anzenkodo.github.io/awesome/bookmark.html" download>
