@@ -832,7 +832,7 @@ How to import bookmarks in:
 - [tdo](https://tdoapp.com/b/cl0o3er) - Keyboard driven, hackable TODO list
 - [Markwhen](https://markwhen.com/) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [Habitory](https://habitory.com/) - Habit tracking made simple
-- [The Pomodoro Tracker — A useful tool for time management based on Pomodoro Technique.](https://pomodoro-tracker.com/)
+- [The Pomodoro Tracker](https://pomodoro-tracker.com/) - A useful tool for time management based on Pomodoro Technique.
 - [gokanban](https://gokanban.io/b62e2bdf9e) - The new generation Kanban Board which is syntax driven and super optimized for fast use cases
 
 ### Share
