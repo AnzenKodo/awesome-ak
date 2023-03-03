@@ -309,7 +309,6 @@ How to import bookmarks in:
 - [Pelican](https://getpelican.com/) - A Python Static Site Generator
 
 #### System
-- [virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
 
 ##### Go
 - [Pushup](https://pushup.adhoc.dev/) - page-oriented web framework for Go
