@@ -18,35 +18,24 @@ How to import bookmarks in:
 
 ## Social Media
 
-### AK Stuff
-
-#### Media
-- [GitHub](https://github.com/AnzenKodo)
-- [Twitter](https://twitter.com/AnzenKodo)
-- [Discord ](https://discord.com/users/910257548593086474)
-- [Pinterest](https://www.pinterest.com/AnzenKodo/)
-- [Goodreads](https://www.goodreads.com/AnzenKodo)
-- [Simkl](https://simkl.com/5607531/)
-- [ListenBrainz](https://listenbrainz.org/user/AnzenKodo/)
-
-#### Follow List
+### Follow List
 - [Twitter Lists](https://twitter.com/AnzenKodo/lists)
 - [YouTube Subscriptions](https://www.youtube.com/channel/UCtseLjsqhEAiSm08l5DGkFA/channels)
 - [GitHub Following](https://github.com/AnzenKodo?tab=following)
 
-##### Discord
+#### Discord
 
-###### Languages
+##### Languages
 - [The V Language & Apps](https://discord.gg/vlang)
 - [Deno](https://discord.gg/deno)
 - [Nix/NixOS (unofficial)](https://discord.com/invite/RbvHtGa)
 
-###### Linux
+##### Linux
 - [r/unixporn](https://discord.gg/unixporn)
 - [Brodie's Linux Dumpster Fire](https://brodierobertson.xyz/discord)
 - [SerenityOS](https://discord.gg/serenityos)
 
-###### Awesome People
+##### Awesome People
 - [xahlee](https://discord.gg/QYFcqNT)
 - [Theo's Typesafe Cult](https://discord.gg/xHdCpcPHRE)
 - [ThePrimeagen](https://discord.gg/theprimeagen)
@@ -54,7 +43,7 @@ How to import bookmarks in:
 - [Fireship](https://discord.gg/fireship)
 - [NAMTAO Productions](https://discord.gg/mCY2bBmDKZ)
 
-###### AI
+##### AI
 - [Midjourney](https://discord.com/invite/midjourney)
 - [Stable Diffusion](https://discord.gg/stablediffusion)
 - [東方Project AI](https://discord.gg/touhouai)
@@ -65,11 +54,6 @@ How to import bookmarks in:
 - [OpenAI](https://discord.gg/openai)
 - [Lapce](https://discord.com/invite/n8tGJ6Rn6D)
 
-#### Projects
-- [dblog](https://github.com/AnzenKodo/dblog) - dblog blog generator, that generates blog from Markdown and JSON file. dblog handles technical parts, so you can focus on hard part writing.
-- [rss-atom-parser](https://github.com/AnzenKodo/rss-atom-parser) - RSS & Atom feed parser for PHP. Very small and easy-to-use library for parsing your feeds.
-- [dotfiles](https://github.com/AnzenKodo/dotfiles) - My dotfiles
-
 ### Sites
 - [xLog](https://xlog.app/) - The first on-chain and open-source blogging platform for everyone.
 - [iris](https://iris.to/#/about) - Like the social networking apps we're used to, but better.
@@ -77,6 +61,7 @@ How to import bookmarks in:
 ### Username Checker
 - [blackbird](https://github.com/p1ngul1n0/blackbird) - An OSINT tool to search for accounts by username in social networks.
 - [Landing](https://nameketchup.com/) - NameKetchup
+- [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 
 ### Stats
 - [Green Wall](https://green-wall.vercel.app/) - GitHub contribution graph generator
@@ -86,6 +71,10 @@ How to import bookmarks in:
 
 ### Other
 - [PARTY](https://party.lol/) - Your friend has invited you to join the biggest underground party the internet has ever seen!
+- [GPT Twitter Bot](https://twitter-bot.com/) - Are you ready to find out who AI thinks you are based on your Tweets?
+
+### Protocol
+- [Farcaster](https://www.farcaster.xyz/)
 
 ## Pins
 
@@ -100,7 +89,7 @@ How to import bookmarks in:
 - [Shell Script Best Practices — The Sharat's](https://sharats.me/posts/shell-script-best-practices/?utm_source=tldrnewsletter)
 
 ## DevTools
-- [web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
+- [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 
 ### Languages
 
@@ -110,6 +99,7 @@ How to import bookmarks in:
 - [V](https://vlang.io/) - Simple, fast, safe, compiled. For developing maintainable software.
 - [Erlang](https://www.erlang.org/) - A programming language used to build massively scalable soft real-time systems with requirements on high availability. Some of its uses are in telecoms, banking, e-commerce, computer telephony and instant messaging. Erlang's runtime system has built-in support for concurrency, distribution and fault tolerance.
 - [Odin Programming Language](https://odin-lang.org/) - The Data-Oriented Language for Sane Software Development.
+- [Ink](https://dotink.co/) - The Ink blog
 
 #### Scripting
 
@@ -126,12 +116,15 @@ How to import bookmarks in:
 - [ArrowJS](https://www.arrow-js.com/) - A experimental tool for programming reactive interfaces using native JavaScript. It’s not really a framework, but not less powerful than a framework either.
 - [Plasmo](https://www.plasmo.com/) - Supercharge your browser extension development
 - [Nano JSX](https://nanojsx.io/) - Lightweight 1kB JSX library
+- [react_app](https://github.com/udibo/react_app) - A React Framework for Deno that makes it easy to create highly interactive apps that have server side rendering with file based routing for both your UI and API.
 
 ###### Module
 - [ESM](https://esm.sh/) - A fast, global content delivery network for NPM packages with ES Module format.
 - [Skypack](https://www.skypack.dev/) - Load optimized npm packages with no install and no build tools.
 - [JSPM](https://jspm.org/) - JSPM provides a module CDN and package management for import maps, allowing any package from npm to be loaded directly in the browser fully optimized without further tooling.
 - [esm.run](https://www.jsdelivr.com/esm) - Load modern JavaScript packages built for you on-demand Works in modern web browsers, node.js, and deno
+- [DenoPKG](https://denopkg.com/)
+- [nest.land](https://nest.land/)
 
 ###### Web Components
 
@@ -142,8 +135,10 @@ How to import bookmarks in:
 - [Shoelace](https://shoelace.style/) - A forward-thinking library of web components.
 
 ####### Componets
+- [AI to UI component generator](https://ai2ui.co/)
 - [relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard <time> element.
 - [OrgChart-Webcomponents](https://github.com/dabeng/OrgChart-Webcomponents) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
+- [qr-code](https://github.com/bitjson/qr-code) - A no-framework, no-dependencies, customizable, animate-able, SVG-based <qr-code> HTML element.
 
 ###### Libraries
 
@@ -186,6 +181,7 @@ How to import bookmarks in:
 - [Vue TermUI](https://vue-termui.dev/) - The Modern Terminal UI Framework
 - [Termino.js - Create terminals in the browser with MarketingPipeline's Termino.js library](https://marketingpipeline.github.io/Termino.js/demo) - great for making terminal animations, terminal like apps & terminal based games.
 - [Termino.js - Create a web based terminal on any website](https://github.com/MarketingPipeline/Termino.js) - great for games, animations and real world apps!
+- [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 
 ####### Audio
 - [symphonia](https://github.com/tropicbliss/symphonia) - An audio playback library for Node.js
@@ -250,6 +246,8 @@ How to import bookmarks in:
 ####### Chart
 - [billboard.js](https://naver.github.io/billboard.js/) - Re-usable, easy interface JavaScript chart library, based on D3 v4+.
 - [Chart.js](https://www.chartjs.org/) - Open source HTML5 Charts for your website
+- [OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
+- [Plotteus](https://www.plotteus.dev/) - A JavaScript data visualization library designed to help you tell better stories.
 
 ####### CSS in JS
 - [classname-variants](https://github.com/fgnass/classname-variants) - Variant API for plain class names
@@ -259,6 +257,7 @@ How to import bookmarks in:
 - [Compiled](https://compiledcssinjs.com/) - Compile time CSS-in-JS for React
 - [Pinceau](https://pinceau.dev/) - Make your <script> lighter  and your <style> smarter
 - [Actions · AnzenKodo/AnzenKodo.github.io](https://github.com/AnzenKodo/AnzenKodo.github.io/actions)
+- [ecsstatic](https://www.ecsstatic.dev/) - A fully static CSS-in-JS solution that does just enough.
 
 ####### Image
 - [Pixel It](https://giventofly.github.io/pixelit/#tryit) - Create pixel art from an image
@@ -272,7 +271,9 @@ How to import bookmarks in:
 - [url-animations](https://github.com/LunarFang416/url-animations) - Add loading animations to your website in your browser URL field.
 - [fireworks.js](https://github.com/crashmax-dev/fireworks-js) - A simple fireworks library! Ready to use components available for React, Vue 3, Svelte, Angular, Preact, Solid, and Web Components.
 - [Dbin](https://github.com/oscarotero/dbin?utm_source=denonews&utm_medium=email&utm_campaign=51-announcing-the-new-slack-platform-powered-by) - Library to download binary files from GitHub releases detecting the correct platform.
+- [clappr](https://github.com/clappr/clappr) - An extensible media player for the web.
 - [MathJax](https://www.mathjax.org/) - Beautiful math in all browsers.
+- [garlic](https://github.com/velocitatem/garlic) - 🧄🧛 protect your website from being scraped by bots.
 - [kaboom](https://kaboomjs.com/) - 💥 JavaScript game library
 - [Popper](https://popper.js.org/) - Tooltip & Popover Positioning Engine
 - [fv](https://github.com/LingDong-/fv) - An experimental approach to expressing vector math in js (tagged template literals)
@@ -282,6 +283,11 @@ How to import bookmarks in:
 - [Unhead](https://unhead.harlanzw.com/) - Universal document <head> tag manager.
 - [feedbackplus](https://github.com/ColonelParrot/feedbackplus) - Screenshotting and screenshot editing for your feedback forms with JavaScript.
 - [dax](https://deno.land/x/dax) - Cross platform shell tools for Deno inspired by zx.
+- [prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
+- [sortable](https://github.com/tofsjonas/sortable) - Vanilla JavaScript table sort
+- [alienkitty/space.js](https://github.com/alienkitty/space.js) - 🛸 Future web UI
+- [discord-fs](https://github.com/pixelomer/discord-fs) - Discord as a filesystem
+- [dosco/minds - MindsJS](https://github.com/dosco/minds) - Build AI powered workflows easily
 
 ###### Engine
 
@@ -301,23 +307,47 @@ How to import bookmarks in:
 - [Lightning CSS](https://lightningcss.dev/) - An extremely fast CSS parser, transformer, bundler, and minifier.
 - [siimple](https://siimple.xyz/) - Minimal and themeable CSS toolkit · siimple CSS
 - [Piling.js](https://piling.js.org/) - A JavaScript library to build visual piling interfaces for exploring large collections of small multiples.
+- [WebContainers](https://webcontainers.io/) - Dev environments. In your web app.
 
 ##### Python
-- [Numba](https://numba.pydata.org/?utm_source=tldrnewsletter) - A High Performance Python Compiler
 - [OMRChecker](https://github.com/Udayraj123/OMRChecker) - Read OMRs fast and accurately using a scanner 🖨 or your phone 🤳.
 - [NiceGUI](https://nicegui.io/#examples) - Let any browser be the frontend of your Python code.
 - [Pelican](https://getpelican.com/) - A Python Static Site Generator
+- [PyGWalker](https://github.com/Kanaries/pygwalker?utm_source=tldrnewsletter) - Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
+- [Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs.
+- [A curated list of awesome Python ](https://gist.github.com/pvanfas/8b4518996136d1a5ffc79513b3105033) - frameworks, libraries, software and resources.
+- [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [awesome-django](https://github.com/shahraizali/awesome-django#blog-management) - The Best Django Resource, Awesome Django for mature packages.
+- [Pyramid](https://trypyramid.com/) - A Python Web Framework
+- [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications#tag-dev.editor) - 💿 Free software that works great, and also happens to be open-source Python.
+- [fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python) - awesome-python with and
+- [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [awesome-python-applications](https://github.com/sharmer156/awesome-python-applications#tag-video) - 💿 Free software that works great, which also happens to be open-source Python.
+- [Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
+- [Polars](https://www.pola.rs/)
+- [Flet](https://flet.dev/) - The fastest way to build Flutter apps in Python
+
+###### Compiler
+- [codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
+- [Numba](https://numba.pydata.org/?utm_source=tldrnewsletter) - A High Performance Python Compiler
+- [PyPy](https://www.pypy.org/) - A fast, compliant alternative implementation of Python
 
 #### System
 
 ##### Go
 - [Pushup](https://pushup.adhoc.dev/) - page-oriented web framework for Go
+- [go-telegram](https://github.com/go-telegram/bot) - Telegram Bot API Go framework
+- [fucking-awesome-go](https://github.com/hvnsweeting/fucking-awesome-go) - awesome-go with and
 
 ##### Rust
 - [burn](https://github.com/burn-rs/burn?utm_source=tldrnewsletter) - BURN: Burn Unstoppable Rusty Neurons
 - [Ruff](https://beta.ruff.rs/docs/?utm_source=hackernewsletter&utm_medium=email&utm_term=code)
 - [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [Dioxus](https://dioxuslabs.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=code) - An elegant GUI library for Rust
+- [Nannou](https://nannou.cc/) - An open-source creative-coding framework for Rust
+
+##### C
+- [IGCC - IGCC](https://www.artificialworlds.net/wiki/IGCC/IGCC?ref=hackernoon.com) - Andy Balaam Home
 
 #### Configuration
 - [The Dhall](https://dhall-lang.org/#) - configuration language
@@ -329,6 +359,7 @@ How to import bookmarks in:
 
 ##### HTML
 - [</> htmx](https://htmx.org/) - high power tools for html.
+- [Enhance](https://enhance.dev/docs/) - A web standards-based HTML framework. It’s designed to provide a dependable foundation for building lightweight, flexible, and future-proof web applications.
 - [Hibiki HTML](https://www.hibikihtml.com/) - Easy-to-use web framework for creating modern front-end applications. There is no JavaScript stack to set up, no boilerplate/scaffolding, no build tools to download and run, and no need to be a JavaScript expert.
 - [JinjaX](https://jinjax.scaletti.dev/) - Super components powers for your Jinja templates
 - [Eta](https://eta.js.org/) - Lightweight, powerful, pluggable embedded JS template engine.
@@ -336,13 +367,23 @@ How to import bookmarks in:
 
 #### Assembler
 - [WASM-4](https://wasm4.org/) - Build retro games using WebAssembly for a fantasy console
+
+#### Functional
+
+##### Haskell
+- [IHP](https://ihp.digitallyinduced.com/) - Integrated Haskell Platform, a batteries-included web framework built on purely functional programming technologies
+- [Foi](https://github.com/getify/foi-lang) - a different kind of functional programming language
+- [The-Spiral-Language](https://github.com/mrakgr/The-Spiral-Language) - Functional language with intensional polymorphism and first-class staging.
 - [DSchroer/dslcad](https://github.com/DSchroer/dslcad?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) - A programming language & interpreter for building 3D models.
+- [Strudel](https://strudel.tidalcycles.org/) - A new live coding platform to write dynamic music pieces in the browser!
+- [NESFab](https://pubby.games/nesfab.html) - A new programming language for creating NES games. Designed with 8-bit limitations in mind, the language is more ergonomic to use than C, while also producing faster assembly code. It's easy to get started with, and has a useful set of libraries for making your first — or hundredth.
 
 ### Database
 - [AlaSQL](https://alasql.org/) - JavaScript SQL database for browser and Node.js.
 - [rsedis](https://github.com/seppo0010/rsedis) - Redis re-implemented in Rust.
 - [GUN - the database for freedom fighters](https://gun.eco/) - Docs v2.0
 - [gist-database = ✨ Transform gist into your personal key/value datastore. 💡Pair this with Next.js static sites and incremental static regeneration. Built with TypeScript.](https://github.com/TimMikeladze/gist-database)
+- [DuckDB](https://duckdb.org/) - An in-process SQL OLAP database management system
 
 ### CDN
 
@@ -368,6 +409,7 @@ How to import bookmarks in:
 - [public-apis](https://github.com/toddmotto/public-apis#photography) - A collective list of free APIs
 - [Public-APIs](https://github.com/n0shake/Public-APIs#advertising) - 📚 A public list of APIs from round the web.
 - [API Ninjas](https://api-ninjas.com/) - Build Real Applications with Real Data
+- [A Collaborative List Of 1400+ Public APIs For Developers](https://publicapis.dev/)
 
 #### Open Graph
 - [Open Graph Image as a Service](https://og-image.vercel.app/) - A service to generate dynamic Open Graph images on-the-fly for the purpose of sharing a website to social media. Proudly hosted on Vercel.
@@ -404,6 +446,7 @@ How to import bookmarks in:
 - [Pirate Weather](https://pirateweather.net/) - A Free, Open, and Documented Forecast API
 - [ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API.
 - [OpenCitations](https://opencitations.net/corpus) - OpenCitations Corpus
+- [Jikan](https://jikan.moe/) - Unofficial MyAnimeList API
 - [OpenAPI.Tools](https://openapi.tools/) - To keep API developers up to date with the best OpenAPI tooling around, and help direct folks to high quality modern tooling, instead of being stuck on old v2-based rubbish.
 - [tweetfree](https://github.com/face-hh/tweetfree) - Twitter's API made free using puppeteer
 - [httpstat.us](https://httpstat.us/) - This is a super simple service for generating different HTTP codes.
@@ -472,6 +515,7 @@ How to import bookmarks in:
 - [PlanetScale](https://planetscale.com/) - The world’s most advanced database platform
 
 ### WebDev
+- [web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [vercel/examples: Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.](https://github.com/vercel/examples)
 
 #### Generators
@@ -511,6 +555,13 @@ How to import bookmarks in:
 
 #### Web3
 - [Metaplex](https://www.metaplex.com/) - Metaplex is a platform for NFT creators and developers on Solana.
+- [viem](https://viem.sh/) - TypeScript Interface for Ethereum
+- [ooh.directory](https://ooh.directory/)
+
+### AI
+- [ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
+- [Civitai](https://civitai.com/)
+- [llama](https://github.com/facebookresearch/llama?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) - Inference code for LLaMA models
 
 ## Design Tools
 
@@ -551,6 +602,7 @@ How to import bookmarks in:
 - [AI Gahaku](https://ai-art.tokyo/en/) - A masterpiece from your photos.
 - [Look Scanned - A pure frontend site that makes your PDFs look scanned! No need for printers and scanners anymore](https://lookscanned.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) - everything you need to do is just a few clicks.
 - [picofme.io](https://picofme.io/) - AI profile picture maker
+- [Lucidpic](https://lucidpic.com/) - AI Generated Stock Images of People
 
 ###### Code
 - [Pika](https://pika.style/templates/code-image) - Create beautiful code images
@@ -573,11 +625,14 @@ How to import bookmarks in:
 - [awesome-generative-deep-art](https://github.com/filipecalegario/awesome-generative-deep-art) - A curated list of generative deep learning tools, works, models, etc. for artistic uses
 - [Waifu Diffusion Demo](https://huggingface.co/spaces/hakurei/waifu-diffusion-demo) - a Hugging Face Space by hakurei
 - [Scribble Diffusion](https://scribblediffusion.com/?utm_source=theneuron) - Turn your sketch into a refined image using AI
+- [Playground AI](https://playgroundai.com/)
+- [fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) - fast-stable-diffusion + DreamBooth
 
 ###### Prompt
 - [PromptHero](https://prompthero.com/) - Search prompts for Stable Diffusion, DALL-E & Midjourney
 - [Lexica](https://lexica.art/)
 - [Prompt Hunt](https://www.prompthunt.com/) - Your home for exploring, creating, and sharing AI art
+- [MagicPrompt Stable Diffusion](https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion?utm_source=tldrai) - a Hugging Face Space by Gustavosta
 - [Palette](https://palette.fm/) - Colorize Photos.
 - [brushify.art](https://brushify.art/) - Whimsical Watercolors
 - [restorePhotos.io](https://www.restorephotos.io/) - Restoring old photos using AI for everyone.
@@ -610,6 +665,7 @@ How to import bookmarks in:
 - [free SVG generators,](https://fffuel.co/) - Web design tools & modern HTML templates
 - [vectormaker](https://vectormaker.co/) - Convert PNG-to-SVG Vectors
 - [satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
+- [Vectorizer.AI](https://vectorizer.ai/) - Trace Pixels To Vectors in Full Color, Fully Automatically, Using AI.
 - [Base64 Image Encoder](https://www.base64-image.de/)
 
 ### Font
@@ -703,6 +759,7 @@ How to import bookmarks in:
 - [cssFilters.co](https://www.cssfilters.co/) - Custom and Instagram like photo filters for CSS
 - [WAIT! Animate](https://waitanimate.wstone.uk/) - CSS doesn't provide a property to pause an animation before it loops around again. Yes, there's animation-delay but this simply denotes a delay at the very start of the animation, when the element is first shown. WAIT! Animate calculates updated keyframe percentages given a wait time meaning you can insert a delay between each animation iteration using pure CSS, without JavaScript.
 - [Haikei](https://app.haikei.app/) - A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more!
+- [Scrollbar](https://scrollbar.app/)
 
 #### Examples
 
@@ -743,6 +800,7 @@ How to import bookmarks in:
 - [Mesher Tool by CSS Hero](https://csshero.org/mesher/) - CSS mesh gradients generator
 - [GradienMood](https://gradienmood.posandu.me/) - Generate a gradient from a mood
 - [Poline](https://meodai.github.io/poline/?utm_source=hackernewsletter&utm_medium=email&utm_term=design) - Esoteric Color Palette Generation Library
+- [tints.dev](https://www.tints.dev/blue/3B82F6) - Tailwind CSS 10-color Palette Generator and API
 - [Color Hunt](https://www.colorhunt.co/?ref=producthunt) - Color Palettes for Designers and Artists
 - [Material Design Palette Generator](https://materialpalettes.com/?ref=producthunt) - Get perfect Material Design color palettes from any hex color.
 - [Eva Design System](https://colors.eva.design/?ref=producthunt) - Deep learning color generator
@@ -777,6 +835,7 @@ How to import bookmarks in:
 - [MingCute Icon](https://www.mingcute.com/) - Carefully Designed Icon Library
 - [Futicons](https://futicons.com/) - Icons for the future
 - [Slim icons](https://slimicons.com/) - Free & Open Source Icon Library
+- [Iconhunt](https://www.iconhunt.site/) - Search for open source icons, 150.000+ icons.
 
 ### Patterns
 - [Hero Patterns](https://heropatterns.com/) - Free repeatable SVG background patterns for your web projects
@@ -790,6 +849,7 @@ How to import bookmarks in:
 ### ASCII
 - [svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [vscode-lagtrain](https://github.com/Nick-Gabe/vscode-lagtrain) - Convert videos into text animation!
+- [ASCII Diag](https://danpersa.github.io/ascii-diag/)
 
 ### Music
 - [Riffusion](https://www.riffusion.com/?&prompt=a+folksy+blues+song+from+the+mississippi+delta+around+1910&seed=738973&denoising=0.75&seedImageId=og_beat) - Generate images of spectrograms, like this:
@@ -826,6 +886,7 @@ How to import bookmarks in:
 - [Substack](https://substack.com/) - A new model for publishing
 - [Hashnode](https://hashnode.com/) - Everything you need to start blogging as a developer!
 - [Medium – Where good ideas find you.](https://medium.com/)
+- [KeyPress](https://keypress.blog/) - Experience keyboard-first blogging platform
 
 ### Management
 - [tdo](https://tdoapp.com/b/cl0o3er) - Keyboard driven, hackable TODO list
@@ -851,6 +912,8 @@ How to import bookmarks in:
 ### Utils
 - [QR Code Scanner](https://qrcodescan.in/) - The fastest and most user-friendly web application.
 - [Igniter.ai](https://www.igniter.ai/ai-chatbot) - There's an AI for that!
+- [There's An AI For That](https://theresanaiforthat.com/) - Find AI Tools Using AI
+- [Make My Workout](https://makemyworkout.dev/)
 - [ai-collection - The Generative AI Landscape](https://github.com/ai-collection/ai-collection#logo-generator) - A Collection of Awesome Generative AI Applications
 - [Generate Excel Formulas](https://formulagenerator.app/) - Excel Formula Generator
 - [ThumbnailAi = Ai that Rates YouTube Thumbnails to Maximize Clicks!](https://thumbnail-ai.ybouane.com/)
@@ -876,6 +939,7 @@ How to import bookmarks in:
 - [EthicalAds](https://www.ethicalads.io/) - Privacy-preserving Ad Network for Developers
 - [Stable Attribution](https://www.stableattribution.com/) - Find the human art behind the A.I. images
 - [Graphy](https://graphy.new/) - Slick, interactive charts that make you stand out
+- [writeout.ai – Transcribe and translate any audio file](https://writeout.ai/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)
 
 ## Learn
 - [Media Bias/Fact Check](https://mediabiasfactcheck.com/) - Search and Learn the Bias of News Media
@@ -884,84 +948,51 @@ How to import bookmarks in:
 - [Wumbo](https://wumbo.net/) - Wumbo is a math reference site for students and teachers.
 - [Ground News](https://ground.news/) - Breaking News Headlines and Media Bias
 - [MEMCODE](https://www.memcode.com/) - Memorizing is hard. Let's make everything else easy.
+- [Wolfram U](https://www.wolfram.com/wolfram-u/) - Learning Resources for the Computational Universe
+- [Wiki2Map](https://www.wiki2map.com/) - Visualize Wikipedia on an interactive map
+- [Monocle](https://monocle.surge.sh/) - Monocle is a universal, personal search engine by Linus.
 - [Next Task Generator](https://taskbloom.com/)
 
-### AI
-- [CrowdView](https://crowdview.ai/) - Forum Search Engine
-- [Perplexity AI](https://www.perplexity.ai/) - Ask Anything
-- [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data
-- [Lexii.ai](https://lexii.ai/) - An AI search assistant designed to help people find information quickly and accurately.
-- [Andi](https://andisearch.com/) - Search for the next generation
-- [Neeva](https://neeva.com/) - Search powered by AI
-- [grep.app](https://grep.app/) - code search
-- [Kagi Search](https://kagi.com/) - Fast, accurate, and ad-free.
-- [CareerGPT.ai](https://careergpt.ai/)
-- [InterviewGPT.ai](https://interviewgpt.ai/)
-- [hnapp](http://hnapp.com/) - Hacker News Search With RSS & JSON Feeds
+### Subjects
+- [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) - A curated list of Python packages related to chemistry
 
-#### ChatGPT
-- [ChatGPT](https://chat.openai.com/chat) - A type of language model developed by OpenAI. It is a deep neural network that has been trained to generate human-like text by predicting the next word in a sequence, given the words that come before it.
-- [Chat GPT Prompts](https://prompto.chat/) - Share, Discover & Use the best ChatGPT prompts on the internet.
-- [ChatGPT Cheat Sheet.pdf](https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view) - Google Drive
-- [Awesome ChatGPT Prompts](https://prompts.chat/) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-- [eCommerce ChatGPT Prompts](https://www.ecommerceprompts.com/?#generator-prompt-chatgpt)
-
-### Docs
-- [DevDocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
-- [MyNixOS](https://mynixos.com/)
-
-### Cheatsheet
-- [Cheatography.com](https://www.cheatography.com/) - Cheat Sheets For Every Occasion
-- [GRID](https://grid.malven.co/) - A simple visual cheatsheet for CSS Grid Layout
-- [FLEX](https://flexbox.malven.co/) - A simple visual cheatsheet for flexbox
-
-### CS
-
-#### Courses
-- [CS50's](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Introduction to Computer Science
-- [Algorithms & Data Structures](https://frontendmasters.com/courses/algorithms/) - The Last Algorithms Course You'll Need
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
-
-##### ossu
-- [data-science](https://github.com/ossu/data-science) - Path to a free self-taught education in Data Science!
-- [computer-science](https://github.com/ossu/computer-science?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Path to a free self-taught education in Computer Science!
-- [math](https://github.com/ossu/math/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites)
-- [The Algorithms](https://github.com/TheAlgorithms) - Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
-- [Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮 A collection of resources to learn mathematics for machine learning
-- [awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) - Curated list of awesome software for numerical analysis and scientific computing
-- [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#in-english) - A curated list of podcasts we like to listen to.
-
-### Maths
+#### Maths
 - [rossant/awesome-math: A curated list of awesome mathematics resources](https://github.com/rossant/awesome-math#youtube-series)
 - [Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
+- [Projects](https://www.diegovera.org/projects?utm_source=hackernewsletter&utm_medium=email&utm_term=learn) - DIEGO VERA
 
-#### Problems
+##### Problems
 - [MATHCOUNTS Foundation](https://www.mathcounts.org/resources/problem-week-archive) - PROBLEM OF THE WEEK ARCHIVE
 - [Art of Problem Solving](https://artofproblemsolving.com/wiki/index.php/American_Mathematics_Competitions)
 
-#### Programming
+##### Programming
 - [Mathics](https://mathics.org/)
 - [The Julia Programming Language](https://julialang.org/)
-- [Wolfram Language](https://www.wolfram.com/language/) - Programming Language + Built-In Knowledge
 - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 - [awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) - Curated list of awesome software for numerical analysis and scientific computing
+- [CortexJS](https://cortexjs.io/)
 
-#### LaTeX
+###### Wolfram
+- [Wolfram Language](https://www.wolfram.com/language/) - Programming Language + Built-In Knowledge
+- [Wolfram Client Library for Python](https://reference.wolfram.com/language/WolframClientForPython/) - Wolfram Client Library for Python 1.1.0 documentation
+- [Mathematica Add-Ons](https://www.wolfram.com/products/applications/)
+- [Wolfram Language Tutorial](https://www.wolfram.com/language/fast-introduction-for-programmers/en/) - Fast Introduction for Programmers
+- [Wolfram Cloud](https://www.wolframcloud.com/)
+
+##### LaTeX
 - [OeisWiki](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) - List of LaTeX mathematical symbols
 - [LaTeX Mathematics for Undergraduates](https://joshua.smcvt.edu/undergradmath/) - This is a cheat sheet for writing mathematics with LATEX. It is aimed at undergraduates.
 - [KaTeX](https://katex.org/docs/supported.html) - Supported Functions
 - [Detexify](https://detexify.kirelabs.org/classify.html) - LaTeX handwritten symbol recognition
 
-#### Calculator
+##### Calculator
 - [Tiger Algebra](https://www.tiger-algebra.com/) - A Free, Online Algebra Solver and Calculator
 - [Mathforyou](https://mathforyou.net/en/) - Online integrals, derivatives, equations calculators
 - [Simplify](https://quickmath.com/webMathematica3/quickmath/algebra/simplify/basic.jsp) - Simplify radical,rational expression with Step-by-Step Math Problem Solver
 - [Microsoft Math Solver](https://mathsolver.microsoft.com/en) - Math Problem Solver & Calculator
 - [Notepad Calculator](https://notepadcalculator.com/about)
 
-#### Info
+##### Info
 - [I Love Maths](https://ilovemaths.com/) - A complete, Indian site on Maths
 - [BetterExplained – Math lessons that click](https://betterexplained.com/)
 - [PlanetMath.org](https://planetmath.org/)
@@ -974,6 +1005,99 @@ How to import bookmarks in:
 - [Math is Fun](https://www.mathsisfun.com/) - Offer mathematics in an enjoyable and easy-to-learn manner, because we believe that mathematics is fun.
 - [Pauls Online Math Notes](https://tutorial.math.lamar.edu/)
 - [The Math You Need](https://learnaifromscratch.github.io/themathyouneed.html)
+
+#### CS
+
+##### Courses
+- [CS50's](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Introduction to Computer Science
+- [Algorithms & Data Structures](https://frontendmasters.com/courses/algorithms/) - The Last Algorithms Course You'll Need
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+
+###### ossu
+- [data-science](https://github.com/ossu/data-science) - Path to a free self-taught education in Data Science!
+- [computer-science](https://github.com/ossu/computer-science?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Path to a free self-taught education in Computer Science!
+- [math](https://github.com/ossu/math/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites)
+- [The Algorithms](https://github.com/TheAlgorithms) - Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
+- [Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮 A collection of resources to learn mathematics for machine learning
+- [awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) - Curated list of awesome software for numerical analysis and scientific computing
+- [awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#in-english) - A curated list of podcasts we like to listen to.
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/?utm_source=tldrnewsletter)
+
+#### Data Science
+- [Python-for-Scientists](https://github.com/TomNicholas/Python-for-Scientists) - A list of recommended Python libraries, and resources, intended for scientific Python users.
+- [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably the best curated list of data science software in Python.
+
+### AI
+- [Big AI List](https://bigailist.com/) - Useful collection of most notable AI companies, blogs and links
+- [CrowdView](https://crowdview.ai/) - Forum Search Engine
+- [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data
+- [grep.app](https://grep.app/) - code search
+- [Phind](https://www.phind.com/) - The AI search engine for developers.
+
+#### Prompt Engineering
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) - Guides, papers, lecture, and resources for prompt engineering
+- [Promptify](https://promptify.pro/) - Generating beautifull prompts
+
+#### Specialized
+- [What On Earth?](https://www.whatonearth.xyz/) - Search the internet
+- [InterviewGPT.ai](https://interviewgpt.ai/)
+- [hnapp](http://hnapp.com/) - Hacker News Search With RSS & JSON Feeds
+- [CareerGPT.ai](https://careergpt.ai/)
+- [LookUpYC](https://lookup-yc.herokuapp.com/) - Streamlit
+- [Census GPT](https://censusgpt.com/)
+- [Adrenaline](https://useadrenaline.com/playground) - I'm an AI assistant that can help debug your code. What seems to be the problem?
+- [Only.Coms](https://onlycoms.com/) - AI-generated .com domains for your next project.
+
+##### PDF
+- [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF!
+- [MapDeduce](https://mapdeduce.com/) - Understand your documents
+
+#### Jailbreak
+- [www.jamessawyer.co.uk/pub/gpt_jb.html](http://www.jamessawyer.co.uk/pub/gpt_jb.html)
+- [Jailbreak Chat](https://www.jailbreakchat.com/)
+- [Prompt Vibes](https://www.promptvibes.com/)
+
+#### Search
+- [Neeva](https://neeva.com/) - Search powered by AI
+- [Andi](https://andisearch.com/) - Search for the next generation
+- [Perplexity AI](https://www.perplexity.ai/) - Ask Anything
+- [Kagi Search](https://kagi.com/) - Fast, accurate, and ad-free.
+
+#### Chat
+- [Poe](https://poe.com/login) - Fast, Helpful AI Chat
+- [Chat to linguaGPT](https://linguagpt.com/en/chat/)
+- [Lexii.ai](https://lexii.ai/) - An AI search assistant designed to help people find information quickly and accurately.
+
+##### ChatGPT
+- [ChatGPT](https://chat.openai.com/chat) - A type of language model developed by OpenAI. It is a deep neural network that has been trained to generate human-like text by predicting the next word in a sequence, given the words that come before it.
+- [Chat GPT Prompts](https://prompto.chat/) - Share, Discover & Use the best ChatGPT prompts on the internet.
+- [ChatGPT Cheat Sheet.pdf](https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view) - Google Drive
+- [Awesome ChatGPT Prompts](https://prompts.chat/) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [eCommerce ChatGPT Prompts](https://www.ecommerceprompts.com/?#generator-prompt-chatgpt)
+
+#### Person
+- [Ask Seneca](https://seneca.dylancastillo.co/) - Learn about Stoicism from the Most Popular Stoic
+- [Presidents dAI](https://presidentsdai.com/)
+- [Character.AI](https://beta.character.ai/help?) - Character.AI is bringing to life the science-fiction dream of open-ended conversations and collaborations with computers.
+
+#### AI Detector
+- [GPTZero](https://gptzero.me/) - The World's #1 AI Detector with over 1 Million Users
+- [AI Content Detector Checks GPT-3, ChatGPT, & More for Free](https://contentatscale.ai/ai-content-detector/)
+- [Writer](https://writer.com/ai-content-detector/) - AI Content Detector | GPT-3 | ChatGPT
+- [corrector.app - AI Detector & Chat GPT Detector (Free)](https://corrector.app/ai-content-detector/) - #1 AI Checker 2023
+- [Copyleaks](https://copyleaks.com/ai-content-detector) - AI Content Detector | AI Detector
+
+### Docs
+- [DevDocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
+- [MyNixOS](https://mynixos.com/)
+
+### Cheatsheet
+- [Cheatography.com](https://www.cheatography.com/) - Cheat Sheets For Every Occasion
+- [GRID](https://grid.malven.co/) - A simple visual cheatsheet for CSS Grid Layout
+- [FLEX](https://flexbox.malven.co/) - A simple visual cheatsheet for flexbox
+- [QuickRef.ME](https://quickref.me/) - Quick Reference Cheat Sheet
 
 ### Papers
 
@@ -1013,6 +1137,7 @@ How to import bookmarks in:
 - [Browse Standard Ebooks](https://standardebooks.org/ebooks) - Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.
 - [Authorama](http://authorama.com/) - Public Domain Books
 - [Manybooks](https://manybooks.net/) - 50,000+ Free eBooks in the Genres you Love
+- [GoalKicker.com](https://goalkicker.com/) - Free Programming Books
 
 #### List
 - [RustBooks](https://github.com/sger/RustBooks?utm_source=hackernewsletter&utm_medium=email&utm_term=books) - List of Rust books
@@ -1023,15 +1148,9 @@ How to import bookmarks in:
 - [Talk to Books](https://books.google.com/talktobooks/) - Browse passages from books using experimental AI
 
 ## Miscellaneous
-
-### Anime
-- [This Waifu Does Not Exist v3.5 (TWDNEv3.5)](https://www.thiswaifudoesnotexist.net/index.html) - Gwern
-- [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/)
-- [Pokemon Deckz](https://deck-24abcd.netlify.app/)
 - [musicForProgramming();](https://musicforprogramming.net/) - Datassette presents a series of mixes intended for listening while programming to focus the brain and inspire the mind (also compatible with other activities).
 - [Notable people](https://tjukanovt.github.io/notable-people) - Using data from Morgane Laouenan et al., the map is showing birthplaces of the most "notable people" around the world. Data has been processed to show only one person for each unique geographic location with the highest notability rank. Click below to show people only from a specific category.
 - [The Death Clock](https://www.death-clock.org/results.php) - Calculate When Will I Die?
-- [Character.AI](https://beta.character.ai/help?) - Character.AI is bringing to life the science-fiction dream of open-ended conversations and collaborations with computers.
 - [Wikipedia Speedruns!](https://wikispeedruns.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun)
 - [RSS Club](https://daverupert.com/rss-club/) - daverupert.com
 - [newton](https://newton.vercel.app/) - A really micro micro-service for advanced math.
@@ -1048,12 +1167,20 @@ How to import bookmarks in:
 - [The GPT Times](https://the-gpt-times.eriks-studio.repl.co/)
 - [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/) - Original Prusa 3D printers directly from Josef Prusa
+- [background.lol](https://www.background.lol/) - Create AI wallpapers in seconds!
+- [QDB: Quote Database Home](http://bash.org/)
+- [Rectangles](https://rectangles.app/)
+- [How Many People Are In Space Right Now?](https://www.howmanypeopleareinspacerightnow.com/)
+- [RoomGPT](https://www.roomgpt.io/)
+- [AutoDraw](https://www.autodraw.com/?ref=ai-zing-news-with-ava)
 
-## Games
+## Entertainment
+
+### Games
 - [magictools](https://github.com/ellisonleao/magictools) - A list of Game Development resources to make magic happen.
 - [awesome-game-engine-dev](https://github.com/stevinz/awesome-game-engine-dev) - Awesome list of resources for Game Engine Development.
 
-### Collection
+#### Collection
 - [webЯcade](https://play.webrcade.com/) - Feed-driven Gaming
 - [js13kGames](https://js13kgames.com/) - A JavaScript coding competition for HTML5 Game Developers running yearly since 2012.
 - [PACKABUNCHAS](https://js13kgames.com/entries/packabunchas) - You are Spacey, from the PACKABUNCHAS, a group of space rangers specialized in packing and rescuing creatures around the galaxy!
@@ -1082,3 +1209,23 @@ How to import bookmarks in:
 - [Citybound](https://aeplay.org/citybound) - A city building game that uses microscopic models to vividly simulate the organism of a city arising from the interactions of millions of individuals.
 - [Chronophoto](https://www.chronophoto.app/game.html) - Game
 - [Poison Ivy Quiz – bird and moon](https://www.birdandmoon.com/poisonivy/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn)
+
+### Anime
+- [AllAnime - All About Anime,Manga](https://allanime.to/) - AllAnime
+- [chiaki.site](https://chiaki.site/) - A set of services based on aggregated anime data.
+
+#### Manga
+- [MangaDex](https://mangadex.org/)
+- [🚀 ComicK.fun](https://comick.fun/)
+
+#### Novel
+- [Novel Updates](https://www.novelupdates.com/)
+- [Free Web Novel](https://freewebnovel.com/)
+- [server.elscione.com](https://server.elscione.com/)
+
+#### Related
+- [This Waifu Does Not Exist v3.5 (TWDNEv3.5)](https://www.thiswaifudoesnotexist.net/index.html) - Gwern
+- [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/)
+- [Pokemon Deckz](https://deck-24abcd.netlify.app/)
+- [Mycelebs](https://deepsearch.mycelebs.com/movie) - Movie Deep Search​
+- [BeatBot](https://beatbot.fm/?prompt=follow%20skotox%20on%20instagram)
