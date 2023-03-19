@@ -331,6 +331,8 @@ How to import bookmarks in:
 - [codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [Numba](https://numba.pydata.org/?utm_source=tldrnewsletter) - A High Performance Python Compiler
 - [PyPy](https://www.pypy.org/) - A fast, compliant alternative implementation of Python
+- [codon](https://github.com/exaloop/codon?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) - A high-performance, zero-overhead, extensible Python compiler using LLVM
+- [| Quantified Self Experiments](https://blog.kto.to/)
 
 #### System
 
