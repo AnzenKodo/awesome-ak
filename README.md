@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Awesome list of awesome website from my bookmarks. Download bookmarks also.
+undefined
 
 <div align="center">
 <a href="https://anzenkodo.github.io/awesome/bookmark.html" download>
@@ -1035,7 +1035,6 @@ How to import bookmarks in:
 - [CrowdView](https://crowdview.ai/) - Forum Search Engine
 - [Datasette](https://datasette.io/) - An open source multi-tool for exploring and publishing data
 - [grep.app](https://grep.app/) - code search
-- [Phind](https://www.phind.com/) - The AI search engine for developers.
 
 #### Prompt Engineering
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) - Guides, papers, lecture, and resources for prompt engineering
@@ -1061,6 +1060,7 @@ How to import bookmarks in:
 - [Prompt Vibes](https://www.promptvibes.com/)
 
 #### Search
+- [Phind](https://www.phind.com/) - The AI search engine for developers.
 - [Neeva](https://neeva.com/) - Search powered by AI
 - [Andi](https://andisearch.com/) - Search for the next generation
 - [Perplexity AI](https://www.perplexity.ai/) - Ask Anything
