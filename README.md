@@ -1070,6 +1070,7 @@ How to import bookmarks in:
 - [Poe](https://poe.com/login) - Fast, Helpful AI Chat
 - [Chat to linguaGPT](https://linguagpt.com/en/chat/)
 - [Lexii.ai](https://lexii.ai/) - An AI search assistant designed to help people find information quickly and accurately.
+- [HuggingChat](https://huggingface.co/chat/)
 
 ##### ChatGPT
 - [ChatGPT](https://chat.openai.com/chat) - A type of language model developed by OpenAI. It is a deep neural network that has been trained to generate human-like text by predicting the next word in a sequence, given the words that come before it.
