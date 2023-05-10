@@ -1131,8 +1131,8 @@ How to import bookmarks in:
 - [KUPDF - Free document sharing platform](https://kupdf.net/) - Upload and share
 - [Engineering Books PDF](https://engineeringbookspdf.com/) - Download Free Past Papers, PDF Notes, Manuals & Templates, we have 4485 Books & Templates for free |
 - [Technical Books Pdf](https://www.technicalbookspdf.com/) - Download Free PDF Books, Notes and Manuals for Study
-- [O'Reilly's CD bookshelf](https://docstore.mik.ua/orelly/bookshelfs.html)
 - [Anna’s Archive](https://annas-archive.org/)
+- [O'Reilly's CD bookshelf](https://docstore.mik.ua/orelly/bookshelfs.html)
 
 #### Officals
 - [Project Gutenberg](https://www.gutenberg.org/) - Free eBooks
