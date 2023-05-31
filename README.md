@@ -876,12 +876,18 @@ How to import bookmarks in:
 - [Hemingway Editor](https://hemingwayapp.com/) - Hemingway App makes your writing bold and clear. The app highlights lengthy, complex sentences and common errors; if you see a yellow sentence, shorten or split it.
 - [EasyWrite](https://easywrite.parishod.com/) - Write clearly using only 1,000 commonly used words
 - [LanguageTool](https://languagetool.org/) - Online Grammar, Style & Spell Checker
-- [Monkeytype](https://monkeytype.com/about) - A minimalistic typing test, featuring many test modes, an account system to save your typing speed history and user configurable features like themes, a smooth caret and more.
-- [cybertype - Fast and Minimal Typing App](https://cybertype.app/) - Improve your typing speed.
 - [Bike](https://www.hogbaysoftware.com/posts/bike-rich-text/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) - Innovative Rich Text Editing
 - [GitHub1s](https://github1s.com/) - One second to read GitHub code with VS Code.
 - [NoPaste](https://nopaste.ml/) - A open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing
 - [Lex](https://lex.page/~) - Unlock your best writing
+
+#### Typing
+- [cybertype - Fast and Minimal Typing App](https://cybertype.app/) - Improve your typing speed.
+- [SpeedTyper.dev](https://www.speedtyper.dev/) - Typing practice for programmers
+- [Monkeytype](https://monkeytype.com/about) - A minimalistic typing test, featuring many test modes, an account system to save your typing speed history and user configurable features like themes, a smooth caret and more.
+- [Typing Tom](https://www.typingtom.com/) - Free Online Touch Typing Practice
+- [Ele Types](https://www.eletypes.com/) - An elegant typing test website
+- [10FastFingers.com](https://10fastfingers.com/widget/typingtest?dur=600&rand=1&words=A%20superheterodyne%20receiver%20is%20a%20type%20of%20radio%20receiver%20that%20converts%20the%20incoming%20radio%20signal%20to%20a%20lower%20frequency,%20amplifies%20the%20signal%20at%20that%20frequency,%20and%20then%20demodulates%20the%20signal%20to%20recover%20the%20original%20audio%20signal.) - Build your own Typing Test, Customize words, duration, randomness and more!
 
 #### Platforms
 - [beehiiv — The newsletter platform built for growth](https://www.beehiiv.com/?via=turner&_gl=1*8bw0v4*_ga*Mjc3NjI2MzU3LjE2NjE3OTE4Nzg.*_ga_E6Y4WLQ2EC*MTY3MzUzMjAyOS40NzQuMS4xNjczNTMyMTYwLjUxLjAuMA..&_ga=2.58888877.1817931931.1673154543-277626357.1661791878)
