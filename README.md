@@ -92,6 +92,7 @@ How to import bookmarks in:
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 
 ### Languages
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 
 #### Programming
 - [Haxe](https://haxe.org/) - The Cross-platform Toolkit
@@ -458,6 +459,7 @@ How to import bookmarks in:
 ### Protocol
 - [Lens Protocol](https://www.lens.xyz/) - Building a social network is hard. Lens Protocol makes it easy.
 - [The AT Protocol](https://atproto.com/) - Social networking technology created by Bluesky
+- [remoteStorage](https://remotestorage.io/) - Open protocol for per-user storage on the Web
 
 ### Tools
 - [Sourcegraph](https://sourcegraph.com/search)
@@ -512,6 +514,7 @@ How to import bookmarks in:
 - [Fly](https://fly.io/) - Deploy app servers close to your users.
 - [Railway](https://railway.app/) - Bring your code, we'll handle the rest.
 - [Supabase](https://supabase.com/) - The Open Source Firebase Alternative.
+- [5apps](https://5apps.com/) - An excellent home for your JavaScript apps and static sites.
 
 #### Database
 - [PlanetScale](https://planetscale.com/) - The world’s most advanced database platform
@@ -564,6 +567,7 @@ How to import bookmarks in:
 - [ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [Civitai](https://civitai.com/)
 - [llama](https://github.com/facebookresearch/llama?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily) - Inference code for LLaMA models
+- [xenova/transformers.js: Run 🤗 Transformers in your browser!](https://github.com/xenova/transformers.js?utm_source=tldrnewsletter)
 
 ## Design Tools
 
@@ -605,6 +609,7 @@ How to import bookmarks in:
 - [Look Scanned - A pure frontend site that makes your PDFs look scanned! No need for printers and scanners anymore](https://lookscanned.io/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) - everything you need to do is just a few clicks.
 - [picofme.io](https://picofme.io/) - AI profile picture maker
 - [Lucidpic](https://lucidpic.com/) - AI Generated Stock Images of People
+- [Recraft](https://www.recraft.ai/?ref=producthunt) - Generate vector art, 3D images and more
 
 ###### Code
 - [Pika](https://pika.style/templates/code-image) - Create beautiful code images
@@ -871,6 +876,7 @@ How to import bookmarks in:
 - [Truecaller](https://www.truecaller.com/) - Leading Global Caller ID & Call Blocking App
 - [FarApps](https://farapps.farcase.xyz/)
 - [Pashword](https://pashword.app/) - Passwords Done Right
+- [ArchiveBox | 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more…](https://archivebox.io/)
 
 ### Writing
 - [Hemingway Editor](https://hemingwayapp.com/) - Hemingway App makes your writing bold and clear. The app highlights lengthy, complex sentences and common errors; if you see a yellow sentence, shorten or split it.
@@ -919,8 +925,17 @@ How to import bookmarks in:
 
 ### Utils
 - [QR Code Scanner](https://qrcodescan.in/) - The fastest and most user-friendly web application.
+
+### Productivity
+- [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
+- [beeminder](https://www.beeminder.com/) - Solving the self-control problem
+- [Habitica](https://habitica.com/static/home) - Gamify Your Life
+- [OpenTracksApp](https://opentracksapp.com/) - A sport tracker buddy that respects your privacy.
+- [Emoji Log](https://emojilog.rosano.ca/)
 - [Igniter.ai](https://www.igniter.ai/ai-chatbot) - There's an AI for that!
+- [RoadGoat](https://www.roadgoat.com/) - Find your perfect travel place
 - [There's An AI For That](https://theresanaiforthat.com/) - Find AI Tools Using AI
+- [AskMeEvery](https://www.askmeevery.com/) - Simple, effortless collection of personal data
 - [Make My Workout](https://makemyworkout.dev/)
 - [ai-collection - The Generative AI Landscape](https://github.com/ai-collection/ai-collection#logo-generator) - A Collection of Awesome Generative AI Applications
 - [Generate Excel Formulas](https://formulagenerator.app/) - Excel Formula Generator
