@@ -1,6 +1,8 @@
-const json = await fetch(
-  "https://raw.githubusercontent.com/AnzenKodo/dotfiles/master/browser/Bookmarks.bak",
-).then((res) => res.json());
+const bookmarksUrl = await fetch("https://AnzenKodo.github.io/api/ak.json")
+  .then((res) => res.json())
+  .then((res) => res.api.bookmarks);
+
+const json = await fetch(bookmarksUrl).then((res) => res.json());
 
 const obj = json.roots.bookmark_bar.children;
 const bookmarks = obj.filter((val) => val.id === "127");
