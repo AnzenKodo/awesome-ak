@@ -709,7 +709,6 @@ How to import bookmarks in:
 - [Vanilla CSS](https://vanillacss.com/) - A minimal baseline stylesheet for any web project
 - [98.css](https://jdan.github.io/98.css/) - A design system for building faithful recreations of old UIs
 - [Bolt.css](https://boltcss.com/?utm_source=tldrnewsletter) - Styles for HTML Elements. Providing a mostly-reasonable set of styles without classes.
-- [awsm.css](https://igoradamenko.github.io/awsm.css/) - A CSS library for beautify semantic HTML markup without classes, attributes, etc. Use tags only.
 - [Tufte CSS](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [missing.css](https://missing.style/)
 - [Pure](https://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
@@ -719,9 +718,9 @@ How to import bookmarks in:
 - [PSone.css](https://micah5.github.io/PSone.css/)
 - [RippleUI](https://www.ripple-ui.com/) - TailwindCSS Components
 - [bamboo](https://rilwis.github.io/bamboo/) - A classless CSS library which adds nice default style for all HTML elements. It saves you a lot of time when you need to style HTML for your HTML/React/Vue demo on CodePen/CodeSandbox. It can also be used as a base style for your blog/website.
-- [Mdash](https://m-docs.org/) - Intends to leverage HTML, not replace it or try to outsmart it.
 - [Amigo CSS](https://amigocss.com/index.php?content=philosophy#documentation) - A Simple CSS Framework for CSS Lovers
 - [Paper Prototype CSS](https://edent.gitlab.io/paper-prototype-css/)
+- [Pico.css](https://picocss.com/) - Minimal CSS Framework for semantic HTML
 
 #### Libraries
 - [Animista](https://animista.net/?ref=producthunt) - CSS Animations on Demand
